@@ -50,3 +50,5 @@ Guidelines - Land Titles (Strata) Act
 
 Guidelines for collective sale applications under Part VA of the Land Titles (Strata) Act
 * [Registrar's Circular 1/2009 on Stamping of Agreements  Related to the Collective Sale of Property under the Land Titles (Strata) Act, Part VA (PDF, 46 KB)](/files/Guidelines/registrars-circular-12009.pdf)
+* Registrar's Circular 1/2004
+* [Sample of Advertisement in English referred to in The First Schedule of the Land Titles (Strata) Act (PDF, 32 KB)]()
