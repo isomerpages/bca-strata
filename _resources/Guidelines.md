@@ -16,3 +16,4 @@ General guidance for persons entitled to apply and possible Respondents. Applica
 **Notes of Guidance for Form 9 (MCST)**
 
 General guidance for persons entitled to apply and possible Respondents. Applicants should refer to actual provisions in the Act for their full meaning and effect. If unsure, Applicants should seek independent legal advice.
+[Notes of Guidance for Form 9 (MCST)](/files/Guidelines/notes-of-guidance-for-form-9(mcst).pdf)
