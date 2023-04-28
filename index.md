@@ -24,12 +24,6 @@ sections:
         - title: FAQs
           description: ""
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: News & Judgements
       button: Read More
