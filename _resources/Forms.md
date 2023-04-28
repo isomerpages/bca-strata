@@ -47,3 +47,9 @@ These forms apply to an application under Part VI of the Building Maintenance an
 **Consent to Withdrawal of Application Form**
 
 [Consent to Withdrawal of Application Form](/files/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
+
+Forms under Part VA of the Land Titles (Strata) Act
+---------------------------------------------------
+
+These forms apply to an application under Part VA of the Land Titles (Strata) Act.
+
