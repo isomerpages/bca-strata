@@ -60,3 +60,15 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 **Affidavit of Service**
 
 [Form No. 21A](/files/Forms/form-21a.pdf)
+
+**Application for an Order under Section 84C**
+
+[Form No. 22](/files/Forms/form-22.pdf)
+
+**Application for an Order under Section 84C read with Section 84D or 84E**
+
+[Form No. 23](/files/Forms/form-23.pdf)
+
+**Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**
+
+[Form No. 24](/files/Forms/form-24.pdf)
