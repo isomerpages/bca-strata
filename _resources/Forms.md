@@ -72,3 +72,25 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**
 
 [Form No. 24](/files/Forms/form-24.pdf)
+
+**Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**
+
+[Form No. 25](/files/Forms/form-25.pdf)
+
+**Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)
+**
+
+[Form No. 26](/files/Forms/form26.pdf)
+
+**Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)
+**
+
+[Form No. 27](/files/Forms/form27.pdf)
+
+**Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)
+**
+
+[Form No. 28](/files/Forms/form28.pdf)
+Notice Served Pursuant to Paragraph 1(b) of the First Schedule
+
+Land Titles (Strata) (Notice of Rescission) Regulations 2007**
