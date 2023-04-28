@@ -17,13 +17,13 @@ sections:
       key_highlights:
         - title: Resources
           description: ""
-          url: https://staging.d1gaaywk86e2om.amplifyapp.com/resources/
+          url: /resources/
         - title: Useful links
           description: ""
-          url: https://staging.d1gaaywk86e2om.amplifyapp.com/useful-links/
+          url: /useful-links/
         - title: FAQs
           description: ""
-          url: /privacy/
+          url: /faq/
   - resources:
       title: News & Judgements
       button: Read More
