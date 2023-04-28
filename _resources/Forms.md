@@ -91,6 +91,11 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 **
 
 [Form No. 28](/files/Forms/form28.pdf)
-Notice Served Pursuant to Paragraph 1(b) of the First Schedule
 
-Land Titles (Strata) (Notice of Rescission) Regulations 2007**
+**Notice Served Pursuant to Paragraph 1(b) of the First Schedule**
+
+[Form No. 30](/files/Forms/form30.pdf)
+
+**Land Titles (Strata) (Notice of Rescission) Regulations 2007**
+
+[Land Titles (Strata) (Notice of Rescission) Regulations 2007](/files/Forms/lt(s)a_reg_-_rescission_notice.pdf)
