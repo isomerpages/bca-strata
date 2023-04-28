@@ -53,3 +53,11 @@ Forms under Part VA of the Land Titles (Strata) Act
 
 These forms apply to an application under Part VA of the Land Titles (Strata) Act.
 
+**Application for Collective Sale Order**
+
+[Form No. 21](/files/form-21.pdf)
+
+**Affidavit of Service**
+
+[Form No. 21A](/files/form-21a.pdf)
+
