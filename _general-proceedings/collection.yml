@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  general-proceedings:
     output: true
     order:
       - folder-page.md
