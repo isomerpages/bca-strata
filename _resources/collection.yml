@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Fees.md
       - Forms.md
       - Guidelines.md
       - Acts or Regulations.md
