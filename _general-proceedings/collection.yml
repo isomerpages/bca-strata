@@ -2,6 +2,7 @@ collections:
   general-proceedings:
     output: true
     order:
+      - Hearing.md
       - Mediation.md
       - Application.md
       - example-subfolder/.keep
