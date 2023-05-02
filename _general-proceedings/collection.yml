@@ -2,6 +2,7 @@ collections:
   general-proceedings:
     output: true
     order:
+      - Post hearing.md
       - Hearing.md
       - Mediation.md
       - Application.md
