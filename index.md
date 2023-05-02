@@ -13,7 +13,7 @@ sections:
       subtitle: A world class and respectable tribunal built on Society’s Trust and
         for Betterment of community living
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Learn more about general proceedings
       url: /contact-us/
       key_highlights:
         - title: Resources
