@@ -2,6 +2,6 @@ collections:
   general-proceedings:
     output: true
     order:
-      - folder-page.md
+      - Application.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
