@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Judgements.md
-      - Example Title.md
       - FAQs.md
       - Fees.md
       - Forms.md
