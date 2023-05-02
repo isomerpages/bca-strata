@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - News and Judgements/.keep
       - Acts or Regulations.md
       - FAQs.md
       - Fees.md
