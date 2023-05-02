@@ -28,7 +28,7 @@ The Applicant is required to print out and complete the withdrawal of applicatio
 Please note that the Respondent can only complete the consent to withdrawal of application form after the Applicant has filed his/her completed withdrawal of application form.
 [Consent to Withdrawal of Application Form (Respondent)](/files/Guidelines/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
 
-Sample Letter of Authorisation (Personal Capacity)
+**Sample Letter of Authorisation (Personal Capacity)**
 
 A sample letter of authorisation (“LOA”) to authorise a representative to attend proceedings on behalf of an Applicant/Respondent who is a **natural person** (i.e. not a corporate entity).  
   
