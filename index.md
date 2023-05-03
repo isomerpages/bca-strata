@@ -13,7 +13,7 @@ sections:
       subtitle: A world class and respectable tribunal built on Society’s Trust and
         for Betterment of community living
       button: Learn more about general proceedings
-      url: /general-proceedings/application
+      url: /general-proceedings
       key_highlights:
         - title: Resources
           description: ""
