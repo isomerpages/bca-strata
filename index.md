@@ -12,7 +12,6 @@ sections:
       title: Strata Titles Boards
       subtitle: A world class and respectable tribunal built on Society’s Trust and
         for Betterment of community living
-      background: /images/strata-board.jpg
       button: Learn more about general proceedings
       url: /contact-us/
       key_highlights:
