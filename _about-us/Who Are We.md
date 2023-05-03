@@ -30,17 +30,3 @@ The Registry team is supported by registry staff (case officers) who assists wit
 ### Ministry of National Development
 
 The BMSMA and its subsidiary legislations comes under the purview of the Ministry of National Development (MND). As part of MND’s responsibility to provide services to the community, the Strata Titles Boards were established under the BMSMA. The Act is administered by the Building and Construction Authority (BCA), which comes under the purview of MND.
-# **Mission, Vision and Values**
-### Our Vision
-
-A world class and respectable tribunal built on Society’s Trust and for Betterment of community living
-
-### Our Mission
-
-Serving the community by facilitating and reconciling all disputes effectively & expeditiously Through our Best endeavours
-
-### Our Core Values
-
-*   Service to the public
-*   Transparent and impartial
-*   Building trust and upholding cohesiveness in strata living
