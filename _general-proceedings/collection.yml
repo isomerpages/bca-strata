@@ -2,9 +2,9 @@ collections:
   general-proceedings:
     output: true
     order:
-      - Post hearing.md
-      - Hearing.md
-      - Mediation.md
       - Application.md
+      - Mediation.md
+      - Hearing.md
+      - Post hearing.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
