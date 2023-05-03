@@ -24,7 +24,7 @@ sections:
         - title: FAQs
           description: ""
           url: /faq/
-      background: /images/strata-board.jpg
+      background: /images/image-background-3.jpg
   - resources:
       title: News & Judgements
       button: Read More
