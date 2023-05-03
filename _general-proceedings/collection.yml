@@ -2,8 +2,8 @@ collections:
   general-proceedings:
     output: true
     order:
-      - Pre filling Assessment Tool.md
       - Application.md
       - Mediation.md
       - Hearing.md
       - Post hearing.md
+      - Pre filling Assessment Tool.md
