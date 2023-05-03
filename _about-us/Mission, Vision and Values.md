@@ -5,11 +5,11 @@ description: Learn about STB's role, organisation structure and more.
 ---
 ### Our Vision
 
-A world class and respectable tribunal built on Society’s Trust and for Betterment of community living
+A world class and respectable tribunal built on society’s trust and for betterment of community living
 
 ### Our Mission
 
-Serving the community by facilitating and reconciling all disputes effectively & expeditiously Through our Best endeavours
+Serving the community by facilitating and reconciling all disputes effectively & expeditiously through our best endeavours
 
 ### Our Core Values
 
