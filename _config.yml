@@ -2,15 +2,15 @@ title: Strata Titles Boards
 url: https://www.stratatb.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#3a43c3"
-  secondary-color: "#525df1"
+  primary-color: "#20289c"
+  secondary-color: "#e47e1f"
   media-colors:
     - title: media-color-one
       color: "#a4db63"
     - title: media-color-two
-      color: "#f6dc6d"
+      color: "#454596"
     - title: media-color-three
-      color: "#ffed81"
+      color: "#f3d03d"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
