@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Strata Title Board
+agency_name: Strata Title Boards
 locations:
   - address:
       - 45 Maxwell Road
