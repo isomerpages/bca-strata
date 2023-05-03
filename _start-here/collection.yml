@@ -2,10 +2,10 @@ collections:
   start-here:
     output: true
     order:
+      - General Proceedings of Strata Titles Boards.md
       - Application/.keep
       - Application/Applicant.md
       - Application/Respondent.md
-      - General Proceedings of Strata Titles Boards.md
       - Mediation.md
       - Hearing.md
       - Post Hearing.md
