@@ -4,7 +4,6 @@ collections:
     order:
       - Application/.keep
       - General Proceedings of Strata Titles Boards.md
-      - Application.md
       - Mediation.md
       - Hearing.md
       - Post Hearing.md
