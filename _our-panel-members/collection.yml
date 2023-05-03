@@ -1,0 +1,4 @@
+collections:
+  our-panel-members:
+    output: true
+    order: []
