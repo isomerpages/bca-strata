@@ -10,7 +10,7 @@ Common disputes brought before the Boards include those on inter-floor water lea
 
 As a neutral tribunal, the Strata Titles Boards does not advise one party against the other nor provide legal advice on any matter which may potentially be heard before it.
 
-![](/images/Panel%20members/strata-titles-boards.jpg)
+![](/images/strata-titles-boards.jpg)
 
 # **Organisation Structure**
 ### Board Members
