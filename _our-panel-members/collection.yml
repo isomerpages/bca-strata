@@ -1,4 +1,5 @@
 collections:
   our-panel-members:
     output: true
-    order: []
+    order:
+      - Our Panel Members.md
