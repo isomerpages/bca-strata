@@ -65,11 +65,3 @@ Miscellaneous Fees
 | -------- | -------- | -------- |
 | 1  | For supplying a copy of a document | $1 per page |   
 | 2  | For certification of a copy of a document | $5 |
-
-
-
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
