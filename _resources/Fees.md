@@ -10,6 +10,7 @@ A list of fees payable by the Applicant in relation to an application to the Str
 
 Application Fees
 ----------------
+No fee shall be payable for the first 2 attendances before a Board. Fees are payable from the third attendance onwards.
 | No.  | Item | Fee (in S$) |
 | -------- | -------- | -------- |
 | 1     | On filing an application under Division 2 of Part VI of the Building Maintenance and Strata Management Act  | $500 |
@@ -63,4 +64,4 @@ Miscellaneous Fees
 | No.  | Item | Fee (in S$) |
 | -------- | -------- | -------- |
 | 1  | For supplying a copy of a document | $1 per page |   
-| 2  | For certification of a copy of a document | $5 |   
+| 2  | For certification of a copy of a document | $5 |
