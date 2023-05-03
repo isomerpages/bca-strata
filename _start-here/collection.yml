@@ -1,5 +1,5 @@
 collections:
-  general-proceedings:
+  start-here:
     output: true
     order:
       - General Proceedings.md
