@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Acts or Regulations.md
-      - FAQs.md
       - Fees.md
       - Forms.md
       - Guidelines.md
+      - FAQs.md
