@@ -7,4 +7,19 @@ description: A case in the Strata Titles Boards commences when an Applicant
   Respondent.
 third_nav_title: Application
 ---
-# What is the issue?
+# What is the issue
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
+
+
+
+
+# How do i apply
