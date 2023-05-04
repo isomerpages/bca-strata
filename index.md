@@ -25,6 +25,7 @@ sections:
         - title: FAQs
           description: ""
           url: /faq/
+      background: /images/Test hero image/10-test-strata-board-bg.jpg
   - infobar:
       title: General Proceedings
       button: Click Here
