@@ -6,6 +6,18 @@ description: ""
 ### **FAQ**
 Applications under Part VI of the Building Maintenance and Strata Management Act
 ================================================================================
+# HEADING
+**Bold**
+*Itaty*
+~~Strike~~
+`bracket`
+> double quote
+
+* Bullet
+
+1. numbering
+
+
 
 
 Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards?
