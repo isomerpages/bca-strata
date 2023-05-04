@@ -20,7 +20,8 @@ Mediation Fees
 --------------
 No fee shall be payable for the first 2 attendances before a Board. Fees are payable from the third attendance onwards.
 
-| No.  | Item | Fee (in S$) |
+| No.  | Item | Fee 
+(in S$) |
 | -------- | -------- | -------- |
 | 1     | Mediation session under Regulation 9 or a direction hearing under Regulation 13 of the BMSMR 2005 – for the whole or part of each day from the third attendance onwards  | $150 |
 
