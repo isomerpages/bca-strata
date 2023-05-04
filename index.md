@@ -26,6 +26,6 @@ sections:
           url: /faq/
       background: /images/image-background-3.jpg
   - resources:
-      title: News & Judgements
+      title: News & Judgments
       button: Read More
 ---
