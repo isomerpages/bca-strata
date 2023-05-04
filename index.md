@@ -25,7 +25,7 @@ sections:
         - title: FAQs
           description: ""
           url: /faq/
-      background: /images/Test hero image/7-test-strata-board-bg.jpg
+      background: /images/Test hero image/8-test-strata-board-bg.jpg
   - resources:
       title: News & Judgments
       button: Read More
