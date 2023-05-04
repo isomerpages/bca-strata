@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Useful Links.md
       - Acts or Regulations.md
       - Fees.md
       - Forms.md
       - Guidelines.md
+      - Useful Links.md
       - FAQs.md
