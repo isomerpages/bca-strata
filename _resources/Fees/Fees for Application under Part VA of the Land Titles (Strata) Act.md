@@ -4,6 +4,8 @@ permalink: /resources/fees/ltsa/
 description: ""
 third_nav_title: Fees
 ---
+# Fees for Application under Part VA of the Land Titles (Strata) Act
+
 A list of fees payable by the Applicant in relation to an application to the Strata Titles Boards is stated under The Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 (BMSMR 2005).
 
 Application Fees
