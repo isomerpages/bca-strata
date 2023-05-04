@@ -44,6 +44,7 @@ Q: Are you able to pay the find. Take into consideration of the things that you 
 
 Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards? 
 answer here loh.
+ajfasjfl;
 
 A1: Please note that:
 
