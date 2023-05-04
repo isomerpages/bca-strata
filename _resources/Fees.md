@@ -3,17 +3,18 @@ title: Fees
 permalink: /resources/fees/
 description: Fees
 ---
-Fees for Application under Part VI of the Building Maintenance and Strata Management Act
-========================================================================================
-
+# Fees for Application under Part VI of the Building Maintenance and Strata Management Act
+# 
 A list of fees payable by the Applicant in relation to an application to the Strata Titles Boards is stated under The Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 (BMSMR 2005).
 
 Application Fees
 ----------------
 No fee shall be payable for the first 2 attendances before a Board. Fees are payable from the third attendance onwards.
+
 | No.  | Item | Fee (in S$) |
 | -------- | -------- | -------- |
 | 1     | On filing an application under Division 2 of Part VI of the Building Maintenance and Strata Management Act  | $500 |
+
 
 Mediation Fees
 --------------
