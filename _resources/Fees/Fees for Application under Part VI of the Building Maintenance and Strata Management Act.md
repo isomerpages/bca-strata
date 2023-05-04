@@ -5,11 +5,13 @@ permalink: /resources/fees/bmsma/
 description: ""
 third_nav_title: Fees
 ---
+# Fees for Application under Part VI of the Building Maintenance and Strata Management Act
+
+
 A list of fees payable by the Applicant in relation to an application to the Strata Titles Boards is stated under The Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 (BMSMR 2005).
 
 Application Fees
 ----------------
-No fee shall be payable for the first 2 attendances before a Board. Fees are payable from the third attendance onwards.
 
 | No.  | Item | Fee (in S$) |
 | -------- | -------- | -------- |
@@ -39,5 +41,4 @@ Miscellaneous Fees
 | No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
 | 1  | For supplying a copy of a document | $1 per page |   
-| 2  | For certification of a copy of a document | $5 | 
-
+| 2  | For certification of a copy of a document | $5 |
