@@ -4,7 +4,7 @@ title: Strata Titles Boards
 description: The Strata Titles Boards ("STB") are tribunals which handle
   disputes relating to strata-titled properties and orders on collective sales
   of such properties.
-image: /images/isomer-logo.svg
+image: /images/Fav Icon & Logo/favicon-stb.ico
 permalink: /
 notification: We are improving the website to serve you better. Learn more about
   General Proceedings content will be available online from 1 June 2023.
