@@ -20,8 +20,7 @@ Mediation Fees
 --------------
 No fee shall be payable for the first 2 attendances before a Board. Fees are payable from the third attendance onwards.
 
-| No.  | Item | Fee 
-(in S$) |
+| No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
 | 1     | Mediation session under Regulation 9 or a direction hearing under Regulation 13 of the BMSMR 2005 – for the whole or part of each day from the third attendance onwards  | $150 |
 
@@ -29,18 +28,19 @@ No fee shall be payable for the first 2 attendances before a Board. Fees are pay
 Hearing Fees
 ------------
 
-| No.  | Item | Fee 
-(in S$) |
+| No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
 | 1     | For each day or part thereof for arbitration hearing under Part VI of the Building Maintenance and Strata Management Act | $300 |
 
 
 Miscellaneous Fees
 ------------------
-| No.  | Item | Fee (in S$) |
+
+| No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
 | 1  | For supplying a copy of a document | $1 per page |   
-| 2  | For certification of a copy of a document | $5 |   
+| 2  | For certification of a copy of a document | $5 | 
+
 
 Fees for Application under Part VA of the Land Titles (Strata) Act
 ==================================================================
