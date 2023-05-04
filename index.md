@@ -6,7 +6,8 @@ description: The Strata Titles Boards ("STB") are tribunals which handle
   of such properties.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "General Proceedings from 2019 and earlier will be available on
+  the website from 31 May 2023 onwards. "
 sections:
   - hero:
       title: Strata Titles Boards
