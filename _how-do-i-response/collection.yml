@@ -1,4 +1,5 @@
 collections:
   how-do-i-response:
     output: true
-    order: []
+    order:
+      - Matters under BMSMA.md
