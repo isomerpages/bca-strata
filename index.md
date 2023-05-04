@@ -28,8 +28,7 @@ sections:
       background: /images/Test hero image/8-test-strata-board-bg.jpg
   - infobar:
       title: General Proceedings
-      subtitle: Infobar Subtitle
-      button: Button Text
+      button: Click Here
       url: /general-proceedings
   - resources:
       title: News & Judgments
