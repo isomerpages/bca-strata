@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
+      - Acts or Regulations.md
+      - Fees/.keep
       - Fees/Fees for Application under Part VA of the Land Titles (Strata)
         Act.md
       - Fees/Fees for Application under Part VI of the Building Maintenance and
         Strata Management Act.md
-      - Fees/.keep
-      - Acts or Regulations.md
       - Fees.md
       - Forms.md
       - Guidelines.md
