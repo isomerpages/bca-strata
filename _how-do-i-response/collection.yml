@@ -2,4 +2,5 @@ collections:
   how-do-i-response:
     output: true
     order:
+      - Matters under LTSA.md
       - Matters under BMSMA.md
