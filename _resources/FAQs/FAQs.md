@@ -37,6 +37,7 @@ Q: This is a questions for you. Are you able to pay the find. Take into consider
 `Let me give you the answer to your questions. It is a matter of preference. All up to yo. `
 
 Q: Are you able to pay the find. Take into consideration of the things that you can buy base on the fine paid?This is a questions for you.
+
 `Let me give you the answer to your questions. It is a matter of preference. All up to yo. `
 
 
