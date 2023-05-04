@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - FAQs/FAQs.md
-      - FAQs/.keep
       - Acts or Regulations.md
       - Fees.md
       - Forms.md
       - Guidelines.md
       - Useful Links.md
+      - FAQs/.keep
+      - FAQs/FAQs.md
