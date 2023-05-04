@@ -18,6 +18,13 @@ Applications under Part VI of the Building Maintenance and Strata Management Act
 1. numbering
 
 
+* **This is a questions for you. Are you able to pay the find. Take into consideration of the things that you can buy base on the fine paid?**
+* Let me give you the answer to your questions. It is a matter of preference. All up to yo. 
+
+
+
+
+
 
 
 Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards?
