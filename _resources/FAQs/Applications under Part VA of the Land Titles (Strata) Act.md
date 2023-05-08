@@ -20,7 +20,7 @@ Examples of “appropriate attire” include formal wear, smart casual wear and 
 
 **Q3: Where can I find out more on en-bloc procedures?**
 
-You can visit our website at [www.stratatb.gov.sg](http://www.stratatb.gov.sg/ "Strata Titles Boards") and read up more under “[Application](https://www.stratatb.gov.sg/application.html "Application")”.  
+You can visit our website at [www.stratatb.gov.sg](http://www.stratatb.gov.sg/ "Strata Titles Boards") and read up more under [Application](general-proceedings/application/applicant/).
   
 You can also see [“Part VA – Collective Sale of Property” under the Land Titles (Strata) Act](https://sso.agc.gov.sg/Act/LTSA1967 "Part VA – Collective Sale of Property").
 
@@ -42,17 +42,17 @@ No.
 
 **Q7: How can a minority owner file an objection to an en-bloc sale?**
 
-Under the Land Titles (Strata) Act, a minority owner may lodge an objection to the en-bloc sale within 21 days of the Notice of Proposed Application to the Strata Titles Boards served on him/her by the authorised representatives of the Sales Committee. 6 copies of the Forms [24 (PDF, 624 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-24.pdf "Form 24") or [25 (PDF, 624 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-25.pdf "Form 25") (**Objection filed by a subsidiary proprietor**) and supporting documents should be filed to the Board.  
+Under the Land Titles (Strata) Act, a minority owner may lodge an objection to the en-bloc sale within 21 days of the Notice of Proposed Application to the Strata Titles Boards served on him/her by the authorised representatives of the Sales Committee. 6 copies of the Forms [24 (PDF, 624 KB)](/files/FAQS/LTSA/form-24.pdf) or [25 (PDF, 624 KB)](/files/FAQS/LTSA/form-25.pdf) (**Objection filed by a subsidiary proprietor**) and supporting documents should be filed to the Board.  
   
-Forms 24 and 25 can be downloaded under [Resources](https://www.stratatb.gov.sg/resources.html "Resources").
+Forms 24 and 25 can be downloaded under [Forms](/resources/forms/).
 
 **Q8: When is the deadline for filing of objections?**
 
-According to section 84A(4) of the LTSA, you have 21 days from the date on which the Notice of Proposed Application to the Strata Titles Board ([Form 27 (PDF, 119 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/form27.pdf "Form 27")) is served on you.
+According to section 84A(4) of the LTSA, you have 21 days from the date on which the Notice of Proposed Application to the Strata Titles Board [Form 27 (PDF, 119 KB)](/files/FAQS/LTSA/form27.pdf) is served on you.
 
 **Q9: What information must I have to attach to Forms 24 or 25 (objection filed under Section 84A/E/FA by an individual)? How detailed must the information be?**
 
-A unit owner who wishes to object to an en-bloc sale has to furnish his particulars in Forms [24 (PDF, 624 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-24.pdf "Form 24") or [25 (PDF, 624 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-25.pdf "Form 25"), which can be downloaded under [Resources](https://www.stratatb.gov.sg/resources.html "Resources"). In addition, all information which he feels is relevant to his case should be listed in a logical order in an annex attached to the form. 6 copies of the documents referred to should also be given to the Board.
+A unit owner who wishes to object to an en-bloc sale has to furnish his particulars in Forms [24 (PDF, 624 KB)](/files/FAQS/LTSA/form-24.pdf) or [25 (PDF, 624 KB)](/files/FAQS/LTSA/form-25.pdf), which can be downloaded under [Forms](/resources/forms/). In addition, all information which he feels is relevant to his case should be listed in a logical order in an annex attached to the form. 6 copies of the documents referred to should also be given to the Board.
 
 **Q10: What does “_such other document as the Board may require_” reflected under paragraph 11(d) in the First Schedule of the LTSA refer to?**
 
