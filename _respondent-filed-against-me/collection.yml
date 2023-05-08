@@ -1,5 +1,5 @@
 collections:
-  what-has-been-filed-against-me:
+  respondent-filed-against-me:
     output: true
     order:
       - Type of orders under BMSMA.md
