@@ -2,7 +2,7 @@ collections:
   start-here:
     output: true
     order:
-      - General Proceedings of Strata Titles Boards.md
+      - General Proceedings.md
       - Application/.keep
       - Application/Applicant.md
       - Application/Respondent.md
