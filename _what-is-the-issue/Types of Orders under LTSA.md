@@ -5,7 +5,7 @@ description: ""
 ---
 You should refer to Part VA of the Land Titles (Strata) Act for the full meaning and effect of the provisions.
 
-| Details |  | Relevant Section(s) of the BMSMA |
+| Details |  | Relevant Section(s) |
 | -------- | -------- | -------- |
 | Strata developments registered under the Land Titles (Strata) Act     | | Section 84A
 | Strata or flat developments where the owners of the flats also own a share in the land and the leases for their flats are registered under the Registration of Deeds Act or the Land Titles Act | | Section 84D
