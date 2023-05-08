@@ -2,9 +2,9 @@ collections:
   start-here:
     output: true
     order:
-      - Mediation/Mediation (LTSA).md
-      - Mediation/Mediation (BMSMA).md
       - Mediation/.keep
+      - Mediation/Mediation (BMSMA).md
+      - Mediation/Mediation (LTSA).md
       - General Proceedings of Strata Titles Boards.md
       - Application/.keep
       - Application/Applicant.md
