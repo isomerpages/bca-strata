@@ -3,6 +3,7 @@ title: General Proceedings
 permalink: /general-proceedings/
 description: Access an overview of proceedings at STB.
 ---
+# General Proceedings of Strata Titles Boards
 A case in the Strata Titles Boards commences when an Applicant files an application. A person who files an application is known as the Applicant and his/her application is filed against the person known as the Respondent.
 
 The proceedings at Strata Titles Boards consist of 4 main stages:
