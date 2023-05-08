@@ -1,0 +1,4 @@
+collections:
+  what-is-the-issue:
+    output: true
+    order: []
