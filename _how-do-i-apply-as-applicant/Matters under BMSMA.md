@@ -5,7 +5,7 @@ description: ""
 ---
 # Steps relating to an application under Part VI of the Building Maintenance and Strata Management Act
 
-## STEP 1: HOW TO FILE AN APPLICATION
+### STEP 1: HOW TO FILE AN APPLICATION
 
 Before filing the application, have you attempted the following:
 
@@ -68,7 +68,7 @@ You can now email your application form to the Strata Titles Boards. For all tex
     
     Strata Titles Boards does not accept payment by way of NETS or VISA.
 
-## STEP 2: SERVING THE APPLICATION
+### STEP 2: SERVING THE APPLICATION
 
 Upon receiving Strata Titles Boards’ letter of case acceptance, you should proceed to serve your application accompanied by all supporting documents, if any, on the Respondent within the five (5) working days.
 
@@ -88,13 +88,13 @@ If the Respondent is the MCST, you may serve your application by:-
 *   leaving your application in the post box of the MCST; or
 *   pre-paid registered post to the MCST’s address.
 
-## STEP 3: CONSTITUTION OF A BOARD
+### STEP 3: CONSTITUTION OF A BOARD
 
 After the application has been served on the Respondent(s), a Board will be convened by the Strata Titles Boards to mediate and/or hear the case.
 
 All parties will receive a **Notice of Constitution of a Board** from the Strata Titles Boards on the Board constituted to hear the application. All parties will have up to seven (7) days from the Notice of Constitution of the Board to object, in writing, to any Board member(s) on reasonable grounds, such as conflicts of interest. Objection to any Board member will be submitted for the President’s consideration.
 
-## STEP 4: NOTICE OF MEDIATION DATE
+### STEP 4: NOTICE OF MEDIATION DATE
 
 Applicant and Respondent will be issued a Notice of Mediation informing of the mediation date to attend before the Board. Both parties must attend the mediation.
 
