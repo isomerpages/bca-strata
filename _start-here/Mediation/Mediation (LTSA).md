@@ -25,8 +25,7 @@ If the dispute cannot be successfully mediated by the Board at the end of 60 day
 
 The matter will then proceed to the High Court for determination. Applicants who wish to apply to the High Court must do so within fourteen (14) days after the Board issues the Stop Order.
 
-**Note:**
-
+> **Note:**
 Under the 2010 amendments to the Land Titles (Strata) Act, provision is made for the transfer to the High Court for approval of en-bloc sale applications which cannot be successfully mediated by a Strata Titles Board.
 
 WHO ATTENDS A MEDIATION
