@@ -8,12 +8,11 @@ third_nav_title: Mediation
 
 ### Building Maintenance and Strata Management Act
 
-  
 
 **OVERVIEW OF MEDIATION (PROCESS FLOWCHART)**
 
 
-![Mediation (BMSMA) Process Flowchart](https://www.stratatb.gov.sg/public-data/image/mediation/bmsma-flowchart.png "Mediation (BMSMA) Process Flowchart")
+![Mediation (BMSMA) Process Flowchart](/images/General%20Proceedings/Mediation/BMSMA/bmsma-flowchart.png)
 
 ## WHAT IS MEDIATION
 
