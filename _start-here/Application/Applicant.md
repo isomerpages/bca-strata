@@ -11,15 +11,7 @@ third_nav_title: Application
 
 
 
+# How do I apply
+Refer to this link for [Matters under BMSMA](/how-do-i-apply/matters-under-bmsma/)
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
-
-[how do i apply](/how-do-i-response/permalink/)
-
-
-
-
-# How do i apply
+Refer to this link for [Matters under LTSA](/how-do-i-apply/matters-under-ltsa/)
