@@ -2,6 +2,7 @@ collections:
   start-here:
     output: true
     order:
+      - Mediation/.keep
       - General Proceedings of Strata Titles Boards.md
       - Application/.keep
       - Application/Applicant.md
