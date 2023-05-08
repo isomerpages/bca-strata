@@ -4,20 +4,16 @@ permalink: /start-here/mediation/ltsa/
 description: ""
 third_nav_title: Mediation
 ---
-Mediation
-=========
+# Mediation
 
 ### Land Titles (Strata) Act
 
-  
 
-PROCESS FLOWCHART
------------------
+**PROCESS FLOWCHART**
 
 ![Mediation (LTSA) Process Flowchart](https://www.stratatb.gov.sg/public-data/image/mediation/mediation-ltsa-flowchart.png "Mediation (LTSA) Process Flowchart")
 
-MEDIATION BEFORE A STRATA TITLES BOARD
---------------------------------------
+## MEDIATION BEFORE A STRATA TITLES BOARD
 
 The Strata Titles Board will mediate matters in dispute between the Objectors and the Applicants for a maximum 60-days period. The Board’s role in mediation is to ensure that the Applicants comply with the provisions under the Land Titles (Strata) Act (LTSA).
 
@@ -28,8 +24,7 @@ The matter will then proceed to the High Court for determination. Applicants who
 > **Note:**
 Under the 2010 amendments to the Land Titles (Strata) Act, provision is made for the transfer to the High Court for approval of en-bloc sale applications which cannot be successfully mediated by a Strata Titles Board.
 
-WHO ATTENDS A MEDIATION
------------------------
+## WHO ATTENDS A MEDIATION
 
 Both Applicants (representatives appointed by the majority owners) and their lawyers, and Objectors are required to attend the mediation(s) at Stata Titles Boards on the specified date and time. A lawyer may represent you.
 
@@ -51,13 +46,11 @@ If you require the services of an interpreter, please bring your own interpreter
 
 Please check the date and time of the mediation/hearing and arrive ahead of the scheduled time. You have to dress appropriately and neatly. Visitors in singlets, shorts, slippers or other inappropriate attire will not be permitted to enter the mediation/hearing room. During the proceedings, you are required to switch off your mobile devices or switch them to silent mode. Video and audio recordings are not permitted.
 
-WHAT DO I NEED TO BRING
------------------------
+## WHAT DO I NEED TO BRING
 
 Parties should bring along all relevant documents which you will refer to and rely on during the mediation session. If you intend to bring any documentation not previously submitted to the Board, you are required to prepare **five (5) identical copies** for submission to the Board on the day of your mediation session.
 
-WHAT HAPPENS AFTER A MEDIATION
-------------------------------
+## WHAT HAPPENS AFTER A MEDIATION
 
 If all objections to the application are withdrawn before the end of that period, the Strata Titles Board will approve the application and order the collective sale unless the Board is satisfied that the transaction is not in good faith after taking into account the factors listed in section 84A(9) of the LTSA. Approval may be given regardless of there being subsidiary proprietors who have not signed the collective sale agreement but who have stayed silent and not filed any objections to the application.
 
