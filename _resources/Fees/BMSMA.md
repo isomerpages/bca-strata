@@ -12,7 +12,7 @@ A list of fees payable by the Applicant in relation to an application to the Str
 Application Fees
 ----------------
 
-| No.  | Item | Fee (in S$) |
+| No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
 | 1     | On filing an application under Division 2 of Part VI of the Building Maintenance and Strata Management Act  | $500 |
 
