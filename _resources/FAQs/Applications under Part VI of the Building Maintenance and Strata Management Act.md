@@ -21,7 +21,7 @@ Examples of “appropriate attire” include formal wear, smart casual wear and 
 
 **Q3: What are the relevant legislations applicable to an application filed under the BMSMA?**
 
-The relevant legislations are the Building Maintenance and Strata Management Act and the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which can be viewed under [Resources](https://www.stratatb.gov.sg/resources.html "Resources").
+The relevant legislations are the Building Maintenance and Strata Management Act and the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which can be viewed under [Resources](/resources/acts-regulations/").
 
 **Q4: Why must the Applicant pay $500 application fee?**
 
@@ -47,7 +47,7 @@ If one or more of the property unit owners are not in Singapore or is unable to 
 
 Yes. He can do so by submitting an Interlocutory Application Form before the conclusion of the proceedings and subject to the Board’s approval.  
   
-Interlocutory Application Form can be downloaded under [Resources](https://www.stratatb.gov.sg/resources.html "Resources").  
+Interlocutory Application Form can be downloaded under [Forms](/resources/forms/).  
   
 In considering whether an order would be made in terms of the application, supporting grounds and documents must also be submitted to the Registrar of the STB.  
   
