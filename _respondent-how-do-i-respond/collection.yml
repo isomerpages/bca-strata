@@ -1,5 +1,5 @@
 collections:
-  how-do-i-respond:
+  respondent-how-do-i-respond:
     output: true
     order:
       - Matter under BMSMA.md
