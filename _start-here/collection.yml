@@ -2,7 +2,6 @@ collections:
   start-here:
     output: true
     order:
-      - Hearing (BMSMA)/.keep
       - General Proceedings of Strata Titles Boards.md
       - Application/.keep
       - Application/Applicant.md
@@ -10,5 +9,6 @@ collections:
       - Mediation/.keep
       - Mediation/Mediation (BMSMA).md
       - Mediation/Mediation (LTSA).md
+      - Hearing (BMSMA)/.keep
       - Post Hearing.md
       - Prefilling Assessment Tool.md
