@@ -1,0 +1,4 @@
+collections:
+  how-do-i-respond:
+    output: true
+    order: []
