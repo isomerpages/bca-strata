@@ -38,7 +38,7 @@ Before an application is made to the Strata Titles Boards for an en-bloc sale pu
 
 A copy of this notice, in the 4 official languages, would also be affixed to a conspicuous part of each building in the development.
 
-### Collective sale application to the Strata Titles Boards
+**Collective sale application to the Strata Titles Boards**
 
 Application to the Strata Titles Boards will be made within 14 days of the newspaper advertisement.
 
