@@ -1,5 +1,5 @@
 collections:
-  applicant-how-do-i-apply:
+  how-do-i-apply-as-applicant:
     output: true
     order:
       - Matters under BMSMA.md
