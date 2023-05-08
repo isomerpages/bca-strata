@@ -102,7 +102,7 @@ Generally, if you wish to seek orders for any one (or more) of the following ite
 | To revoke an amendment or addition of a by-law || Section 105
 | To invalidate a by-law || Section 106
 | To vary the rate of interest in respect of late payment of contribution || Section 107
-| To vary the rate of interest in respect of late payment of contribution || Section 108
+| To vary the amount of contributions levied or the manner of payment thereof || Section 108
 | To vary the amount of insurance to be provided || Section 109
 | To make or pursue an insurance claim || Section 110
 | That management corporation consents to the subsidiary proprietor’s proposal for alterations to the common property || Section 111
