@@ -96,4 +96,23 @@ Generally, if you wish to seek orders for any one (or more) of the following ite
 | -------- | -------- | -------- |
 | Disputes on inter floor water leakage     |      | Section 101(1)(a); and/or Section 101(8)     |
 
+You should refer to the actual provisions in the BMSMA for the full meaning and effect of terms mentioned. If you are still unsure which section(s) applies to your case, you should seek independent legal advice.
 
+**Q16: What should I do if I settled the matter with the other party (or Respondent) at any time after submitting my application form (and supporting documents) to Strata Titles Boards?**
+
+In the event that you settled the matter, you should inform Strata Titles Boards in writing as soon as practicably possible. You should extend a copy of such notice to the Respondent(s). Once the Strata Titles Boards receives such notice, they will send both parties the following forms to fill in, sign and return to Strata Titles Boards’ office. The forms are as follows:-
+
+1.  [Withdrawal of Application (for Applicant) (PDF, 141 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/withdrawal-of-application-form(applicant)-060821.pdf "Withdrawal of Application (for Applicant)"); and
+    
+2.  [Consent to Withdrawal of Application (for Respondent) (PDF, 28 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf "Consent to Withdrawal of Application (for Respondent)")
+    
+
+The forms can be found under [resources](https://www.stratatb.gov.sg/resources.html "Resources") and are available at Strata Titles Boards’ reception counter.
+
+**Q17: Can I appoint a lawyer to act for me during my proceedings at the Strata Titles Boards?**
+
+You may engage a lawyer to represent you, however, Strata Titles Boards’ proceedings generally do not require a party to be represented by a lawyer.
+
+**Q18: Can I see the judgments of past cases decided by the STB?**
+
+The Grounds of Decision or Judgments of past decided cases can be viewed under [Resources](https://www.stratatb.gov.sg/resources.html "Resources").
