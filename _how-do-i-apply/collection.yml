@@ -1,5 +1,5 @@
 collections:
-  how-do-i-response:
+  how-do-i-apply:
     output: true
     order:
       - Matters under BMSMA.md
