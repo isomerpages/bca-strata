@@ -4,20 +4,18 @@ permalink: /start-here/mediation/bmsma/
 description: ""
 third_nav_title: Mediation
 ---
-Mediation
-=========
+# Mediation
 
 ### Building Maintenance and Strata Management Act
 
   
 
-OVERVIEW OF MEDIATION (PROCESS FLOWCHART)
------------------------------------------
+**OVERVIEW OF MEDIATION (PROCESS FLOWCHART)**
+
 
 ![Mediation (BMSMA) Process Flowchart](https://www.stratatb.gov.sg/public-data/image/mediation/bmsma-flowchart.png "Mediation (BMSMA) Process Flowchart")
 
-WHAT IS MEDIATION
------------------
+## WHAT IS MEDIATION
 
 Mediation is a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution. The mediation at Strata Titles Boards is conducted by a Board of three (3) or five (5) board members. During the mediation, all parties will be allowed to present their respective evidence and make submissions to the Board. The Board’s function is to facilitate parties in an attempt to reach an amicable settlement to resolve their dispute. Unless expressly requested by all parties involved, the Board will not make any ruling with respect to the dispute.
 
@@ -27,8 +25,7 @@ Mediation sessions are **private and confidential**, and no transcript or audio
 
 Additionally, the mediation sessions are conducted on a “**Without Prejudice**” basis. This means that any information disclosed and/or views expressed by any person in the mediation cannot be used as evidence against that person, in the event that the case proceeds to a hearing in the Strata Titles Boards’ court.
 
-WHO ATTENDS A MEDIATION
------------------------
+## WHO ATTENDS A MEDIATION
 
 All mediations are conducted at the Strata Titles Boards office located at URA Centre.
 
@@ -44,15 +41,13 @@ The Board requires at least one (1) council member, duly authorised in writing b
 
 The Board requires at least one (1) key appointment holder (e.g. managing director, director, partner) to be authorised to represent the company. The appointed representative(s) of a company must produce a letter of authorisation which must be duly signed, sealed and printed on the company’s letterhead as well as a certified true copy of the company’s board resolution which: (a) allows the company seal to be affixed to the letter of authorisation; and (b) authorises the specified person(s) to represent the company at STB proceedings.
 
-WHAT DO I NEED TO BRING
------------------------
+## WHAT DO I NEED TO BRING
 
 Parties should bring along all relevant documents relating to the dispute which you will refer to and rely on during the mediation session. If you intend to bring any documentation not previously submitted as evidence, you are required to prepare **five (5) identical copies** for submission to the Board on the day of your mediation session.
 
 Submission of non-documentary evidence (such as SMS or WhatsApp messages) must be reduced to paper form for submission and record purposes. You are required to print out any relevant evidence that you intend to use in support of your case.
 
-WHAT HAPPENS DURING A MEDIATION
--------------------------------
+## WHAT HAPPENS DURING A MEDIATION
 
 Both Applicant and Respondent must attend the mediation at Stata Titles Boards on the specified date and time. A lawyer may represent you.
 
@@ -77,8 +72,7 @@ If you require the services of an interpreter, please bring your own interpreter
 
 Please check the date and time of the mediation and arrive ahead of the scheduled time. You have to dress appropriately and neatly. Visitors in singlets, shorts, slippers or other inappropriate attire will not be permitted to enter the mediation/hearing room. During the session, you are required to switch off your mobile devices or switch them to silent mode. Video and audio recordings are not permitted.
 
-WHAT HAPPENS AFTER A MEDIATION
-------------------------------
+## WHAT HAPPENS AFTER A MEDIATION
 
 Where the dispute is resolved swiftly and amicably, the matter need not proceed to Directions Hearing and will end at the mediation stage.
 
@@ -90,7 +84,6 @@ Once a dispute / matter is resolved by mediation before the Board, all parties a
 
 In the event that the dispute is unresolved at the mediation stage, the matter will proceed to a directions hearing, where the Board will give directions as to how the matter should proceed for a hearing.
 
-WHAT HAPPENS IF THE MATTER IS SETTLED BETWEEN PARTIES
------------------------------------------------------
+## WHAT HAPPENS IF THE MATTER IS SETTLED BETWEEN PARTIES
 
 In the event that parties are able to settle the matter between themselves, the Applicant is to inform the Strata Titles Boards in writing as soon as practically possible and extend a copy of such notice to the Respondent. Once the Strata Titles Boards receives such notice, parties will be issued the withdrawal notices which parties are required to sign and return in order to discontinue the matter.
