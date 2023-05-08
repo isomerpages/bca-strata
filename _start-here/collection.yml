@@ -9,8 +9,8 @@ collections:
       - Mediation/.keep
       - Mediation/Mediation (BMSMA).md
       - Mediation/Mediation (LTSA).md
-      - Hearing/Hearing (LTSA) (En bloc).md
-      - Hearing/Hearing (BMSMA).md
       - Hearing/.keep
+      - Hearing/Hearing (BMSMA).md
+      - Hearing/Hearing (LTSA) (En bloc).md
       - Post Hearing.md
       - Prefilling Assessment Tool.md
