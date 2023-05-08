@@ -55,6 +55,45 @@ This application should be served on the Respondent within three (3) working day
 
 **Q10: What should the Applicant or the Respondent do if he/she wants to add another party to the proceedings?**
 
-He has to submit an Interlocutory Application. The procedure is similar to that mentioned above.  
+He has to submit an Interlocutory Application (**[Form 12 (PDF, 119 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/form12.20200717.pdf "Form 12") – Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board**). The procedure is similar to that mentioned above.  
   
 The Interlocutory Application must also be served on the intended third party who will be added to the proceedings.
+
+**Q11: In the event where the Strata Titles Boards has fixed a date for mediation of a case, can a party request in writing for a postponement of a date?**
+
+In general, the Strata Titles Boards does not allow any adjournment of a case, unless there are extenuating circumstances. The Board may consider such request, given that parties write in with their supporting grounds and documents at least three (3) working days prior to the scheduled date.  
+  
+If a party is represented by a legal counsel who has another case fixed by the State Courts or High Court at the same time and date, the legal counsel may write in to the Board, at least three (3) working days prior to the affixed date, for their consideration.
+
+**Q12: Are the parties required to keep the Board informed of any updates between mediation sessions?**
+
+No, unless otherwise directed by the Board.  
+  
+The Applicant should only write in to the Board if, in the interim of sessions, the matter has been resolved with the Respondent and the Applicant wishes to withdraw the application.  
+  
+If a party writes to the Board on any matter in relation to the case, that party must copy his correspondence to the other party.
+
+**Q13: What happens if the Applicant or Respondent fails to turn up at the appointed mediation time?**
+
+If the Board is satisfied that the absent party has been duly notified of the mediation session and the Board is unable to bring about a settlement of the dispute, the Board may:
+
+1.  Dismiss the application, if the absent party is the applicant; or
+    
+2.  Proceed to fix a date for direction or arbitration hearing.
+
+**Q14: Does the Strata Titles Boards provide minutes of meetings and mediation to the parties?**
+
+No, as the meetings and mediations are private and confidential and ‘Without Prejudice’. Any minutes recorded by Strata Titles Boards are for its internal use only.
+
+**Q15: What section(s) of the BMSMA applies to my application case?**
+
+The Strata Titles Boards is a quasi-judicial tribunal and we are unable to provide legal service. You should refer to the guide in your application form listing out sections of the BMSMA applicable and relevant to your application to the Strata Titles Boards.  
+  
+Generally, if you wish to seek orders for any one (or more) of the following items, you may wish to refer to the following section(s) of the BMSMA as stated in the table below:-
+
+
+| Details |  | Relevant Section(s) of the BMSMA |
+| -------- | -------- | -------- |
+| Disputes on inter floor water leakage     |      | Section 101(1)(a); and/or Section 101(8)     |
+
+
