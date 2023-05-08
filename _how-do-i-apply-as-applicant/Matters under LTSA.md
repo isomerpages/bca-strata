@@ -5,8 +5,8 @@ description: ""
 ---
 # Steps relating to an application under Part VA of the Land Titles (Strata) Act
 
-**COLLECTIVE SALE  
-Land Titles (Strata) Act**
+### COLLECTIVE SALE  
+### Land Titles (Strata) Act
 
 ### What is a collective sale
 
@@ -15,7 +15,6 @@ A collective sale, also known as an en-bloc sale, is a sale of two or more prope
 There must be a majority consent among the owners to sell the entire strata development. The process follows the guidelines laid down in the Land Titles (Strata) Act.
 
 > **Note:**
-
 Strata Titles Boards only deals with en-bloc of a property - where all the units in a strata-titled development is sold to a developer with less than 100% consent.
 
 ### En-bloc sale by majority consent
@@ -29,9 +28,7 @@ An en-bloc sale is governed by the **Land Titles (Strata) Act**. The sale is to
 
 Under **section 84A of the Land Titles (Strata) Act**, the owners can apply for an order of en-bloc sale from the Strata Titles Boards or the High Court after obtaining the requisite statutory majority consent.
 
-> **Note:**
-
-In applying for an en-bloc sale, the age of a development is determined with reference to the date of issue of the latest Temporary Occupation Permit (TOP) or Certificate of Statutory Completion (CSC) if no TOP was issued.
+> **Note:** In applying for an en-bloc sale, the age of a development is determined with reference to the date of issue of the latest Temporary Occupation Permit (TOP) or Certificate of Statutory Completion (CSC) if no TOP was issued.
 
 ### GENERAL INFORMATION ON STARTING A COLLECTIVE SALE
 
@@ -70,9 +67,9 @@ Applications will be heard by a three (3) or five (5)-member Strata Titles Board
 
 A minority owner (i.e. unit owner who has not agreed to the sale in writing) may file an objection to the Strata Titles Boards using the prescribed form **within 21 days** after the notice of proposed application has been served on all owners.
 
-**Where no objection is filed against the en-bloc application**, the Strata Titles Board will fix a date for a hearing to determine that the en-bloc sale transaction is in good faith. Please see details under [hearing](https://www.stratatb.gov.sg/hearing.html "hearing").
+**Where no objection is filed against the en-bloc application**, the Strata Titles Board will fix a date for a hearing to determine that the en-bloc sale transaction is in good faith. Please see details under [hearing](/start-here/hearing/ltsa/).
 
-**Where objections are filed against the application**, the Board would mediate and assist parties to resolve the dispute. Please see details under [mediation](https://www.stratatb.gov.sg/mediation.html "mediation")
+**Where objections are filed against the application**, the Board would mediate and assist parties to resolve the dispute. Please see details under [mediation](/start-here/mediation/ltsa/)
 
 ### STEPS RELATING TO AN APPLICATION UNDER PART VA OF THE LAND TITLES (STRATA) ACT
 
@@ -112,9 +109,7 @@ Before filing an en-bloc sale application to the Strata Titles Boards, majority 
     
     The notice and updates should be affixed to a conspicuous part of each building in the development.
 		
-> **Note:**
-
-An owner who has signed the CSA may rescind his/her agreement by serving a notice of rescission during the five (5) day cooling-off period (excluding Sat, Sun or public holiday, after the day on which the CSA was signed by him/her). See [Forms](https://www.stratatb.gov.sg/resources-forms.html "Forms") for a copy of notice of recission.
+> **Note:** An owner who has signed the CSA may rescind his/her agreement by serving a notice of rescission during the five (5) day cooling-off period (excluding Sat, Sun or public holiday, after the day on which the CSA was signed by him/her). See [Forms](/resources/forms/) for a copy of notice of recission.
 
       
     
@@ -134,7 +129,7 @@ An owner who has signed the CSA may rescind his/her agreement by serving a notic
     
 7.  **Advertisement**  
     
-    Advertise in the 4 official languages the particulars of the proposed application in the local newspapers. The advertisement should follow the [approved format](https://www.stratatb.gov.sg/resources-guidelines.html# "approved format") under the Land Titles (Strata) Act.
+    Advertise in the 4 official languages the particulars of the proposed application in the local newspapers. The advertisement should follow the [approved format](/resources/guidelines/) under the Land Titles (Strata) Act.
     
     \[The First Schedule, para. 1(d)\]
     
@@ -189,7 +184,7 @@ If you are intending to file an application at the Strata Titles Boards, please 
 
 1.  **Application form and supporting documents – 6 copies**
     
-    • Application form – [Form 21 (PDF, 1.05 MB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-21.pdf "Form 21")
+    • Application form – [Form 21 (PDF, 1.05 MB)](/files/Forms/form-21.pdf)
     
     An application for en-bloc sale must be made using the approved Form 21 within fourteen (14) days of the publication of the advertisement. The application is to be made by way of a statutory declaration by the representatives appointed by the majority owners, stating that the relevant provisions of the Act have been complied with. **6 copies** of the application and all documents are to be submitted at the Strata Titles Boards office.
     
@@ -199,15 +194,13 @@ If you are intending to file an application at the Strata Titles Boards, please 
     
       
     
-> **Note:**
+> **Note:** Where a seller stamp duty is applicable for a property, kindly submit together with the application the Certificate of Stamp Duty.
 
-Where a seller stamp duty is applicable for a property, kindly submit together with the application the Certificate of Stamp Duty.
-
-Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-21.pdf "Form 21").
+Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)]().
 
 Reference is to be made to the Land Titles (Strata) Act and the First Schedule.
 
-The relevant forms can be downloaded under [Resources](https://www.stratatb.gov.sg/resources.html "Resources"). Alternatively, hard copies of the forms can be obtained from the Strata Titles Boards’ office during office hours.
+The relevant forms can be downloaded under [Forms](/resources/forms/). Alternatively, hard copies of the forms can be obtained from the Strata Titles Boards’ office during office hours.
 
 If you are submitting an en-bloc application, ensure that all supporting Annex are tabbed. For consistency and identification, binded applications are to be binded in red.
 
@@ -225,7 +218,7 @@ To find out more about the 2010 amendments to the Land Titles (Strata) Act, refe
 
 **After filing an application**
 
-Applicants must complete the Affidavit of Service for Form 21 – [Form 21A (PDF, 652 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-21A.pdf "Form 21A") and return the duly completed affidavit of service to the Strata Titles Boards.
+Applicants must complete the Affidavit of Service for Form 21 – [Form 21A (PDF, 652 KB)](/files/Forms/form-21a.pdf) and return the duly completed affidavit of service to the Strata Titles Boards.
 
 **If there are objections filed by minority owners** to the Strata Titles Boards, the Board will within five (5) days of the filing of an objection, forward a copy of it by registered post to the representatives appointed by the majority owners and their lawyers, if any.
 
@@ -243,4 +236,4 @@ Applicants and Objectors, if any will be issued a Notice of Mediation informing 
 
 No fees are payable for the first two (2) mediations.
 
-Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](https://www.stratatb.gov.sg/resources-fees.html "Fees") for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
+Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](/resources/fees/ltsa/ for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
