@@ -55,7 +55,7 @@ This application should be served on the Respondent within three (3) working day
 
 **Q10: What should the Applicant or the Respondent do if he/she wants to add another party to the proceedings?**
 
-He has to submit an Interlocutory Application (**[Form 12 (PDF, 119 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/form12.20200717.pdf "Form 12") – Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board**). The procedure is similar to that mentioned above.  
+He has to submit an Interlocutory Application **[(Form 12 (PDF, 119 KB)](/files/FAQS/BMSMA/form1220200717.pdf) – Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board)**. The procedure is similar to that mentioned above.  
   
 The Interlocutory Application must also be served on the intended third party who will be added to the proceedings.
 
@@ -118,12 +118,12 @@ You should refer to the actual provisions in the BMSMA for the full meaning and 
 
 In the event that you settled the matter, you should inform Strata Titles Boards in writing as soon as practicably possible. You should extend a copy of such notice to the Respondent(s). Once the Strata Titles Boards receives such notice, they will send both parties the following forms to fill in, sign and return to Strata Titles Boards’ office. The forms are as follows:-
 
-1.  [Withdrawal of Application (for Applicant) (PDF, 141 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/withdrawal-of-application-form(applicant)-060821.pdf "Withdrawal of Application (for Applicant)"); and
+1.  [Withdrawal of Application (for Applicant) (PDF, 141 KB)](/files/FAQS/BMSMA/withdrawal-of-application-form(applicant)-060821.pdf); and
     
-2.  [Consent to Withdrawal of Application (for Respondent) (PDF, 28 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf "Consent to Withdrawal of Application (for Respondent)")
+2.  [Consent to Withdrawal of Application (for Respondent) (PDF, 28 KB)](/files/FAQS/BMSMA/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
     
-
-The forms can be found under [resources](https://www.stratatb.gov.sg/resources.html "Resources") and are available at Strata Titles Boards’ reception counter.
+ 
+The forms can be found under [Forms](/resources/forms/) and are available at Strata Titles Boards' reception counter.
 
 **Q17: Can I appoint a lawyer to act for me during my proceedings at the Strata Titles Boards?**
 
@@ -131,4 +131,4 @@ You may engage a lawyer to represent you, however, Strata Titles Boards’ proce
 
 **Q18: Can I see the judgments of past cases decided by the STB?**
 
-The Grounds of Decision or Judgments of past decided cases can be viewed under [Resources](https://www.stratatb.gov.sg/resources.html "Resources").
+The Grounds of Decision or Judgments of past decided cases can be viewed under [Judgments](/all/judgments/).
