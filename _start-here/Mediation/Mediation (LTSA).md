@@ -11,7 +11,7 @@ third_nav_title: Mediation
 
 **PROCESS FLOWCHART**
 
-![Mediation (LTSA) Process Flowchart](/images/General%20Proceedings/Mediation/LTSA/mediation-ltsa-flowchart.png)
+![Mediation (LTSA) Process Flowchart](/images/General%20Proceedings/Mediation/mediation-ltsa-flowchart.png)
 
 ### MEDIATION BEFORE A STRATA TITLES BOARD
 
