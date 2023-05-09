@@ -5,9 +5,22 @@ links:
   - title: About Us
     collection: about-us
   - title: Our Panel Members
-    url: /our-panel-members
+    collection: our-panel-members
   - title: Resources
-    collection: resources
+    url: /resources
+    sublinks:
+      - title: Acts / Regulations
+        url: /acts-regulations
+      - title: Fees
+        url: /fees
+      - title: Forms
+        url: /forms
+      - title: Guidelines
+        url: /guidelines
+      - title: Useful Links
+        url: /useful-links
+      - title: FAQs
+        url: /resources/faqs
   - title: News and Judgments
     resource_room: true
   - title: Contact Us
