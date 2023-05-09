@@ -5,10 +5,10 @@ description: ""
 ---
 # Steps relating to an application under Part VA of the Land Titles (Strata) Act
 
-### COLLECTIVE SALE  
+## COLLECTIVE SALE  
 ### Land Titles (Strata) Act
 
-### What is a collective sale
+**What is a collective sale**
 
 A collective sale, also known as an en-bloc sale, is a sale of two or more property units to a common purchaser. A common en-bloc scenario is one where all the units in a strata-titled development are sold to a developer and proceeds are divided amongst all the unit owners. Other variations of en-bloc sales include the sale of all units in a development together with an adjoining development or landed properties.
 
@@ -17,7 +17,7 @@ There must be a majority consent among the owners to sell the entire strata deve
 > **Note:**
 Strata Titles Boards only deals with en-bloc of a property - where all the units in a strata-titled development is sold to a developer with less than 100% consent.
 
-### En-bloc sale by majority consent
+**En-bloc sale by majority consent**
 
 An en-bloc sale is governed by the **Land Titles (Strata) Act**. The sale is to be supported by the requisite majority consent under the Act:
 
@@ -30,12 +30,12 @@ Under **section 84A of the Land Titles (Strata) Act**, the owners can apply for
 
 > **Note:** In applying for an en-bloc sale, the age of a development is determined with reference to the date of issue of the latest Temporary Occupation Permit (TOP) or Certificate of Statutory Completion (CSC) if no TOP was issued.
 
-### GENERAL INFORMATION ON STARTING A COLLECTIVE SALE
+**GENERAL INFORMATION ON STARTING A COLLECTIVE SALE**
 
 
 **The information below is for general information only and should not be relied upon as legal advice for any specific matter or case.**
 
-### Collective Sale Committee
+**Collective Sale Committee**
 
 The starting point in an en-bloc sale attempt is for owners to elect a Collective Sale Committee at a General Meeting. Requisition for the General Meeting requires at least 20% of share value or 25% of total number of subsidiary proprietors' votes. Responsible committee members should be appointed from owners across all types of units in the development.
 
@@ -43,23 +43,23 @@ At the time of electing committee members, candidates should make full disclosur
 
 The Second and Third Schedule governs the proceedings of the sale committee.
 
-### Requisite majority
+**Requisite majority**
 
 Once a Collective Sale Committee has been formed, the sale committee should propose a reserve price in the Collective Sale Agreement (CSA) and collect signatures to the CSA from owners agreeing to the en-bloc sale. The requisite majority consent by share value and strata area (80% or 90% majority depending on the age of the development) must be obtained within one (1) year before the sale attempt can proceed further.
 
-### Professionals
+**Professionals**
 
 The Committee is to seek professional advice from property consultants and lawyers, as well to obtain an independent valuation report from an independent valuer.
 
-### Sale of development
+**Sale of development**
 
 When majority consent is obtained, the next step is for the sale committee to find a buyer through a public tender exercise where interested developers will submit their bids.
 
-### Preparations for application to the Strata Titles Boards
+**Preparations for application to the Strata Titles Boards**
 
 When a buyer is selected and the sale is agreed upon, an application may be made to the Strata Titles Boards to seek approval for the en-bloc sale. At this stage, owners who do not consent to the en-bloc sale can raise valid objections. The Board is required to consider these objections before deciding on the outcome of the application for sale.
 
-### PROCEEDINGS IN THE STRATA TITLES BOARDS
+**PROCEEDINGS IN THE STRATA TITLES BOARDS**
 
 **The Strata Titles Boards was established to mediate and hear an en-bloc application when it is made to the Board pursuant to the Land Titles (Strata) Act. Strata Titles Boards are tribunals and are not able to provide legal advice nor comment on any matter which may potentially be heard before the Board. Parties must seek independent legal advice or refer to [“Part VA – Collective Sale of Property” under the Land Titles (Strata) Act](https://sso.agc.gov.sg/Act/LTSA1967) for more information on en-bloc sales.**
 
@@ -71,7 +71,7 @@ A minority owner (i.e. unit owner who has not agreed to the sale in writing) may
 
 **Where objections are filed against the application**, the Board would mediate and assist parties to resolve the dispute. Please see details under [mediation](/start-here/mediation/ltsa/)
 
-### STEPS RELATING TO AN APPLICATION UNDER PART VA OF THE LAND TITLES (STRATA) ACT
+**STEPS RELATING TO AN APPLICATION UNDER PART VA OF THE LAND TITLES (STRATA) ACT**
 
 Below are general steps on filing an en-bloc sale application to the Strata Titles Boards as taken from the Land Titles (Strata) Act.
 
@@ -79,7 +79,7 @@ The information below serves as a general guide and should not be taken as forma
 
 **STEP 1: BEFORE FILING AN EN-BLOC APPLICATION**
 
-### Pre-conditions for applications to the Strata Titles Boards
+**Pre-conditions for applications to the Strata Titles Boards**
 
 Before filing an en-bloc sale application to the Strata Titles Boards, majority owners must fulfil the statutory requirements under the Land Titles (Strata) Act.
 
