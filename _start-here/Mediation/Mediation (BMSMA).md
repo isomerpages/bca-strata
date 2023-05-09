@@ -12,7 +12,7 @@ third_nav_title: Mediation
 **OVERVIEW OF MEDIATION (PROCESS FLOWCHART)**
 
 
-![Mediation (BMSMA) Process Flowchart](/images/General%20Proceedings/Mediation/BMSMA/bmsma-flowchart.png)
+![Mediation (BMSMA) Process Flowchart](/images/General%20Proceedings/Mediation/bmsma-flowchart.png)
 
 ### WHAT IS MEDIATION
 
