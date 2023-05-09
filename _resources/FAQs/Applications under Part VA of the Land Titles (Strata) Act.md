@@ -20,7 +20,7 @@ Examples of “appropriate attire” include formal wear, smart casual wear and 
 
 **Q3: Where can I find out more on en-bloc procedures?**
 
-You can visit our website at [www.stratatb.gov.sg](http://www.stratatb.gov.sg/ "Strata Titles Boards") and read up more under [Application](general-proceedings/application/applicant/).
+You can visit our website at [www.stratatb.gov.sg](http://www.stratatb.gov.sg/ "Strata Titles Boards") and read up more under [Application](/general-proceedings/application/applicant/).
   
 You can also see [“Part VA – Collective Sale of Property” under the Land Titles (Strata) Act](https://sso.agc.gov.sg/Act/LTSA1967 "Part VA – Collective Sale of Property").
 
