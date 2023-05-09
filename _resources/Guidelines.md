@@ -3,8 +3,8 @@ title: Guidelines
 permalink: /resources/guidelines/
 description: ""
 ---
-Guidelines - Building Maintenance and Strata Management Act
------------------------------------------------------------
+# Guidelines - Building Maintenance and Strata Management Act
+
 
 Guidelines for relevant forms under Part VI of the Building Maintenance and Strata Management Act
 
@@ -45,12 +45,11 @@ Where the authorising party is a **company**:
 **All authorised representatives must be familiar with the facts of the case and should be given the mandate to make decisions on behalf of the Applicant/Respondent.**
 [Sample Letter of Authorisation (Personal Capacity)]()
 
-Guidelines - Land Titles (Strata) Act
--------------------------------------
+### Guidelines - Land Titles (Strata) Act
 
 Guidelines for collective sale applications under Part VA of the Land Titles (Strata) Act
 * [Registrar's Circular 1/2009 on Stamping of Agreements  Related to the Collective Sale of Property under the Land Titles (Strata) Act, Part VA (PDF, 46 KB)](/files/Guidelines/registrars-circular-12009.pdf)
 * Registrar's Circular 1/2004 (internal link to https://www.stratatb.gov.sg/resources-guidelines.html#)
 * [Sample of Advertisement in English referred to in The First Schedule of the Land Titles (Strata) Act (PDF, 32 KB)](/files/Guidelines/sample%20of%20advertisement%20in%20english%20referred%20to%20in%20the%20first%20schedule%20of%20the%20land%20titles%20(strata)%20act.pdf)
 * [Sample of Advertisement in English referred to in section 84F(3) of the Land Titles (Strata) Act (PDF, 23 KB)](/files/Guidelines/sample-of-advertisement-in-english-referred-to-in-section-84f3.pdf)
-[Sample of Notice to Proprietor of Land to be incorporated into the Advertisement for Applications made under section 84E of the Land Titles (Strata) Act (PDF, 14 KB)](/files/Guidelines/sample-of-notice-to-proprietor-of-land.pdf)
+* [Sample of Notice to Proprietor of Land to be incorporated into the Advertisement for Applications made under section 84E of the Land Titles (Strata) Act (PDF, 14 KB)](/files/Guidelines/sample-of-notice-to-proprietor-of-land.pdf)
