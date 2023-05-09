@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Forms/.keep
       - Acts or Regulations.md
       - Fees/.keep
       - Fees/BMSMA.md
