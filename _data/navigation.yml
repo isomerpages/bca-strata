@@ -9,6 +9,8 @@ links:
   - title: Resources
     url: /resources/acts-regulations
     sublinks:
+      - title: News & Judgments
+        url: /all
       - title: Acts / Regulations
         url: /resources/acts-regulations
       - title: Fees
@@ -21,7 +23,5 @@ links:
         url: /resources/useful-links
       - title: FAQs
         url: /resources/faqs/bmsma/
-      - title: News & Judgments
-        url: /all
   - title: Contact Us
     url: /contact-us/
