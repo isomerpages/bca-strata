@@ -7,12 +7,12 @@ links:
   - title: Our Panel Members
     collection: our-panel-members
   - title: Resources
-    url: /resources
+    url: /resources/acts-regulations
     sublinks:
       - title: Acts / Regulations
         url: /resources/acts-regulations
       - title: Fees
-        url: /resources/fees
+        url: /resources/fees/bmsma/
       - title: Forms
         url: /resources/forms
       - title: Guidelines
