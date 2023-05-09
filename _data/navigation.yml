@@ -23,7 +23,5 @@ links:
         url: /resources/faqs
       - title: News & Judgments
         url: /all
-  - title: News and Judgments
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
