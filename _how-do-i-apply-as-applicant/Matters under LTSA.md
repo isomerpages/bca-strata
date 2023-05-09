@@ -77,7 +77,7 @@ Below are general steps on filing an en-bloc sale application to the Strata Titl
 
 The information below serves as a general guide and should not be taken as formal legal advice. The Board does not provide legal advice on any matter which may be potentially heard before it. Subsidiary proprietors should seek independent legal advice should they have queries on the en-bloc sale.
 
-**STEP 1: BEFORE FILING AN EN-BLOC APPLICATION**
+### STEP 1: BEFORE FILING AN EN-BLOC APPLICATION
 
 **Pre-conditions for applications to the Strata Titles Boards**
 
@@ -178,7 +178,7 @@ Before filing an en-bloc sale application to the Strata Titles Boards, majority 
     \[The First Schedule, paras. 1(e) and (h)\]
 		
 		
-**STEP 2: FILING AN APPLICATION**
+### STEP 2: FILING AN APPLICATION
 
 If you are intending to file an application at the Strata Titles Boards, please ensure that you have ready the following items:
 
@@ -224,13 +224,13 @@ Applicants must complete the Affidavit of Service for Form 21 – [Form 21A (PD
 
 After submitting the application at the Strata Titles Boards, the Applicants must lodge a copy of the application for registration at the **Singapore Land Authority**. For more information on the the registration process, please refer to the Singapore Land Authority’s website where a copy of the forms can be downloaded [http://www.sla.gov.sg](http://www.sla.gov.sg/ "Singapore Land Authority (SLA)").
 		
-**STEP 3: CONSTITUTION OF A BOARD**
+### STEP 3: CONSTITUTION OF A BOARD
 
 A three (3) or five (5)-member Board will be convened by the Strata Titles Boards to mediate and/or hear the case.
 
 All parties will receive a Notice of Constitution of a Strata Titles Board constituted to hear the application. All parties will have up to seven (7) days from this notice to object, in writing, to any Board member on reasonable grounds, such as conflicts of interest. Objection to any Board member will be submitted for the President’s consideration.
 
-**STEP 4: NOTICE OF MEDIATION DATE**
+### STEP 4: NOTICE OF MEDIATION DATE
 
 Applicants and Objectors, if any will be issued a Notice of Mediation informing of the mediation date to attend before the Board. Parties must attend the mediation.
 
