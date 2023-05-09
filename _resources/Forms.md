@@ -3,8 +3,8 @@ title: Forms
 permalink: /resources/forms/
 description: ""
 ---
-Important notes on Strata Titles Boards’ forms
-----------------------------------------------
+# Important notes on Strata Titles Boards’ forms
+
 
 1.  Please ensure that handwritten forms are neat and legible, or the form may not be accepted for processing.
     
@@ -14,8 +14,8 @@ Important notes on Strata Titles Boards’ forms
     
 4.  No legal advice can be given.
 
-Forms under Part VI of the Building Maintenance and Strata Management Act
--------------------------------------------------------------------------
+### Forms under Part VI of the Building Maintenance and Strata Management Act
+
 
 These forms apply to an application under Part VI of the Building Maintenance and Strata Management Act.
 
@@ -48,8 +48,8 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 [Consent to Withdrawal of Application Form](/files/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
 
-Forms under Part VA of the Land Titles (Strata) Act
----------------------------------------------------
+### Forms under Part VA of the Land Titles (Strata) Act
+
 
 These forms apply to an application under Part VA of the Land Titles (Strata) Act.
 
