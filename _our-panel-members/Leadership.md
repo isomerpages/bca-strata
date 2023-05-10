@@ -9,9 +9,13 @@ description: View STB's list of appointed Panel Members.
 | Mr. Alfonso Ang Cheng Ann,  PBM     | Profession:  Advocate & Solicitor |
 
 
+
+
 | Registrar |  |  |
 | -------- | -------- | -------- |
 | Ms. Angeline Tan Guek Ing    |  |
+
+
 
 
 
