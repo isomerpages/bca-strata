@@ -4,6 +4,8 @@ permalink: /resources/faqs/bmsma/
 description: ""
 third_nav_title: FAQs
 ---
+**Applications under Part VI of the Building Maintenance and Strata Management Act**
+
 **Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards?**
 
 Please note that:
