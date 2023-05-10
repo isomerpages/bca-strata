@@ -17,4 +17,4 @@ Serving the community by facilitating and reconciling all disputes effectively &
 *   Transparent and impartial
 *   Building trust and upholding cohesiveness in strata living
 
-![Vision, Mission, Core Values](/images/legal-advice-in-the-office-or-online-a-female-law-2022-11-14-01-35-55-utc%201.jpg)
+![](/images/strata-title-book.jpg)
