@@ -15,6 +15,6 @@ The proceedings at Strata Titles Boards consist of 4 main stages:
 
 Please refer to **Application**, **Mediation**, **Hearing**, **Post-hearing** for the detailed information on procedure at each stage.
 
-If you are intending to file an application relating to disputes under the Building Maintenance and Strata Management Act (“BMSMA”), you may wish to use our **pre-filing assessment tool** to go through some important points you should consider before making your application. Click [here](/general-proceedings/pre-filling-assessment-tool) to access the tool.
+If you are intending to file an application relating to disputes under the Building Maintenance and Strata Management Act (“BMSMA”), you may wish to use our **pre-filing assessment tool** to go through some important points you should consider before making your application. Click [here](/general-proceedings/prefilling-assessment-tool/) to access the tool.
 
 **IMPORTANT NOTE:** To reduce visits to the Strata Titles Boards office amidst the COVID-19 pandemic, please send in the soft copies of your application form to [stbapplication@mnd.gov.sg](mailto:stbapplication@mnd.gov.sg) for checking first. After your application has been accepted, instructions on making payment of the application fee and the submission of the hard copies of your application will be given.
