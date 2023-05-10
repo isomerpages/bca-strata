@@ -5,9 +5,21 @@ description: ""
 ---
 
 
-| Column 1 | Column 2 | Column 3 |  Column 4 |
-| -------- | -------- | -------- | -------- |
-| ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)     | **Mr. Alfonso Ang Cheng Ann, PBM**  Profession: Advocate & Solicitor   | ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)     |**Mr. Alfonso Ang Cheng Ann, PBM**  Profession: Advocate & Solicitor     |
+| President |  |  |
+| -------- | -------- | -------- |
+| Mr. Alfonso Ang Cheng Ann,  PBM     | Profession:  Advocate & Solicitor |
+
+| Registrar |  |  |
+| -------- | -------- | -------- |
+| Ms. Angeline Tan Guek Ing    |  |
+
+
+
+| Deputy Presidents |  |  |
+| -------- | -------- | -------- |
+| Mr. Remedios Francis George,  PPA(E)     | Profession: Retired District Judge     |  
+| Ms. Lee Lay See, PBM |    Profession: Advocate & Solicitor
+
 
 
 
