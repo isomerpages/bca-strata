@@ -77,18 +77,15 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 
 [Form No. 25](/files/Forms/form-25.pdf)
 
-**Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)
-**
+**Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)**
 
 [Form No. 26](/files/Forms/form26.pdf)
 
-**Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)
-**
+**Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)**
 
 [Form No. 27](/files/Forms/form27.pdf)
 
-**Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)
-**
+**Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**
 
 [Form No. 28](/files/Forms/form28.pdf)
 
