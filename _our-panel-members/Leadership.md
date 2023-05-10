@@ -9,9 +9,23 @@ description: View STB's list of appointed Panel Members.
 
 
 
+
+
+
+
+
+
 | Registrar |  |  |
 | -------- | -------- | -------- |
 | Ms. Angeline Tan Guek Ing    |  |
+
+
+
+
+
+
+
+
 
 
 
