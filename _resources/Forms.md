@@ -39,6 +39,19 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 These forms apply to an application under Part VA of the Land Titles (Strata) Act.
 
+
+
+| Forms | Word Document | PDF |
+| -------- | -------- | -------- |
+| **Application for Collective Sale Order**    | MS DOC    | [Form No. 21](/files/Forms/form-21.pdf)   |
+| **Affidavit of Service**   | MS DOC    | [Form No. 21A](/files/Forms/form-21a.pdf)   |
+| **Application for an Order under Section 84C**  | MS DOC    | [Form No. 22](/files/Forms/form-22.pdf)  |
+| **Application for an Order under Section 84C read with Section 84D or 84E**  | MS DOC    | [Form No. 23](/files/Forms/form-23.pdf)|
+| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)** | MS DOC    | [Form No. 24](/files/Forms/form-24.pdf)|
+| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**| MS DOC    | [Form No. 25](/files/Forms/form-25.pdf)|
+
+
+
 **Application for Collective Sale Order**
 
 [Form No. 21](/files/Forms/form-21.pdf)
