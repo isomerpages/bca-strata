@@ -3,7 +3,7 @@ title: Who We Are
 permalink: /about-us/who-we-are/
 description: Learn about STB's role, organisation structure and more.
 ---
-# **Who We Are**
+## **Who We Are**
 The Strata Titles Boards are tribunals established under the Building Maintenance and Strata Management Act (BMSMA) to mediate and hear applications between subsidiary proprietors and management corporation, or between subsidiary proprietors, in matters relating to certain disputes arising in respect of strata titled property and orders for collective sales of property under the Land Titles (Strata) Act.
 
 ![](/images/img-stb-book.jpg)
