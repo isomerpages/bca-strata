@@ -50,6 +50,8 @@ The Singapore State Court is located at: 1 Havelock Square, Singapore 059724
 
 ### WHAT IS A HEARING
 
+![what is hearing](/images/what-is-hearing.jpg)
+
 A hearing is a formal proceeding before the Board where both the Applicant and Respondent take turns to present their evidence through their respective witnesses and make legal submissions to the Board.
 
 To prepare for the hearing, parties should familiarise themselves with the affidavits of evidence-in-chief which have been filed and also prepare the questions for cross-examination of the other party’s witnesses.
