@@ -49,49 +49,9 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 | **Application for an Order under Section 84C read with Section 84D or 84E**  | MS DOC    | [Form No. 23](/files/Forms/form-23.pdf)|
 | **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)** | MS DOC    | [Form No. 24](/files/Forms/form-24.pdf)|
 | **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**| MS DOC    | [Form No. 25](/files/Forms/form-25.pdf)|
-
-
-
-**Application for Collective Sale Order**
-
-[Form No. 21](/files/Forms/form-21.pdf)
-
-**Affidavit of Service**
-
-[Form No. 21A](/files/Forms/form-21a.pdf)
-
-**Application for an Order under Section 84C**
-
-[Form No. 22](/files/Forms/form-22.pdf)
-
-**Application for an Order under Section 84C read with Section 84D or 84E**
-
-[Form No. 23](/files/Forms/form-23.pdf)
-
-**Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**
-
-[Form No. 24](/files/Forms/form-24.pdf)
-
-**Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4)**
-
-[Form No. 25](/files/Forms/form-25.pdf)
-
-**Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)**
-
-[Form No. 26](/files/Forms/form26.pdf)
-
-**Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)**
-
-[Form No. 27](/files/Forms/form27.pdf)
-
-**Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**
-
-[Form No. 28](/files/Forms/form28.pdf)
-
-**Notice Served Pursuant to Paragraph 1(b) of the First Schedule**
-
-[Form No. 30](/files/Forms/form30.pdf)
-
-**Land Titles (Strata) (Notice of Rescission) Regulations 2007**
-
-[Land Titles (Strata) (Notice of Rescission) Regulations 2007](/files/Forms/lt(s)a_reg_-_rescission_notice.pdf)
+| **Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)** | MS DOC    | [Form No. 26](/files/Forms/form26.pdf)|
+| **Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)**| MS DOC    | [Form No. 27](/files/Forms/form27.pdf)|
+| **Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**| MS DOC    | [Form No. 28](/files/Forms/form28.pdf)|
+| **Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**| MS DOC    | [Form No. 28](/files/Forms/form28.pdf)|
+| **Notice Served Pursuant to Paragraph 1(b) of the First Schedule**| MS DOC    | [Form No. 30](/files/Forms/form30.pdf)|
+| **Land Titles (Strata) (Notice of Rescission) Regulations 2007**| MS DOC    | [Land Titles (Strata) (Notice of Rescission) Regulations 2007](/files/Forms/lt(s)a_reg_-_rescission_notice.pdf)|
