@@ -17,6 +17,8 @@ third_nav_title: Mediation
 
 The Strata Titles Board will mediate matters in dispute between the Objectors and the Applicants for a maximum 60-days period. The Board’s role in mediation is to ensure that the Applicants comply with the provisions under the Land Titles (Strata) Act (LTSA).
 
+![mediation](/images/mediation.jpg)
+
 If the dispute cannot be successfully mediated by the Board at the end of 60 days starting from the date of the 1st mediation, or mediation has proceeded as far as it reasonably can but failed to resolve the dispute, whichever first occurs, with one or more of the objections not withdrawn, the Board shall order a discontinuance of mediation by way of a Stop Order.
 
 The matter will then proceed to the High Court for determination. Applicants who wish to apply to the High Court must do so within fourteen (14) days after the Board issues the Stop Order.
