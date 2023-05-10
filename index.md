@@ -28,7 +28,7 @@ sections:
       background: /images/Test hero image/10-test-strata-board-bg.jpg
   - infopic:
       title: General Proceedings
-      description: Understanding how general proceedings is processed.
+      description: Understanding how general proceedings work
       button: Find out more
       url: /general-proceedings
       image: /images/businessman-discussing.jpg
