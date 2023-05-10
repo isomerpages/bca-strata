@@ -4,6 +4,8 @@ permalink: /resources/faqs/ltsa/
 description: ""
 third_nav_title: FAQs
 ---
+**Applications under Part VA of the Land Titles (Strata) Act**
+
 **Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards?**
 
 Please note that:
