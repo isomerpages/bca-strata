@@ -9,27 +9,30 @@ Disclaimer: This pre-filing assessment tool is for general guidance only in rela
 
 Yes. Please proceed to the next question.
 
-No. STB only handles disputes relating to strata-titled properties. You may wish to seek legal advice on how to resolve your issue(s). [You may wish to verify this point by using the Building and Construction Authority’s online MCST Enquiry tool.]
+No. STB only handles disputes relating to strata-titled properties. You may wish to seek legal advice on how to resolve your issue(s). 
+[You may wish to verify this point by using the Building and Construction Authority’s online MCST Enquiry tool.]
 
 2.       Have you verified whether you are entitled to apply for the orders you are seeking as the Applicant(s)? 
 
 Yes. Please proceed to the next question.
 
-No. You may wish to refer to STB’s Notes of Guidance to see whether you are entitled to make an application at STB. If you are in doubt, you may wish to seek independent legal advice. [You may wish to refer to STB’s Notes of Guidance for applications.]
+No. You may wish to refer to STB’s Notes of Guidance to see whether you are entitled to make an application at STB. If you are in doubt, you may wish to seek independent legal advice. 
+[You may wish to refer to STB’s Notes of Guidance for applications.]
 
 3.       Have you listed the correct person/entity as the Respondent(s) in your application?
 
 Yes. Please proceed to the next question.
 
-No. Please refer to the relevant sections of the BMSMA to ensure that you have listed the Respondent(s) for the order(s) you are seeking accurately. If you are in doubt, you may wish to seek independent legal advice. [You may wish to refer to the relevant sections of the BMSMA to verify who may be listed as the Respondent(s) for the order(s) you are seeking.]
+No. Please refer to the relevant sections of the BMSMA to ensure that you have listed the Respondent(s) for the order(s) you are seeking accurately. If you are in doubt, you may wish to seek independent legal advice. 
+[You may wish to refer to the relevant sections of the BMSMA to verify who may be listed as the Respondent(s) for the order(s) you are seeking.]
 
 4.       Have you considered whether the scope of the Board’s powers under the order(s) you are seeking are applicable/relevant to your case? 
-
-[You may wish to refer to the relevant sections of the BMSMA to find out more about the types of orders a Board may make.]
 
 Yes. Please proceed to the next question.
 
 No. Please refer to the relevant sections of the BMSMA regarding the Board’s powers under the order(s) you are seeking to ensure relevance of the orders sought. If you are in doubt, you may wish to seek independent legal advice.
+
+[You may wish to refer to the relevant sections of the BMSMA to find out more about the types of orders a Board may make.]
 
 5.       Have you attempted to contact the Respondent(s) directly to check whether an amicable solution is possible before filing this application?
 
