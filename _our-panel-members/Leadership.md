@@ -18,4 +18,6 @@ description: View STB's list of appointed Panel Members.
 | Deputy Presidents |  |  |
 | -------- | -------- | -------- |
 | Mr. Remedios Francis George,  PPA(E)     | Profession: Retired District Judge     |  
-| Ms. Lee Lay See, PBM |    Profession: Advocate & Solicitor
+| Ms. Lee Lay See, PBM |    Profession: Advocate & Solicitor |
+| Mr. Raymond Lye Hoong Yip, BBM, PBM | Profession: Advocate & Solicitor |
+| Mr. Oommen Matthew | Profession: Advocate & Solicitor |
