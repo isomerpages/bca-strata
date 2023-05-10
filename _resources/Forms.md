@@ -52,6 +52,5 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 | **Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)** | MS DOC    | [Form No. 26](/files/Forms/form26.pdf)|
 | **Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)**| MS DOC    | [Form No. 27](/files/Forms/form27.pdf)|
 | **Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**| MS DOC    | [Form No. 28](/files/Forms/form28.pdf)|
-| **Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**| MS DOC    | [Form No. 28](/files/Forms/form28.pdf)|
 | **Notice Served Pursuant to Paragraph 1(b) of the First Schedule**| MS DOC    | [Form No. 30](/files/Forms/form30.pdf)|
 | **Land Titles (Strata) (Notice of Rescission) Regulations 2007**| MS DOC    | [Land Titles (Strata) (Notice of Rescission) Regulations 2007](/files/Forms/lt(s)a_reg_-_rescission_notice.pdf)|
