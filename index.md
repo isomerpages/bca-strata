@@ -26,10 +26,14 @@ sections:
           description: ""
           url: /faq/
       background: /images/Test hero image/10-test-strata-board-bg.jpg
-  - infobar:
+  - infopic:
       title: General Proceedings
-      button: Click Here
+      subtitle: Infopic Subtitle
+      description: Understanding how general proceedings is processed.
+      button: Find out more
       url: /general-proceedings
+      image: /images/businessman-discussing.jpg
+      alt: General Proceedings
   - resources:
       title: News & Judgments
       button: Read More
