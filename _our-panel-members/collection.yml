@@ -2,5 +2,5 @@ collections:
   our-panel-members:
     output: true
     order:
-      - Board Members.md
       - Leadership.md
+      - Board Members.md
