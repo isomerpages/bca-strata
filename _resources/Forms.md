@@ -8,7 +8,7 @@ description: ""
 
 1.  Please ensure that handwritten forms are neat and legible, or the form may not be accepted for processing.
     
-~~2.  If you filling out a form in MS Word format, please ensure that the finished document conforms to the required format as shown in the PDF version. Fields should not be removed from a MS Word version form.~~
+2.  If you filling out a form in MS Word format, please ensure that the finished document conforms to the required format as shown in the PDF version. Fields should not be removed from a MS Word version form.
     
 3.  Hardcopies of signed and completed forms are to be submitted to the Strata Titles Boards.
     
