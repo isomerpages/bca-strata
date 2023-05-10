@@ -26,6 +26,8 @@ All parties are required to attend the direction hearing, or authorise a represe
 
 ### WHAT HAPPENS DURING A DIRECTION HEARING
 
+![](/images/meeting-in-progress.jpg)
+
 At a directions hearing, the Board may, among other things:
 
 1.  Check the number of witnesses a party may require.
