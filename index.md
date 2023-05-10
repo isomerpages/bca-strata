@@ -28,7 +28,6 @@ sections:
       background: /images/Test hero image/10-test-strata-board-bg.jpg
   - infopic:
       title: General Proceedings
-      subtitle: Infopic Subtitle
       description: Understanding how general proceedings is processed.
       button: Find out more
       url: /general-proceedings
