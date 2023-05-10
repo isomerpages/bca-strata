@@ -15,7 +15,9 @@ third_nav_title: Mediation
 ### WHAT IS MEDIATION
 
 Mediation is a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution. The mediation at Strata Titles Boards is conducted by a Board of three (3) or five (5) board members. During the mediation, all parties will be allowed to present their respective evidence and make submissions to the Board. The Board’s function is to facilitate parties in an attempt to reach an amicable settlement to resolve their dispute. Unless expressly requested by all parties involved, the Board will not make any ruling with respect to the dispute.
-![](/images/teamwork-concept-project-team-making-conversation-2023-04-28-05-33-39-utc%201.png)
+
+![mediation](/images/solving%20problem.jpg)
+
 **Confidentiality**
 
 Mediation sessions are **private and confidential**, and no transcript or audio-visual recording will be made during the sessions. As the sessions are conducted in confidence, only the relevant parties and/or their representatives are permitted to be present during the mediation.
