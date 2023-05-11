@@ -7,12 +7,14 @@ description: A case in the Strata Titles Boards commences when an Applicant
   Respondent.
 third_nav_title: Application
 ---
-# What is the issue
+# Types of Orders
 [Type of Orders under BMSMA](/what-is-the-issue/type-of-orders-under-bmsma/)
 
 [Type of Orders under LTSA](/what-is-the-issue/type-of-orders-under-ltsa/)
 
-# How do I apply
+
+
+# How to Apply
  [Matters under BMSMA](/how-do-i-apply/matters-under-bmsma/)
 
 [Matters under LTSA](/how-do-i-apply/matters-under-ltsa/)
