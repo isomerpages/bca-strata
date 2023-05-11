@@ -8,13 +8,13 @@ description: ""
 ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Dr. Lim Lan Yuan, BBM(L), BBM, PPA, PBM, JP | Property Consultant |
 ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Tang Tuck Kim, PBM | Land Surveyor |
 ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Er. Lai Huen Poh, BBM, PBM | Civil & Structural Engineer |
-| Ar. Lee Coo, PBM | Architect, Urban Designer, Transportation Engineer |
-| Mr. Kong Mun Kwong, PJG, BBM(L), BBM, PBM, JP | Company Director, Quantity Surveyor |
-| Mr. Lim Gnee Kiang | Property Consultant |
-| Prof. Lye Lin Heng, PBM | Law Professor |
-| Prof. Teo Keang Sood, PBM | Law Professor |
-| Mr. Frankie Chia Soo Hien, PBM | Chartered Accountant |
-| Mr. Lim Boon Cheng | Chartered Accountant | 
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Ar. Lee Coo, PBM | Architect, Urban Designer, Transportation Engineer |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Kong Mun Kwong, PJG, BBM(L), BBM, PBM, JP | Company Director, Quantity Surveyor |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Lim Gnee Kiang | Property Consultant |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Prof. Lye Lin Heng, PBM | Law Professor |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Prof. Teo Keang Sood, PBM | Law Professor |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Frankie Chia Soo Hien, PBM | Chartered Accountant |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Lim Boon Cheng | Chartered Accountant | 
 | Mr. Richard Tan Ming Kirk | Advocate & Solicitor |
 | Dr. Tang Hang Wu | Law Professor | 
 | Mr. Winston Hauw Sze Shiung | Quantity Surveyor | 
