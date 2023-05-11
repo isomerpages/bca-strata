@@ -14,7 +14,7 @@ The Building and Construction Authority (BCA) is an agency under the Ministry of
 
 The Building Maintenance and Strata Management Act (BMSMA) is administered by the Commissioner of Buildings of the BCA. The “[**Strata Living in Singapore – A General Guide**](https://www1.bca.gov.sg/regulatory-info/building-maintenance-and-strata-management/management-corporation-strata-title-mcst/strata-living-guide "Strata Living in Singapore – A General Guide")” is a guide published by BCA to assist laypersons (owners) in understanding the key provisions in the BMSMA. The guide covers basic information on strata living to facilitate better management of strata developments.
 
-Please note that the contents of Chapter 11 of the above guide have been updated (as at 31 Jan 2019) and can be downloaded at this [link](https://www.bca.gov.sg/BMSM/others/Chapter11.pdf).
+Please note that the contents of Chapter 11 of the above guide have been updated (as at 31 Jan 2019) and can be downloaded [here](https://www.bca.gov.sg/BMSM/others/Chapter11.pdf).
 
   
 
