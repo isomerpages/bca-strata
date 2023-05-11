@@ -18,13 +18,13 @@ sections:
       key_highlights:
         - title: Resources
           description: ""
-          url: /resources/
+          url: /resources/acts-regulations/
         - title: Useful links
           description: ""
-          url: /useful-links/
+          url: /resources/useful-links/
         - title: FAQs
           description: ""
-          url: /faq/
+          url: /resources/faqs/bmsma/
       background: /images/Test hero image/10-test-strata-board-bg.jpg
   - infopic:
       title: General Proceedings
