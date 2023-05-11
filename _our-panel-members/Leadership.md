@@ -3,19 +3,19 @@ title: Leadership
 permalink: /our-panel-members/leadership/
 description: View STB's list of appointed Panel Members.
 ---
-| President |  | Profession  |
+| President | Profession |   |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Alfonso Ang Cheng Ann,  PBM     | Advocate & Solicitor |
+| Mr. Alfonso Ang Cheng Ann,  PBM     | Advocate & Solicitor |
 
 
 | Registrar |  |  |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Ms. Angeline Tan Guek Ing    |  |
+| Ms. Angeline Tan Guek Ing    |  |
 
 
-| Deputy Presidents |  | Profession |
+| Deputy Presidents | Profession |  |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Remedios Francis George,  PPA(E) | Retired District Judge |  
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Ms. Lee Lay See, PBM | Advocate & Solicitor |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Raymond Lye Hoong Yip, BBM, PBM | Advocate & Solicitor |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Oommen Mathew | Advocate & Solicitor |
+| Mr. Remedios Francis George,  PPA(E) | Retired District Judge |  
+| Ms. Lee Lay See, PBM | Advocate & Solicitor |
+| Mr. Raymond Lye Hoong Yip, BBM, PBM | Advocate & Solicitor |
+| Mr. Oommen Mathew | Advocate & Solicitor |
