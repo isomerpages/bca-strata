@@ -22,7 +22,7 @@ Examples of “appropriate attire” include formal wear, smart casual wear and 
 
 **Q3: What are the relevant legislations applicable to an application filed under the BMSMA?**
 
-The relevant legislations are the Building Maintenance and Strata Management Act and the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which can be viewed under [Resources](/resources/acts-regulations/)
+The relevant legislations are the Building Maintenance and Strata Management Act and the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which can be viewed under [Resources](/resources/acts-regulations/).
 
 **Q4: Why must the Applicant pay $500 application fee?**
 
