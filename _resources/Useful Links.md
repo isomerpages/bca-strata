@@ -26,7 +26,7 @@ Mediation at CMC is a confidential dispute resolution process. A trained mediato
 
   
 
-[Ministry of Law (MinLaw)](https://www.mlaw.gov.sg/content/minlaw/en.html "Ministry of Law (MinLaw)")
+[Ministry of Law (MinLaw)](https://www.mlaw.gov.sg/)
 
 The Ministry of Law (MinLaw) formulates and reviews legal, intellectual property, land, insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation policies, as well as legislation and strategies under MinLaw's purview. It also provide legal and policy input for other Ministries' proposed Bills and programmes.
 
