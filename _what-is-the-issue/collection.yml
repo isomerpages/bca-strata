@@ -1,5 +1,5 @@
 collections:
-  applicant-what-is-the-issue:
+  what-is-the-issue:
     output: true
     order:
       - Type of Orders under BMSMA.md
