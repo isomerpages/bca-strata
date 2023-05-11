@@ -10,6 +10,8 @@ A case in the Strata Titles Boards commences when an Applicant files an applicat
 
 The proceedings at Strata Titles Boards consist of 4 main stages:
 
+![4 main stage of proceedings](/images/main-stage-of-proceedings.jpg)
+
 1.  Application: The Applicant will file an application against the Respondent.
 2.  Mediation: All parties (Applicant and Respondent) are required to attend mediation session(s) fixed by the Board. The matter may stop at mediation if parties resolve the dispute at that stage.
 3.  Hearing: If the matter cannot be resolved at the mediation stage, the Board will give directions to the parties to prepare for a hearing and fix the hearing date.
