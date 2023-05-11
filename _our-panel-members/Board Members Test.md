@@ -3,7 +3,7 @@ title: Board Members Test
 permalink: /our-panel-members/board-members-test/
 description: ""
 ---
-|  |  Board Members |  Profession |
+| Board Members |   |  Profession |
 | -------- | -------- | -------- |
 ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Dr. Lim Lan Yuan, BBM(L), BBM, PPA, PBM, JP | Property Consultant |
 ![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Tang Tuck Kim, PBM | Land Surveyor |
