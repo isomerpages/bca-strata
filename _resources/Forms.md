@@ -5,7 +5,7 @@ description: ""
 ---
 # Important notes on Strata Titles Boards’ forms
 
-![](/images/looking-documents.jpg)
+![](/images/important%20information%20.jpg)
 
 1.  Please ensure that handwritten forms are neat and legible, or the form may not be accepted for processing.
     
