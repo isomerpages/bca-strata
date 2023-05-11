@@ -24,7 +24,7 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 | Form | Word Document | PDF |
 | -------- | -------- | -------- |
-| **Application for Order under Part VI by an Individual or a Company*   | MS DOC   |[Form No. 08](/files/Forms/form-8.pdf)   |
+| **Application for Order under Part VI by an Individual or a Company**   | MS DOC   |[Form No. 08](/files/Forms/form-8.pdf)   |
 | **Application for Order under Part VI by a Management Corporation**  | MS DOC   |[Form No. 09](/files/Forms/form-9-05042021.pdf) |
 | **Interlocutory Application Form** | MS DOC   |[Interlocutory Application Form](/files/Forms/revised-interlocutory-application-form-dec2022.pdf) |
 | **Notice of Objection to Interlocutory Application**| MS DOC   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
