@@ -11,7 +11,7 @@ description: View STB's list of appointed Panel Members.
 | Ar. Lee Coo, PBM | Architect, Urban Designer, Transportation Engineer |
 | Mr. Kong Mun Kwong, PJG, BBM(L), BBM, PBM, JP | Company Director, Quantity Surveyor |
 | Mr. Lim Gnee Kiang | Property Consultant |
-| Prof. Lye Lin Heng | Law Professor |
+| Prof. Lye Lin Heng, PBM | Law Professor |
 | Prof. Teo Keang Sood, PBM | Law Professor |
 | Mr. Frankie Chia Soo Hien, PBM | Chartered Accountant |
 | Mr. Lim Boon Cheng | Chartered Accountant | 
@@ -50,4 +50,3 @@ description: View STB's list of appointed Panel Members.
 | Er. Ting Thiam Siu | Engineer |
 | Mr. Lee Cheng Sung | Building Surveyor | 
 | Ms. Jennier Marie, SC PPA(P), PPA(E), PPA(Gold)(Bar) | Adjunct Professor. Retired Deputy Presiding Judge |
-
