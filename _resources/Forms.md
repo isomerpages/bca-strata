@@ -3,7 +3,7 @@ title: Forms
 permalink: /resources/forms/
 description: ""
 ---
-# Important notes on Strata Titles Boards’ forms
+### Important notes on Strata Titles Boards’ forms
 
 ![](/images/important%20information%20.jpg)
 
