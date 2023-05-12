@@ -6,9 +6,7 @@ description: Access links to other useful websites.
 # Singapore Government Websites
 
 
-  
-![Building and Construction Authority](/images/useful-link-bca.jpg)
-[Building and Construction Authority (BCA)](https://www.bca.gov.sg/ "Building and Construction Authority (BCA)")
+![Building and Construction Authority ](/images/Useful%20Links%20gov%20logo/useful-link-bca.jpg)
 
 The Building and Construction Authority (BCA) is an agency under the Ministry of National Development (MND), championing the development of an excellent built environment for Singapore. “Built environment” refers to buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities.
 
