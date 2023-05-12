@@ -22,7 +22,7 @@ The Community Mediation Centre (CMC) provides mediation services to residents in
 Mediation at CMC is a confidential dispute resolution process. A trained mediator will facilitate discussion between the disputing parties with the objective of reaching mutually acceptable solutions.
 
   
-![Ministry of Law](/images/Useful%20Links%20gov%20logo/useful-link-mol.jpg)
+![Ministry of Law](/images/Useful%20Links%20%20Gov%20Logo/useful-link-mol.jpg)
 [Ministry of Law (MinLaw)](https://www.mlaw.gov.sg/)
 
 The Ministry of Law (MinLaw) formulates and reviews legal, intellectual property, land, insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation policies, as well as legislation and strategies under MinLaw's purview. It also provide legal and policy input for other Ministries' proposed Bills and programmes.
