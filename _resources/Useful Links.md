@@ -70,27 +70,26 @@ The Association of Property and Facility Managers (APFM) was formed in 1995 to p
 SINGOV is the official online communication platform and repository of the Singapore Government. Users will be able to locate important information on the latest policy announcements and search for contact information of public service agencies.
 
   
-
+![Singapore Institute of Surveyors and Valuers](/images/useful-link-sisv.jpg)
 [Singapore Institute of Surveyors & Valuers (SISV)](http://www.sisv.org.sg/ "Singapore Institute of Surveyors & Valuers (SISV)")
 
 The Singapore Institute of Surveyors & Valuers (SISV) secures the advancement and facilitates the acquisition of that knowledge which constitutes the professions of Land Surveying, Quantity Surveying and Valuation and General Practice Surveying.
 
 The SISV promotes the general interests of the profession and strives to maintain and improve its usefulness for the benefit of the public. SISV also regulates and improves the standards of professional conduct and practice of its members.
 
-  
+![Singapore Mediation Centre](/images/useful-link-mediation.jpg)  
 
 [Singapore Mediation Centre](http://www.mediation.com.sg/ "Singapore Mediation Centre")
 
 The Singapore Mediation Centre (SMC), which comes under the Singapore Academy of Law (SAL), is a not-for-profit organisation providing mediation and other alternative dispute resolution (ADR) services. Construction disputes account for about 40% of the cases that SMC handles.
 
-  
-
+![Singapore Statues Online](/images/useful-link-sso.jpg)  
 [Singapore Statutes Online](https://sso.agc.gov.sg/ "Singapore Statutes Online")
 
 The Singapore Statutes Online is a legal research tool which offers access to the full text of all current Acts of Singapore. Updated on a monthly basis, the service is provided by the Attorney-General's Chambers and the Ministry of Finance.
 
   
-
+![REACH Feedback Unit](/images/useful-link-reach.jpg)
 [REACH](https://www.reach.gov.sg/ "REACH")
 
 REACH was set up in October 2006 as part of the restructuring plans for the Feedback Unit to move beyond gathering public feedback, and to become the lead agency for engaging and connecting with citizens.
