@@ -232,7 +232,7 @@ All parties will receive a Notice of Constitution of a Strata Titles Board const
 
 ### STEP 4: NOTICE OF MEDIATION DATE
 
-Applicants and Objectors, if any will be issued a Notice of Mediation informing of the mediation date to attend before the Board. Parties must attend the mediation.
+Applicants and Objectors, if any will be issued a Notice of Mediation informing parties of the mediation date to attend before the Board. Parties must attend the mediation.
 
 No fees are payable for the first two (2) mediations.
 
