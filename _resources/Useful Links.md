@@ -30,7 +30,7 @@ The Ministry of Law (MinLaw) formulates and reviews legal, intellectual property
 The Land Titles (Strata) Act (LTSA) comes under the purview of MinLaw.
 
   
-![Ministry of National Development](/images/Useful%20Links%20gov%20logo/useful-link-mnd.jpg)
+![Ministry of National Development](/images/Useful%20Links%20%20Gov%20Logo/useful-link-mnd.jpg)
 [Ministry of National Development (MND)](https://www.mnd.gov.sg/ "Ministry of National Development (MND)")
 
 Together with its statutory boards, the Ministry of National Development (MND) guides Singapore’s land use planning and urban development, delivers affordable and quality public housing solutions, develops an efficient construction industry to ensure a quality and sustainable built environment, provides and manages parks and open spaces, maintains a high standard of food safety as well as animal and plant health, and protects consumer interest by raising the professionalism in the real estate agent industry.
@@ -38,7 +38,7 @@ Together with its statutory boards, the Ministry of National Development (MND) g
 The Strata Titles Boards is provided for in the Building Maintenance and Strata Management Act (BMSMA), which comes under the ambit of the MND.
 
   
-![Singapore Land Authority](/images/Useful%20Links%20gov%20logo/useful-link-sla.jpg)
+![Singapore Land Authority  ](/images/Useful%20Links%20%20Gov%20Logo/useful-link-sla.jpg)
 [Singapore Land Authority (SLA)](https://www.sla.gov.sg/ "Singapore Land Authority (SLA)")
 
 The Singapore Land Authority (SLA) is a statutory board under the Ministry of Law whose mission is to optimise land resources for the economic and social development of Singapore.
