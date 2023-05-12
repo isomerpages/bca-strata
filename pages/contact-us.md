@@ -14,7 +14,7 @@ locations:
         description: ""
       - days: Fri
         time: 8.30am - 5.00pm
-        description: (Closed from 1:00PM to 2:00PM)
+        description: (Closed from 1.00pm to 2.00pm and public holidays)
     maps_link: https://www.onemap.sg/minimap/mm.html?mapStyle=Original&zoomLevel=17&latLng=1.279568572,103.8453122&ewt=JTNDcCUzRTQ1JTIwTWF4d2VsbCUyMFJvYWQlM0NiciUyMCUyRiUzRSUyMzA1LTAyJTIwVGhlJTIwVVJBJTIwQ2VudHJlJTNDYnIlMjAlMkYlM0VTaW5nYXBvcmUlMjAwNjkxMTglM0MlMkZwJTNF&popupWidth=200&showPopup=true
     title: Location
 ---
