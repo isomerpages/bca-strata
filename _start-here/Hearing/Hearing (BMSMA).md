@@ -10,7 +10,7 @@ third_nav_title: Hearing
 
 **PROCESS FLOWCHART**
 
-![](/images/General%20Proceedings/Hearing/hearing-bmsma-flowchart.png)
+![](/images/General%20Proceedings/Hearing/directions-hearing-bmsma-flowchart.png)
 
 In the event that the matter is not resolved at the mediation session(s), the Board may fix a date for directions hearing where the Board will give directions as to how the case should proceed for a hearing.
 
