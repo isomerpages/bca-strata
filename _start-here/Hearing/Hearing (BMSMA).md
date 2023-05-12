@@ -45,8 +45,6 @@ Affidavits of evidence-in-chief which each party is relying on, must be filed wi
 
 > **Notes:**
 An affidavit of evidence-in-chief is a sworn statement made by your witness on the facts and evidence. It is annexed with supporting documents (if any). An affidavit must be declared to be truthful and signed in the presence of a Commissioner for Oaths. 
-Alternatively, you may appear before a lawyer who is a Commissioner for Oaths.
-The Singapore State Court is located at: 1 Havelock Square, Singapore 059724
 
 ### WHAT IS A HEARING
 
