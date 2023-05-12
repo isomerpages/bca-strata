@@ -64,7 +64,6 @@ You can now email your application form to the Strata Titles Boards. For all tex
     
     Strata Titles Boards’ application fee of S$500 includes the processing and administration of disputes between management corporations and subsidiary proprietors or between subsidiary proprietors. It covers 2 mediation sessions.
     
-    Payment can be made preferably by way of a cheque, made out in favour of “Strata Titles Boards” and deposited at Strata Titles Boards’ office during office hours.
     
     Strata Titles Boards does not accept payment by way of NETS or VISA.
 
