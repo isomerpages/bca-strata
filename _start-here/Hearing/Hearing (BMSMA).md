@@ -14,17 +14,17 @@ third_nav_title: Hearing
 
 In the event that the matter is not resolved at the mediation session(s), the Board may fix a date for directions hearing where the Board will give directions as to how the case should proceed for a hearing.
 
-### WHAT IS A DIRECTION HEARING
+### WHAT IS A DIRECTIONS HEARING
 
 ![](/images/discussion.jpg)
 
-A direction hearing is a brief hearing before a Board to discuss the progress of the application and give directions as to future conduct of the matter. The main purpose is to get all parties who are unable to settle the matter at mediation ready for the hearing. In preparing parties on the requirements and procedure for hearing, it facilitates the expeditious resolution of the dispute.
+A directions hearing is a brief hearing before a Board to discuss the progress of the application and give directions as to future conduct of the matter. The main purpose is to get all parties who are unable to settle the matter at mediation ready for the hearing. In preparing parties on the requirements and procedure for hearing, it facilitates the expeditious resolution of the dispute.
 
-### WHO ATTENDS A DIRECTION HEARING
+### WHO ATTENDS A DIRECTIONS HEARING
 
-All parties are required to attend the direction hearing, or authorise a representative by way of a letter of authority.
+All parties are required to attend the directions hearing, or authorise a representative by way of a letter of authority.
 
-### WHAT HAPPENS DURING A DIRECTION HEARING
+### WHAT HAPPENS DURING A DIRECTIONS HEARING
 
 ![](/images/meeting-in-progress.jpg)
 
