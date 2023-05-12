@@ -17,7 +17,7 @@ Please note that the contents of Chapter 11 of the above guide have been updated
 
   
 ![CMC](/images/Useful%20Links%20%20Gov%20Logo/useful-link-cmc.jpg)
-(https://www.mlaw.gov.sg/content/cmc/en.html "Community Mediation Centre (CMC)")
+[Community Mediation Centre (CMC)](https://cmc.mlaw.gov.sg/)
 
 The Community Mediation Centre (CMC) provides mediation services to residents in Singapore who face social, relational and community disputes. Full-time public service officers of the Ministry of Law manage the administration of mediation cases, management of volunteer mediators, publicity and outreach work as well as other administrative matters.
 
