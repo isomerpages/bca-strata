@@ -49,7 +49,7 @@ The Singapore Land Authority (SLA) is a statutory board under the Ministry of La
 As the statutory board of MinLaw, the SLA facilitates the administration of the Land Titles (Strata) Act which is under MinLaw’s purview.
 
   
-
+![Urban Redevelopment Authority (URA](/images/useful-link-ura.jpg)
 [Urban Redevelopment Authority (URA)](https://www.ura.gov.sg/ "Urban Redevelopment Authority (URA)")
 
 The Urban Redevelopment Authority (URA) is Singapore's national land use planning authority and a statutory board under the Ministry of National Development (MND). URA is responsible for land-use planning, development control, urban design, building conservation, land sales, and carpark management. URA prepares long term strategic plans, as well as detailed local area plans, for physical development, and then co-ordinates and guides efforts to bring these plans to reality.
