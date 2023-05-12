@@ -3,11 +3,10 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-1.  **Agreement - Terms** 
-    All access of any area of [https://www.stratatb.gov.sg/](https://www.stratatb.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
-		
-    In these Terms, the words "we", "our" and "us" refers to the Government of Singapore.
-    
+1.  **Agreement - Terms**   
+All access of any area of [https://www.stratatb.gov.sg/](https://www.stratatb.gov.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms.
+In these Terms, the words "we", "our" and "us" refers to the Government of Singapore.
+
 2.  **Access To The Website**  
     The accessibility and operation of The Website relies on technologies outside our control. We do not guarantee continuous accessibility or uninterrupted operation of The Website.
     
