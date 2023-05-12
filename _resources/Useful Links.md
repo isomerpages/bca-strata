@@ -17,7 +17,7 @@ The Building Maintenance and Strata Management Act (BMSMA) is administered by th
 Please note that the contents of Chapter 11 of the above guide have been updated (as at 31 Jan 2019) and can be downloaded [here](https://www.bca.gov.sg/BMSM/others/Chapter11.pdf).
 
   
-
+![CMC](/images/useful-link-cmc.jpg)
 [Community Mediation Centre (CMC)](https://www.mlaw.gov.sg/content/cmc/en.html "Community Mediation Centre (CMC)")
 
 The Community Mediation Centre (CMC) provides mediation services to residents in Singapore who face social, relational and community disputes. Full-time public service officers of the Ministry of Law manage the administration of mediation cases, management of volunteer mediators, publicity and outreach work as well as other administrative matters.
@@ -25,7 +25,7 @@ The Community Mediation Centre (CMC) provides mediation services to residents in
 Mediation at CMC is a confidential dispute resolution process. A trained mediator will facilitate discussion between the disputing parties with the objective of reaching mutually acceptable solutions.
 
   
-
+![Ministry of Law](/images/useful-link-mol.jpg)
 [Ministry of Law (MinLaw)](https://www.mlaw.gov.sg/)
 
 The Ministry of Law (MinLaw) formulates and reviews legal, intellectual property, land, insolvency, public trustee, moneylending, pawnbroking, legal aid and community mediation policies, as well as legislation and strategies under MinLaw's purview. It also provide legal and policy input for other Ministries' proposed Bills and programmes.
@@ -33,7 +33,7 @@ The Ministry of Law (MinLaw) formulates and reviews legal, intellectual property
 The Land Titles (Strata) Act (LTSA) comes under the purview of MinLaw.
 
   
-
+![Ministry of National Development](/images/useful-link-mnd.jpg)
 [Ministry of National Development (MND)](https://www.mnd.gov.sg/ "Ministry of National Development (MND)")
 
 Together with its statutory boards, the Ministry of National Development (MND) guides Singapore’s land use planning and urban development, delivers affordable and quality public housing solutions, develops an efficient construction industry to ensure a quality and sustainable built environment, provides and manages parks and open spaces, maintains a high standard of food safety as well as animal and plant health, and protects consumer interest by raising the professionalism in the real estate agent industry.
@@ -41,7 +41,7 @@ Together with its statutory boards, the Ministry of National Development (MND) g
 The Strata Titles Boards is provided for in the Building Maintenance and Strata Management Act (BMSMA), which comes under the ambit of the MND.
 
   
-
+![Singapore Land Authority](/images/useful-link-sla.jpg)
 [Singapore Land Authority (SLA)](https://www.sla.gov.sg/ "Singapore Land Authority (SLA)")
 
 The Singapore Land Authority (SLA) is a statutory board under the Ministry of Law whose mission is to optimise land resources for the economic and social development of Singapore.
