@@ -30,7 +30,7 @@ These forms apply to an application under Part VI of the Building Maintenance an
 | **Notice of Objection to Interlocutory Application**| MS DOC   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
 | **Memorandum of Service of Application**| MS DOC   |[Memorandum of Service of Application](/files/Forms/memorandum-of-service-of-application.pdf)|
 | **Withdrawal of Application Form**| MS DOC   |[Withdrawal of Application Form](/files/Forms/withdrawal-of-application-form(applicant)-060821.pdf)
-|**Consent to Withdrawal of Application Form**| MS DOC   |[Consent to Withdrawal of Application Form](/files/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
+|**Consent to Withdrawal of Application Form**| MS DOC   |[Consent to Withdrawal of Application Form](/files/Forms/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf)
 
 
 
