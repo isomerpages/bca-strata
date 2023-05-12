@@ -2,7 +2,6 @@ collections:
   our-panel-members:
     output: true
     order:
-      - Leadership Test.md
       - Board Members Test.md
       - Leadership.md
       - Board Members.md
