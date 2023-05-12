@@ -3,11 +3,11 @@ title: Board Members
 permalink: /our-panel-members/board-members/
 description: View STB's list of appointed Panel Members.
 ---
-| Board Members | Profession  |   |
+| Board Members |  | Profession  |
 | -------- | -------- | -------- |
-| Dr. Lim Lan Yuan, BBM(L), BBM, PPA, PBM, JP | Property Consultant |
-| Mr. Tang Tuck Kim, PBM | Land Surveyor |
-| Er. Lai Huen Poh, BBM, PBM | Civil & Structural Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg)| Dr. Lim Lan Yuan, <br>BBM(L), BBM, PPA, PBM,&nbsp;JP<br> | Property Consultant &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-tang-tuck-kim.jpg)| Mr. Tang Tuck Kim, PBM <br>PBM <br> | Land Surveyor &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lai-huen-poh.jpg)| Er. Lai Huen Poh, BBM, PBM | Civil &amp; Structural Engineer &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   |
 | Ar. Lee Coo, PBM | Architect, Urban Designer, Transportation Engineer |
 | Mr. Kong Mun Kwong, PJG, BBM(L), BBM, PBM, JP | Company Director, Quantity Surveyor |
 | Mr. Lim Gnee Kiang | Property Consultant |
@@ -15,12 +15,12 @@ description: View STB's list of appointed Panel Members.
 | Prof. Teo Keang Sood, PBM | Law Professor |
 | Mr. Frankie Chia Soo Hien, PBM | Chartered Accountant |
 | Mr. Lim Boon Cheng | Chartered Accountant | 
-| Mr. Richard Tan Ming Kirk | Advocate & Solicitor |
+| Mr. Richard Tan Ming Kirk | Advocate &amp; Solicitor |
 | Dr. Tang Hang Wu | Law Professor | 
 | Mr. Winston Hauw Sze Shiung | Quantity Surveyor | 
 | Mr. Ter Kim Cheu | Retired Principal, Senior State Counsel | 
 | Mr. Chan Kim Mun | General Manager (Property Management) |
-| Mr. Periowsamy Otharam, BBM(L), BBM, PPA(P), PBM | Advocate & Solicitor |
+| Mr. Periowsamy Otharam, BBM(L), BBM, PPA(P), PBM | Advocate &amp; Solicitor |
 | Er. Chan Ewe Jin | Civil Engineer |
 | Mr. Loh Kwi Leong | Quantity Surveyor | 
 | Mr. Tan Kian Hoon, BBM(L), BBM, PBM | Quantity Surveyor/Property Consultant |
@@ -42,7 +42,7 @@ description: View STB's list of appointed Panel Members.
 | Er. Shahrom Bin Mohamed Ariff | Engineer |
 | Er. Jacqueline Chan | Engineer |
 | Ms. Kan Shuk Weng | Adjunct Law Lecturer, Former District Judge |
-| Ms. Alli Ruthirapathi | Advocate & Solicitor, Senior Law Lecturer |
+| Ms. Alli Ruthirapathi | Advocate &amp; Solicitor, Senior Law Lecturer |
 | Ms. Geraldine Yang-Peterson | Psychologist | 
 | Ms. June Fong | Forensic Psychologist |
 | Ms. Charis Tan En Pin | Advocate and Solicitor |
