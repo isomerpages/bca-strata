@@ -7,6 +7,8 @@ description: Access links to other useful websites.
 
 
 ![Building and Construction Authority ](/images/Useful%20Links%20%20Gov%20Logo/useful-link-bca.jpg)
+[Building and Construction Authority](https://www1.bca.gov.sg/)
+
 The Building and Construction Authority (BCA) is an agency under the Ministry of National Development (MND), championing the development of an excellent built environment for Singapore. “Built environment” refers to buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities.
 
 The Building Maintenance and Strata Management Act (BMSMA) is administered by the Commissioner of Buildings of the BCA. The “[**Strata Living in Singapore – A General Guide**](https://www1.bca.gov.sg/regulatory-info/building-maintenance-and-strata-management/management-corporation-strata-title-mcst/strata-living-guide "Strata Living in Singapore – A General Guide")” is a guide published by BCA to assist laypersons (owners) in understanding the key provisions in the BMSMA. The guide covers basic information on strata living to facilitate better management of strata developments.
@@ -75,7 +77,6 @@ The Singapore Institute of Surveyors & Valuers (SISV) secures the advancement an
 The SISV promotes the general interests of the profession and strives to maintain and improve its usefulness for the benefit of the public. SISV also regulates and improves the standards of professional conduct and practice of its members.
 
 ![Singapore Mediation Centre](/images/Useful%20Links%20%20Gov%20Logo/useful-link-mediation.jpg)  
-
 [Singapore Mediation Centre](http://www.mediation.com.sg/ "Singapore Mediation Centre")
 
 The Singapore Mediation Centre (SMC), which comes under the Singapore Academy of Law (SAL), is a not-for-profit organisation providing mediation and other alternative dispute resolution (ADR) services. Construction disputes account for about 40% of the cases that SMC handles.
