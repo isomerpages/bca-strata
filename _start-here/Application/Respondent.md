@@ -10,7 +10,7 @@ third_nav_title: Application
 # Type of Orders 
 [Type of orders under BMSMA](/what-has-been-filed-against-me/type-of-orders-under-bmsma/)
 
-[Type of orders under LTSA](/what-has-been-filed-against-me/type-of-orders-under-LTSA/)
+[Type of orders under LTSA](/what-has-been-filed-against-me/type-of-orders-under-ltsa/)
 
 # How to Respond
 
