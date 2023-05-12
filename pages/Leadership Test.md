@@ -10,7 +10,7 @@ description: ""
 
 | Registrar |  |  |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Ms. Angeline Tan Guek Ing    |  |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Ms. Angeline Tan Guek Ing    | &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
 
 
 | Deputy Presidents |  | Profession |
