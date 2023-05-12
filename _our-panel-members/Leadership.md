@@ -3,19 +3,20 @@ title: Leadership
 permalink: /our-panel-members/leadership/
 description: View STB's list of appointed Panel Members.
 ---
-| President | Profession |   |
+| President |  | Profession  |
 | -------- | -------- | -------- |
-| Mr. Alfonso Ang Cheng Ann,  PBM     | Advocate & Solicitor |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Alfonso Ang Cheng&nbsp;Ann,  <br>PBM<br> | Advocate &amp; Solicitor |
 
 
 | Registrar |  |  |
 | -------- | -------- | -------- |
-| Ms. Angeline Tan Guek Ing    |  |
+![](/images/Our%20Panel%20Members/Leadership/ms-angeline-tan-guek-ing.jpg)| Ms. Angeline Tan Guek Ing    | &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
 
 
-| Deputy Presidents | Profession |  |
+| President |  | Profession  |
 | -------- | -------- | -------- |
-| Mr. Remedios Francis George,  PPA(E) | Retired District Judge |  
-| Ms. Lee Lay See, PBM | Advocate & Solicitor |
-| Mr. Raymond Lye Hoong Yip, BBM, PBM | Advocate & Solicitor |
-| Mr. Oommen Mathew | Advocate & Solicitor |
+![](/images/Our%20Panel%20Members/Leadership/mr-remedios-francis-g.jpg)| Mr. Remedios Francis George,  <br>PPA(E)<br> | Retired District Judge |
+![](/images/Our%20Panel%20Members/Leadership/ms-lee-lay-see.jpg)| Ms. Lee Lay See,  <br>PBM<br> | Advocate &amp; Solicitor |
+![](/images/Our%20Panel%20Members/Leadership/mr-raymond-lye.jpg)| Mr. Raymond Lye Hoong Yip, <br>BBM, PBM<br> | Advocate &amp; Solicitor |
+![](/images/Our%20Panel%20Members/Leadership/mr-oommen-mathew.jpg)| Mr. Oommen Mathew | Advocate &amp; Solicitor |
+
