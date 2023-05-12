@@ -36,15 +36,6 @@ No. Please refer to the relevant sections of the BMSMA regarding the Board’s p
 
 5.       Have you attempted to contact the Respondent(s) directly to check whether an amicable solution is possible before filing this application?
 
-Yes. Please proceed to the next question.
+Yes. 
 
 No. Proceedings at STB require a significant amount of time, effort and resources. You may wish to contact the Respondent(s) first to determine if your issue(s) may be resolved amicably before filing an application with STB.
-
-6.       Are you aware of the relevant fees chargeable by STB at various stages of the proceedings and of the fact that such fees are non-refundable? 
-
-Yes. 
-Please proceed to the next question.
-
-No. 
-Please ensure that you have read and understood the schedule of fees payable on the STB website before filing your application.
-[You may wish to check the STB website for our schedule of fees.]
