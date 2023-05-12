@@ -44,7 +44,7 @@ Parties must comply with the Board’s directions at all times (e.g. filing cert
 Affidavits of evidence-in-chief which each party is relying on, must be filed with the Strata Titles Boards prior to the commencement of the hearing, in accordance with the Boards’ directions on filing dates.
 
 > **Notes:**
-An affidavit of evidence-in-chief is a sworn statement made by your witness on the facts and evidence. It is annexed with supporting documents (if any). An affidavit must be declared to be truthful and signed in the presence of a Commissioner for Oaths. Parties should make their own arrangements with the Commissioner at the Singapore State Courts for this.
+An affidavit of evidence-in-chief is a sworn statement made by your witness on the facts and evidence. It is annexed with supporting documents (if any). An affidavit must be declared to be truthful and signed in the presence of a Commissioner for Oaths. 
 Alternatively, you may appear before a lawyer who is a Commissioner for Oaths.
 The Singapore State Court is located at: 1 Havelock Square, Singapore 059724
 
