@@ -6,8 +6,7 @@ description: Access links to other useful websites.
 # Singapore Government Websites
 
 
-![Building and Construction Authority ](/images/Useful%20Links%20gov%20logo/useful-link-bca.jpg)
-
+![Building and Construction Authority ](/images/Useful%20Links%20%20Gov%20Logo/useful-link-bca.jpg)
 The Building and Construction Authority (BCA) is an agency under the Ministry of National Development (MND), championing the development of an excellent built environment for Singapore. “Built environment” refers to buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities.
 
 The Building Maintenance and Strata Management Act (BMSMA) is administered by the Commissioner of Buildings of the BCA. The “[**Strata Living in Singapore – A General Guide**](https://www1.bca.gov.sg/regulatory-info/building-maintenance-and-strata-management/management-corporation-strata-title-mcst/strata-living-guide "Strata Living in Singapore – A General Guide")” is a guide published by BCA to assist laypersons (owners) in understanding the key provisions in the BMSMA. The guide covers basic information on strata living to facilitate better management of strata developments.
