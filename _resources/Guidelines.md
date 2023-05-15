@@ -43,7 +43,7 @@ Where the authorising party is a **company**:
 *   At least one (1) representative must be a key appointment holder (e.g. managing director, director, partner) of the company.
 
 **All authorised representatives must be familiar with the facts of the case and should be given the mandate to make decisions on behalf of the Applicant/Respondent.**
-[Sample Letter of Authorisation (Personal Capacity)](/files/Guidelines/sample-letter-of-authorisation.pdf)
+[Sample Letter of Authorisation (Personal Capacity)](https://file.go.gov.sg/sample-letter-of-authorisation.docx)
 
 ### Guidelines - Land Titles (Strata) Act
 
