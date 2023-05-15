@@ -43,7 +43,7 @@ In the event the Board approves the en-bloc application and issues an en-bloc sa
 
 **Hearing for Stop Order**
 
-All objectors and Applicants should be present at the hearing to receive the Stop Order by hand. If any Objector or Applicant is not present, the Stop Order will be served by registered post.
+All Objectors and Applicants should be present at the hearing to receive the Stop Order by hand. If any Objector or Applicant is not present, the Stop Order will be served by registered post.
 
 **Hearing for Collective Sale Order**
 
