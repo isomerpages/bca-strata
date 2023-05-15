@@ -29,7 +29,7 @@ sections:
       description: Understanding how general proceedings work
       button: Find out more
       url: /general-proceedings
-      image: /images/businessman-discussing.jpg
+      image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
   - resources:
       title: News & Judgments
