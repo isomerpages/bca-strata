@@ -5,12 +5,12 @@ description: View STB's list of appointed Panel Members.
 ---
 | Board Members |  | Profession  |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg)| Dr. Lim Lan Yuan, <br>BBM(L), BBM, PPA, PBM,&nbsp;JP<br> | Property Consultant &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-tang-tuck-kim.jpg)| Mr. Tang Tuck Kim, <br>PBM <br> | Land Surveyor &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lai-huen-poh.jpg)| Er. Lai Huen Poh, <br>BBM, PBM<br> | Civil &amp; Structural Engineer &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg)| Dr. Lim Lan Yuan, <br>BBM(L), BBM, PPA, PBM,&nbsp;JP<br> | Property Consultant &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-tang-tuck-kim.jpg)| Mr. Tang Tuck Kim, <br>PBM <br> | Land Surveyor &nbsp; &nbsp; &nbsp;     |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lai-huen-poh.jpg)| Er. Lai Huen Poh, <br>BBM, PBM<br> | Civil &amp; Structural Engineer &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lee-coo.jpg)| Ar. Lee Coo, <br>PBM<br> | Architect, Urban Designer, <br>Transportation Engineer<br> |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-kong-mun-kwong.jpg)| Mr. Kong Mun Kwong,<br> PJG, BBM(L), BBM, PBM, JP<br> | Company Director, <br>Quantity Surveyor<br> |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-gnee-kiang.jpg)| Mr. Lim Gnee Kiang | Property Consultant |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-kong-mun-kwong.jpg)| Mr. Kong Mun Kwong,<br> PJG, BBM(L), BBM, PBM, JP<br> | Company Director, <br>Quantity Surveyor<br>&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-gnee-kiang.jpg)| Mr. Lim Gnee Kiang | Property Consultant &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/assoc-prof-lye_lin_heng-v2.jpg)| Prof. Lye Lin Heng, <br>PBM<br> | Law Professor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/prof-teo-keang-sood.jpg)| Prof. Teo Keang Sood, <br>PBM<br> | Law Professor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-frankie-chia.jpg)| Mr. Frankie Chia Soo Hien,<br> PBM<br> | Chartered Accountant |
