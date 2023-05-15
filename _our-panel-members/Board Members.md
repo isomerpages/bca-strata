@@ -14,9 +14,9 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/assoc-prof-lye_lin_heng-v2.jpg)| Prof. Lye Lin Heng, <br>PBM<br> | Law Professor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/prof-teo-keang-sood.jpg)| Prof. Teo Keang Sood, <br>PBM<br> | Law Professor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-frankie-chia.jpg)| Mr. Frankie Chia Soo Hien,<br> PBM<br> | Chartered Accountant |
-| Mr. Lim Boon Cheng | Chartered Accountant | 
-| Mr. Richard Tan Ming Kirk | Advocate &amp; Solicitor |
-| Dr. Tang Hang Wu | Law Professor | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-boon-cheng.jpg)| Mr. Lim Boon Cheng | Chartered Accountant | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-richard-tan-ming-kirk.jpg)| Mr. Richard Tan Ming Kirk | Advocate &amp; Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-tang-hang-wu.jpg)| Dr. Tang Hang Wu | Law Professor | 
 | Mr. Winston Hauw Sze Shiung | Quantity Surveyor | 
 | Mr. Ter Kim Cheu | Retired Principal, Senior State Counsel | 
 | Mr. Chan Kim Mun | General Manager (Property Management) |
