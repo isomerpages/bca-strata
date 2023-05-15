@@ -20,7 +20,7 @@ General guidance for persons entitled to apply and possible Respondents. Applica
 
 **Withdrawal of Application Form (Applicant)**
 
-The Applicant is required to print out and complete the withdrawal of application form to discontinue his/her case at Strata Titles Boards. It is to be submitted to the Board before the Respondent can complete the consent to withdrawal of application form.
+The Applicant is required to print out and complete the withdrawal of application form to discontinue his/her case at Strata Titles Boards.
 [Withdrawal of Application Form (Applicant)](/files/Guidelines/withdrawal-of-application-form(applicant)-060821.pdf)
 
 **Consent to Withdrawal of Application Form (Respondent)**
@@ -39,8 +39,7 @@ Where the authorising party is a **management corporation** (“MC”):
 
 Where the authorising party is a **company**:
 
-*   The representative(s) should produce an LOA which must be duly signed, sealed and printed on the company’s letterhead as well as a certified true copy of the company’s board resolution which: (a) allows the company seal to be affixed to the LOA; and (b) authorises the specified person(s) to represent the company at STB proceedings; and
-*   At least one (1) representative must be a key appointment holder (e.g. managing director, director, partner) of the company.
+*   The representative(s) should produce an LOA or the board resolution which must be duly signed, sealed and printed on the company’s letterhead which: (a) allows the company seal to be affixed to the LOA; and (b) authorises the specified person(s) to represent the company at STB proceedings.
 
 **All authorised representatives must be familiar with the facts of the case and should be given the mandate to make decisions on behalf of the Applicant/Respondent.**
 [Sample Letter of Authorisation (Personal Capacity)](https://file.go.gov.sg/sample-letter-of-authorisation.docx)
