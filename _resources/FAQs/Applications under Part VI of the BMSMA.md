@@ -28,7 +28,7 @@ The relevant legislations are the Building Maintenance and Strata Management Act
 
 Strata Titles Boards’ application fee of $500 is provided under the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005. The $500 application fee covers 2 mediation sessions as well as the processing and administration costs of handling disputes.
 
-**Q5: Is the Applicant able to claim for a refund of the application fee from the Strata Titles Board?**
+**Q5: Is the Applicant able to claim for a refund of the application fee from the Strata Titles Boards?**
 
 There is no provision in the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which allows the Strata Titles Boards to make refunds.
 
@@ -42,11 +42,11 @@ If you are applying as an individual and there is more than one (1) owner of the
 
 **Q8: What happens if one of the owners is not in Singapore and I am unable to obtain his/her signature on the application form?**
 
-If one or more of the property unit owners are not in Singapore or is unable to sign the application form for other valid reasons, he/she may issue a letter of authorisation to an authorised representative to sign the application form on his/her behalf.
+If the property owner is not in Singapore and is unable to sign the application form for valid reasons, he/she may issue a letter of authorisation to authorise a respresentative to act for and make decisions for and on behalf of him/her.
 
-**Q9: Can an Applicant amend his application?**
+**Q9: Can an Applicant amend his/her application?**
 
-Yes. He can do so by submitting an Interlocutory Application Form before the conclusion of the proceedings and subject to the Board’s approval.  
+Yes. He/She can do so by submitting an Interlocutory Application Form before the conclusion of the proceedings and subject to the Board’s approval.  
   
 Interlocutory Application Form can be downloaded under [Forms](/resources/forms/).  
   
@@ -62,9 +62,9 @@ The Interlocutory Application must also be served on the intended third party wh
 
 **Q11: In the event where the Strata Titles Boards has fixed a date for mediation of a case, can a party request in writing for a postponement of a date?**
 
-In general, the Strata Titles Boards does not allow any adjournment of a case, unless there are extenuating circumstances. The Board may consider such request, given that parties write in with their supporting grounds and documents at least three (3) working days prior to the scheduled date.  
+In general, the Strata Titles Boards does not allow any adjournment of a case, unless there are extenuating circumstances. The Board may consider such request, given that parties write in with their supporting grounds and documents at least seven (7) working days prior to the scheduled date.  
   
-If a party is represented by a legal counsel who has another case fixed by the State Courts or High Court at the same time and date, the legal counsel may write in to the Board, at least three (3) working days prior to the affixed date, for their consideration.
+If a party is represented by a legal counsel who has another case fixed by the State Courts or High Court at the same time and date, the legal counsel may write in to the Board, at least seven (7) working days prior to the affixed date, for their consideration.
 
 **Q12: Are the parties required to keep the Board informed of any updates between mediation sessions?**
 
@@ -113,9 +113,9 @@ Generally, if you wish to seek orders for any one (or more) of the following ite
 | To resolve dispute between management corporations and subsidiary management corporations || Section 115
 
 
-You should refer to the actual provisions in the BMSMA for the full meaning and effect of terms mentioned. If you are still unsure which section(s) applies to your case, you should seek independent legal advice.
+You should refer to the actual provisions in the BMSMA for the full meaning and effect of the terms mentioned. If you are still unsure which section(s) applies to your case, you should seek independent legal advice.
 
-**Q16: What should I do if I settled the matter with the other party (or Respondent) at any time after submitting my application form (and supporting documents) to Strata Titles Boards?**
+**Q16: What should I do if I settled the matter with the Respondent at any time after submitting my application form (and supporting documents) to Strata Titles Boards?**
 
 In the event that you settled the matter, you should inform Strata Titles Boards in writing as soon as practicably possible. You should extend a copy of such notice to the Respondent(s). Once the Strata Titles Boards receives such notice, they will send both parties the following forms to fill in, sign and return to Strata Titles Boards’ office. The forms are as follows:-
 
@@ -130,6 +130,6 @@ The forms can be found under [Forms](/resources/forms/) and are available at St
 
 You may engage a lawyer to represent you, however, Strata Titles Boards’ proceedings generally do not require a party to be represented by a lawyer.
 
-**Q18: Can I see the judgments of past cases decided by the STB?**
+**Q18: Can I see the judgments of past cases decided by the Strata Titles Boards?**
 
 The Grounds of Decision or Judgments of past decided cases can be viewed under [Judgments](/all/judgments/).
