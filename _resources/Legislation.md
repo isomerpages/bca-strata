@@ -3,7 +3,7 @@ title: Legislation
 permalink: /resources/legislation/
 description: Access legislation relevant to proceedings at STB.
 ---
-### Relevant legislations
+### Relevant Acts
 
 * [Building Maintenance and Strata Management Act](https://sso.agc.gov.sg/Act/BMSMA2004)
     
