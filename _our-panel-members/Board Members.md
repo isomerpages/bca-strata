@@ -31,14 +31,14 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-ashvinkumar-so-kantilal.jpg)| Ar. Ashvinkumar s/o Kantilal, <br>PBM<br> | Architect |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-kok-way.jpg)| Ar. Chan Kok Way | Architect |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-elaine-chew-yi-ling.jpg)| Ms. Elaine Chew Yi-Ling | Lawyer |
-| Ar. Zahidi Bin Abdul Rahman, BBM, PBM | Architect | 
-| Mdm. Zahara binte Bakar | Advocate and Solicitor |
-| Mr. Rajaram Ramiah, BBM, PBM | Advocate and Solicitor |
-| Ms. Hazel Tang Bik Kwan | Advocate and Solicitor |
-| Ar. Helen Chen | Architect / Associate Professor (Adjunct) |
-| Mdm. Monica Neo | Advocate and Solicitor |
-| Dr. Edward Ti | Law Academic |
-| Ar. Siti Habibah Siraj | Architect |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-zahidi-bin-abdul-rahman.jpg)| Ar. Zahidi Bin Abdul Rahman, <br>BBM, PBM<br> | Architect | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mdm-zahara.jpg)| Mdm. Zahara binte Bakar | Advocate and Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-rajaram.jpg)| Mr. Rajaram Ramiah, <br>BBM, PBM<br> | Advocate and Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-hazel.jpg)| Ms. Hazel Tang Bik Kwan | Advocate and Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-helen-chen.jpg)| Ar. Helen Chen | Architect / Associate Professor (Adjunct) |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mdm-monica-neo.jpg)| Mdm. Monica Neo | Advocate and Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg)| Dr. Edward Ti | Law Academic |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ar-siti-habibah-siraj.jpg)| Ar. Siti Habibah Siraj | Architect |
 | Er. Shahrom Bin Mohamed Ariff | Engineer |
 | Er. Jacqueline Chan | Engineer |
 | Ms. Kan Shuk Weng | Adjunct Law Lecturer, Former District Judge |
