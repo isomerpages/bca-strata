@@ -17,12 +17,12 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-boon-cheng.jpg)| Mr. Lim Boon Cheng | Chartered Accountant | 
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-richard-tan-ming-kirk.jpg)| Mr. Richard Tan Ming Kirk | Advocate &amp; Solicitor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-tang-hang-wu.jpg)| Dr. Tang Hang Wu | Law Professor | 
-| Mr. Winston Hauw Sze Shiung | Quantity Surveyor | 
-| Mr. Ter Kim Cheu | Retired Principal, Senior State Counsel | 
-| Mr. Chan Kim Mun | General Manager (Property Management) |
-| Mr. Periowsamy Otharam, BBM(L), BBM, PPA(P), PBM | Advocate &amp; Solicitor |
-| Er. Chan Ewe Jin | Civil Engineer |
-| Mr. Loh Kwi Leong | Quantity Surveyor | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-winston-hauw.jpg)| Mr. Winston Hauw Sze Shiung | Quantity Surveyor | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-ter-kim-cheu.jpg)| Mr. Ter Kim Cheu | Retired Principal, Senior State Counsel | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-kim-mun.jpg)| Mr. Chan Kim Mun | General Manager (Property Management) |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-periowsamy.jpg)| Mr. Periowsamy Otharam, <br>BBM(L), BBM, PPA(P), PBM<br> | Advocate &amp; Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-ewe-jin.jpg)| Er. Chan Ewe Jin | Civil Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-loh-kwi-leong.jpg)| Mr. Loh Kwi Leong | Quantity Surveyor | 
 | Mr. Tan Kian Hoon, BBM(L), BBM, PBM | Quantity Surveyor/Property Consultant |
 | Mr. Lawrence Ang Boon Kong, PPA(E) | Retired Lawyer |
 | Er. Lim Peng Hong | Civil Engineer |
