@@ -56,7 +56,7 @@ This application should be served on the Respondent within three (3) working day
 
 **Q10: What should the Applicant or the Respondent do if he/she wants to add another party to the proceedings?**
 
-He has to submit an Interlocutory Application **[(Form 12 (PDF, 119 KB)](/files/FAQS/BMSMA/form1220200717.pdf) – Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board)**. The procedure is similar to that mentioned above.  
+He has to submit an Interlocutory Application **[Interlocutory Application Form](/files/FAQS/BMSMA/revised-interlocutory-application-form-dec2022.pdf) – Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board)**. The procedure is similar to that mentioned above.  
   
 The Interlocutory Application must also be served on the intended third party who will be added to the proceedings.
 
