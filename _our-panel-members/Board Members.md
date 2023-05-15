@@ -39,14 +39,14 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mdm-monica-neo.jpg)| Mdm. Monica Neo | Advocate and Solicitor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg)| Dr. Edward Ti | Law Academic |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ar-siti-habibah-siraj.jpg)| Ar. Siti Habibah Siraj | Architect |
-| Er. Shahrom Bin Mohamed Ariff | Engineer |
-| Er. Jacqueline Chan | Engineer |
-| Ms. Kan Shuk Weng | Adjunct Law Lecturer, Former District Judge |
-| Ms. Alli Ruthirapathi | Advocate &amp; Solicitor, Senior Law Lecturer |
-| Ms. Geraldine Yang-Peterson | Psychologist | 
-| Ms. June Fong | Forensic Psychologist |
-| Ms. Charis Tan En Pin | Advocate and Solicitor |
-| Ms. Sim Kai Li | Property Consultant |
-| Er. Ting Thiam Siu | Engineer |
-| Mr. Lee Cheng Sung | Building Surveyor | 
-| Ms. Jennier Marie, SC PPA(P), PPA(E), PPA(Gold)(Bar) | Adjunct Professor. Retired Deputy Presiding Judge |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/shahrom-mohamed-ariff.jpg)| Er. Shahrom Bin Mohamed Ariff | Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/er-jacqueline-chan.jpg)| Er. Jacqueline Chan | Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/kan-shuk-weng.jpg)| Ms. Kan Shuk Weng | Adjunct Law Lecturer, Former District Judge |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/alli-ruthirapathi.jpg)| Ms. Alli Ruthirapathi | Advocate &amp; Solicitor, Senior Law Lecturer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/geraldine-yang.jpg)| Ms. Geraldine Yang-Peterson | Psychologist | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/june-fong.jpg)| Ms. June Fong | Forensic Psychologist |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/charis-tan.jpg)| Ms. Charis Tan En Pin | Advocate and Solicitor |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/sim-kai-li.jpg)| Ms. Sim Kai Li | Property Consultant |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ting-thiam-siu.jpg)| Er. Ting Thiam Siu | Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/lee-cheng-sun.jpg)| Mr. Lee Cheng Sung | Building Surveyor | 
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-jennifer-marie.jpg)| Ms. Jennifer Marie, SC PPA(P), PPA(E), PPA(Gold)(Bar) | Adjunct Professor. Retired Deputy Presiding Judge |
