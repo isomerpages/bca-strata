@@ -23,14 +23,14 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-periowsamy.jpg)| Mr. Periowsamy Otharam, <br>BBM(L), BBM, PPA(P), PBM<br> | Advocate &amp; Solicitor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-ewe-jin.jpg)| Er. Chan Ewe Jin | Civil Engineer |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-loh-kwi-leong.jpg)| Mr. Loh Kwi Leong | Quantity Surveyor | 
-| Mr. Tan Kian Hoon, BBM(L), BBM, PBM | Quantity Surveyor/Property Consultant |
-| Mr. Lawrence Ang Boon Kong, PPA(E) | Retired Lawyer |
-| Er. Lim Peng Hong | Civil Engineer |
-| Er. Dr. Tan Teng Hooi | Civil Engineer |
-| Er. Tony Tay Chye Teck | Mechanical Engineer |
-| Ar. Ashvinkumar s/o Kantilal, PBM | Architect |
-| Ar. Chan Kok Way | Architect |
-| Ms. Elaine Chew Yi-Ling | Lawyer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-tan-kian-hoon.jpg)| Mr. Tan Kian Hoon, <br>BBM(L), BBM, PBM<br> | Quantity Surveyor/Property Consultant |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lawrence-ang.jpg)| Mr. Lawrence Ang Boon Kong, <br>PPA(E)<br> | Retired Lawyer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-peng-hong.jpg)| Er. Lim Peng Hong | Civil Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-tan-teng-hooi.jpg)| Er. Dr. Tan Teng Hooi | Civil Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-tony-tay-chye-teck.jpg)| Er. Tony Tay Chye Teck | Mechanical Engineer |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-ashvinkumar-so-kantilal.jpg)| Ar. Ashvinkumar s/o Kantilal, <br>PBM<br> | Architect |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-kok-way.jpg)| Ar. Chan Kok Way | Architect |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-elaine-chew-yi-ling.jpg)| Ms. Elaine Chew Yi-Ling | Lawyer |
 | Ar. Zahidi Bin Abdul Rahman, BBM, PBM | Architect | 
 | Mdm. Zahara binte Bakar | Advocate and Solicitor |
 | Mr. Rajaram Ramiah, BBM, PBM | Advocate and Solicitor |
