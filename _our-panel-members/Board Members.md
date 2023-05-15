@@ -49,4 +49,4 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/sim-kai-li.jpg)| Ms. Sim Kai Li | Property Consultant |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ting-thiam-siu.jpg)| Er. Ting Thiam Siu | Engineer |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/lee-cheng-sun.jpg)| Mr. Lee Cheng Sung | Building Surveyor | 
-![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-jennifer-marie.jpg)| Ms. Jennifer Marie, <br>SC PPA(P), PPA(E),<br> PPA(Gold)(Bar)<br><br> | Adjunct Professor. <br>Retired Deputy<br>Presiding Judge<br> |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-jennifer-marie.jpg)| Ms. Jennifer Marie, <br>SC PPA(P), PPA(E),<br>PPA(Gold)(Bar)<br> | Adjunct Professor. <br>Retired Deputy<br>Presiding Judge<br> |
