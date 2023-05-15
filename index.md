@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Resources
           description: ""
-          url: /resources/acts-regulations/
+          url: /resources/legislation
         - title: Useful links
           description: ""
           url: /resources/useful-links/
