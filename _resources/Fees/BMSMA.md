@@ -29,7 +29,7 @@ No fee shall be payable for the first 2 attendances before a Board. Fees are pay
 
 | No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
-| 1     | For each day or part thereof for arbitration hearing under Part VI of the Building Maintenance and Strata Management Act | $300 |
+| 1     | For each day or part thereof for arbitration hearing under Regulation 14 of the BMSMR 2005 | $300 |
 
 
 **Miscellaneous Fee**
