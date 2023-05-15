@@ -22,13 +22,13 @@ Examples of “appropriate attire” include formal wear, smart casual wear and 
 
 **Q3: Where can I find out more on en-bloc procedures?**
 
-You can visit our website at [www.stratatb.gov.sg](http://www.stratatb.gov.sg/ "Strata Titles Boards") and read up more under [Application](/general-proceedings/application/applicant/).
+You can read up more under [Application](/general-proceedings/application/applicant/).
   
 You can also see [“Part VA – Collective Sale of Property” under the Land Titles (Strata) Act](https://sso.agc.gov.sg/Act/LTSA1967 "Part VA – Collective Sale of Property").
 
 **Q4: Do I need to engage a lawyer to represent me at mediation?**
 
-It is up to you to decide if legal representation is needed.
+You may engage a lawyer to act for you, however, Strata Titles Boards' proceedings generally do not require a party to be represented by a lawyer.
 
 **Q5: How many mediations will be conducted and what happen if there is no resolution?**
 
@@ -54,7 +54,7 @@ According to section 84A(4) of the LTSA, you have 21 days from the date on which
 
 **Q9: What information must I have to attach to Forms 24 or 25 (objection filed under Section 84A/E/FA by an individual)? How detailed must the information be?**
 
-A unit owner who wishes to object to an en-bloc sale has to furnish his particulars in Forms [24 (PDF, 624 KB)](/files/FAQS/LTSA/form-24.pdf) or [25 (PDF, 624 KB)](/files/FAQS/LTSA/form-25.pdf), which can be downloaded under [Forms](/resources/forms/). In addition, all information which he feels is relevant to his case should be listed in a logical order in an annex attached to the form. 6 copies of the documents referred to should also be given to the Board.
+A minority owner who wishes to object to an en-bloc sale has to furnish his particulars in Forms [24 (PDF, 624 KB)](/files/FAQS/LTSA/form-24.pdf) or [25 (PDF, 624 KB)](/files/FAQS/LTSA/form-25.pdf), which can be downloaded under [Forms](/resources/forms/). In addition, all information which he feels is relevant to his case should be listed in a logical order in an annex attached to the form. 6 copies of the documents referred to should also be given to the Board.
 
 **Q10: What does “_such other document as the Board may require_” reflected under paragraph 11(d) in the First Schedule of the LTSA refer to?**
 
