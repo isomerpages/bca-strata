@@ -2,5 +2,5 @@ collections:
   filed-against-me:
     output: true
     order:
-      - Type of orders under BMSMA.md
+      - Types of orders under BMSMA.md
       - Type of orders under LTSA.md
