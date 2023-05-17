@@ -69,7 +69,7 @@ A minority owner (i.e. unit owner who has not agreed to the sale in writing) may
 
 **Where no objection is filed against the en-bloc application**, the Strata Titles Board will fix a date for a hearing to determine that the en-bloc sale transaction is in good faith. Please see details under [hearing](/start-here/hearing/ltsa/).
 
-**Where objections are filed against the application**, the Board would mediate and assist parties to resolve the dispute. Please see details under [mediation](/start-here/mediation/ltsa/)
+**Where objections are filed against the application**, the Board would mediate and assist parties to resolve the dispute. Please see details under [mediation](/start-here/mediation/ltsa/).
 
 **STEPS RELATING TO AN APPLICATION UNDER PART VA OF THE LAND TITLES (STRATA) ACT**
 
