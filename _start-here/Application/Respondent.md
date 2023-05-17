@@ -8,9 +8,9 @@ description: A case in the Strata Titles Boards commences when an Applicant
 third_nav_title: Application
 ---
 # Type of Orders 
-[Type of orders under BMSMA](/what-has-been-filed-against-me/type-of-orders-under-bmsma/)
+[Types of orders under BMSMA](/what-has-been-filed-against-me/types-of-orders-under-bmsma/)
 
-[Type of orders under LTSA](/what-has-been-filed-against-me/type-of-orders-under-ltsa/)
+[Types of orders under LTSA](/what-has-been-filed-against-me/types-of-orders-under-ltsa/)
 
 # How to Respond
 
