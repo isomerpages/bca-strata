@@ -1,15 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Fav Icon & Logo/strata titles boards logo.png
 links:
+  - title: General Proceedings
+    collection: start-here
+  - title: About Us
+    collection: about-us
+  - title: Our Panel Members
+    collection: our-panel-members
+  - title: Resources
+    collection: resources
+  - title: News & Judgments
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

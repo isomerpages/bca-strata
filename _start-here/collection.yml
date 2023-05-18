@@ -1,0 +1,16 @@
+collections:
+  start-here:
+    output: true
+    order:
+      - General Proceedings.md
+      - Application/.keep
+      - Application/Applicant.md
+      - Application/Respondent.md
+      - Mediation/.keep
+      - Mediation/Mediation (BMSMA).md
+      - Mediation/Mediation (LTSA).md
+      - Hearing/.keep
+      - Hearing/Hearing (BMSMA).md
+      - Hearing/Hearing (LTSA) (En bloc).md
+      - Post Hearing.md
+      - Pre Filing Assessment Tool.md
