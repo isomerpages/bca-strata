@@ -5,18 +5,18 @@ permalink: /contact-us/
 agency_name: BCA Strata
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 45 Maxwell Road
+      - "#05-02 The URA Centre"
+      - Singapore 069118
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
+      - days: Mon - Thurs
+        time: 8.30am - 5.30pm
         description: ""
+      - days: Fri
+        time: 8.30am - 5.00pm
+        description: (Closed from 1.00pm to 2.00pm and public holidays)
     maps_link: ""
-    title: Main Office
+    title: Location
 contacts:
   - content:
       - phone: +65 6123 4567
