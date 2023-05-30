@@ -10,8 +10,6 @@ notification: ""
 sections:
   - hero:
       title: Strata Titles Boards
-      button: Learn more about general&nbsp;proceedings
-      url: /general-proceedings
       key_highlights:
         - title: Resources
           description: ""
