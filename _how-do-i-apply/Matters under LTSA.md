@@ -196,7 +196,7 @@ If you are intending to file an application at the Strata Titles Boards, please 
     
 > **Note:** Where a seller stamp duty is applicable for a property, kindly submit together with the application the Certificate of Stamp Duty.
 
-Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)]().
+Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)](/files/Forms/form-21.pdf).
 
 Reference is to be made to the Land Titles (Strata) Act and the First Schedule.
 
