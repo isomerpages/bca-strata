@@ -247,4 +247,4 @@ Applicants and Objectors, if any will be issued a Notice of Mediation informing 
 
 No fees are payable for the first two (2) mediations.
 
-Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](/resources/fees/ltsa/ for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
+Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](/resources/fees/ltsa/) for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
