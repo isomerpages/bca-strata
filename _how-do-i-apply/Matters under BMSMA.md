@@ -28,7 +28,7 @@ You can now email your application form to the Strata Titles Boards. For all tex
 
 1.  **Email Form 8 / Form 9 to stbapplication@mnd.gov.sg**
     
-    •[Form 8 (PDF, 804 KB)](/files/Forms/form-8.pdf)
+    •[Form 8 (PDF, 804 KB)](/files/Forms/form 08.pdf)
     
     If you are filing an application in your **personal capacity**, fill in and submit Form 8, which must be properly completed, legible and signed. Ensure that all owners of the property have signed on the form. Additionally, ensure that the sequence of events written in Section E of Form 8 is clear and concise, and written in chronological order (from the earliest date to the current date).
     
