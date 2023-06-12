@@ -27,7 +27,8 @@ Before filing the application, have you attempted the following:
 You can now email your application form to the Strata Titles Boards. For all textual portions in your application form as well as your documentary evidence, **the minimum font size to be used is Times New Roman 12 or its equivalent**.
 
 1.  **Email Form 8 / Form 9 to stbapplication@mnd.gov.sg**
-    •[Form 8 (PDF, 804 KB)](/files/Forms/form%208.pdf)
+  
+	•[Form 8 (PDF, 804 KB)](/files/Forms/form%208.pdf)
        
     If you are filing an application in your **personal capacity**, fill in and submit Form 8, which must be properly completed, legible and signed. Ensure that all owners of the property have signed on the form. Additionally, ensure that the sequence of events written in Section E of Form 8 is clear and concise, and written in chronological order (from the earliest date to the current date).
     
