@@ -190,13 +190,24 @@ If you are intending to file an application at the Strata Titles Boards, please 
     
     The application must include the following documents:
     
-    Application formNotice of Proposed Application to STBAdvertisement (application to the Strata Titles Boards must be made within 14 days of the newspaper advertisement)Collective Sale AgreementSale and Purchase AgreementStatutory declaration of purchaser on relationship to subsidiary proprietorACRA search of purchaser and corporate shareholdersMinutes of general meetingsValuation report from independent valuer (with supporting evidence and details on calculations)Report by independent valuer on the proposed method of distributing the proceeds of saleSchedule of owners and other encumbrancesUndertaking to pay costs of the Board (in relation to any valuation or other reports called for by the Board)
+* Application form
+* Notice of Proposed Application to STB
+* Advertisement (application to the Strata Titles Boards must be made within 14 days of the newspaper advertisement)
+* collective Sale Agreement
+* Sale and Purchase Agreement
+* Statutory declaration of purchaser on relationship to subsidiary proprietor 
+* ACRA search of purchaser and corporate shareholders
+* Minutes of general meetings
+* Valuation report from independent valuer (with supporting evidence and details on calculation)
+* Report by independent valuer on the proposed method of distributing the proceeds of sale
+* Schedule of owners and other encumbrances
+* Undertaking to pay costs of the Board (in relation to any valuation or other reports called for by the Board)
     
       
     
 > **Note:** Where a seller stamp duty is applicable for a property, kindly submit together with the application the Certificate of Stamp Duty.
 
-Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)]().
+Brief description of documents can be found under “**Step 1: Before filing an en-bloc application**”. Full details can be found in the application [Form 21 (PDF, 1.05 MB)](/files/Forms/form-21.pdf).
 
 Reference is to be made to the Land Titles (Strata) Act and the First Schedule.
 
@@ -236,4 +247,4 @@ Applicants and Objectors, if any will be issued a Notice of Mediation informing 
 
 No fees are payable for the first two (2) mediations.
 
-Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](/resources/fees/ltsa/ for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
+Mediation and arbitraion fees are payable by the Applicant for the third and subsequent attendance before the Board. Please see [Fees](/resources/fees/ltsa/) for the mediation/hearing fees specified in the Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
