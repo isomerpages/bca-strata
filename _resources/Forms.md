@@ -24,8 +24,8 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 | Form | Word Document | PDF |
 | -------- | -------- | -------- |
-| **Application by an Individual or a Company**   | [Form No. 08](https://file.go.gov.sg/form-8.docx)   |[Form No. 08](/files/Forms/form%208.pdf)  |
-| **Application by a Management Corporation**  | [Form No. 09](https://file.go.gov.sg/form-9-05042021.docx)  |[Form No. 09](/files/Forms/form-9-05042021.pdf) |
+| **Application by an Individual or a Company**   | [Form No. 08](https://go.gov.sg/form-8)  | [Form No. 08](/files/Forms/form%208%20jul%202023.pdf) |
+| **Application by a Management Corporation**  | [Form No. 09](https://go.gov.sg/form-9-05042021) | [Form No. 09](/files/Forms/form%209%20jul%202023.pdf) |
 | **Interlocutory Application Form** | [Interlocutory Application Form](https://file.go.gov.sg/interlocutory-application-form-final-21-dec-22.docx)   |[Interlocutory Application Form](/files/Forms/revised-interlocutory-application-form-dec2022.pdf) |
 | **Notice of Objection to Interlocutory Application**| [Form No. 13](https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx)   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
 | **Memorandum of Service of Application**| [Memorandum of Service of Application](https://file.go.gov.sg/memorandum-of-service-of-application.docx)   |[Memorandum of Service of Application](/files/Forms/memorandum-of-service-of-application.pdf)|
