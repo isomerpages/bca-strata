@@ -17,7 +17,6 @@ A list of fees payable by the Applicant in relation to an application to the Str
 
 | *(There is no provision in the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which allows the Strata Titles Boards to make refunds)* |
 
-<span style="font size: 16px !important;">*(There is no provision in the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which allows the Strata Titles Boards to make refunds)*</span>
 
 **Mediation Fee**
 
