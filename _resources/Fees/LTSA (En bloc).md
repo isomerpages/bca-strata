@@ -16,7 +16,7 @@ A list of fees payable by the Applicant in relation to an application to the Str
 | 1  | On filing an application under sections 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act | $5,000 |   
 | 2  | On filing an application under section 84C of the Land Titles (Strata) Act | $1,000 |  |
 
-*(There is no provision in the Land Titles (Strata) Act 1967 which allows the Strata Titles Boards to make refunds)*
+<span style="font size: 16px;">*(There is no provision in the Land Titles (Strata) Act 1967 which allows the Strata Titles Boards to make refunds)*</span>
 
 **Mediation Fee**
 
