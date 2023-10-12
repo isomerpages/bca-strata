@@ -37,7 +37,7 @@ description: View STB's list of appointed Panel Members.
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-hazel.jpg)| Ms. Hazel Tang Bik Kwan | Advocate and Solicitor |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ms-helen-chen.jpg)| Ar. Helen Chen | Architect/<br> Associate Professor (Adjunct)<br> |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/mdm-monica-neo.jpg)| Mdm. Monica Neo | Advocate and Solicitor |
-![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg)| Dr. Edward Ti | Law Academic |
+![](/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg)| Dr. Edward Ti | Associate Professor of&nbsp;Law<br>Law Consultant |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/ar-siti-habibah-siraj.jpg)| Ar. Siti Habibah Siraj | Architect |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/shahrom-mohamed-ariff.jpg)| Er. Shahrom Bin Mohamed Ariff | Engineer |
 ![](/images/Our%20Panel%20Members/Board%20of%20Members/er-jacqueline-chan.jpg)| Er. Jacqueline Chan | Engineer |
