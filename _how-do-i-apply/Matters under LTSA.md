@@ -224,7 +224,7 @@ To find out more about the 2010 amendments to the Land Titles (Strata) Act, refe
     
     Pursuant to the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005, an application fee of S$5000 is payable for an en-bloc sale application made to Strata Titles Boards.
     
-    Payment can be made preferably by way of a cheque, made out in favour of “Strata Titles Boards” and deposited at Strata Titles Boards’ office during office hours. Strata Titles Boards does not accept payment by way of NETS or VISA.
+    Payment can be made preferably by way of a cheque, made out in favour of “Strata Titles Boards” and deposited at Strata Titles Boards’ office during office hours. Payment of application fee can only be accepted via Paynow and electronic payment (Internet Bank Transfer).
     
 
 **After filing an application**
