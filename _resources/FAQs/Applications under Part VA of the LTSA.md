@@ -70,6 +70,6 @@ The case officer will extend a copy of your objection to the Applicants’ lawye
   
 After the deadline for filing of objections is up, the case officer will write to the relevant parties on the proposed constitution of a Board and subsequently inform parties when to appear before the Board for mediation.
 
-**Q12: Can I make payment using cash or cheque?**
+**Q13: Can I make payment using cash or cheque?**
 
 Payment may only be made via Paynow and electronic payment (Internet Bank Transfer).
