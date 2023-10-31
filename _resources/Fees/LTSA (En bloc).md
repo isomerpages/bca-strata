@@ -43,3 +43,6 @@ No fee shall be payable for the first 2 attendances before a Board. Fees are pay
 | -------- | -------- | -------- |
 | 1  | For supplying a copy of a document | $1 per page |   
 | 2  | For certification of a copy of a document | $5 |
+
+
+Payment of fees can only be accepted via Paynow and electronic payment (Internet Bank Transfer)

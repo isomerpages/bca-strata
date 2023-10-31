@@ -133,3 +133,7 @@ You may engage a lawyer to represent you, however, Strata Titles Boards’ proce
 **Q18: Can I see the judgments of past cases decided by the Strata Titles Boards?**
 
 The Grounds of Decision or Judgments of past decided cases can be viewed under [Judgments](/news-and-judgments/judgments/).
+
+**Q19: Can I make payment using cash or cheque?**
+
+Payment may only be made via Paynow and electronic payment (Internet Bank Transfer).
