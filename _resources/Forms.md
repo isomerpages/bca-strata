@@ -2,6 +2,7 @@
 title: Forms
 permalink: /resources/forms/
 description: ""
+variant: markdown
 ---
 #  Important notes on Strata Titles Boards’ forms
 
@@ -26,7 +27,7 @@ These forms apply to an application under Part VI of the Building Maintenance an
 | -------- | -------- | -------- |
 | **Application by an Individual or a Company**   | [Form No. 08](https://go.gov.sg/form-8-04102023)  | [Form No. 08](/files/Forms/form-8-04102023.pdf) |
 | **Application by a Management Corporation**  | [Form No. 09](https://go.gov.sg/form-9-05042021) | [Form No. 09](/files/Forms/form%209%20jul%202023.pdf) |
-| **Interlocutory Application Form** | [Interlocutory Application Form](https://file.go.gov.sg/interlocutory-application-form-final-21-dec-22.docx)   |[Interlocutory Application Form](/files/Forms/revised-interlocutory-application-form-dec2022.pdf) |
+| **Interlocutory Application Form** | [Interlocutory Application Form](https://go.gov.sg/interlocutory-application-form-final) |[Interlocutory Application Form](/files/Forms/revised-interlocutory-application-form-dec2022.pdf) |
 | **Notice of Objection to Interlocutory Application**| [Form No. 13](https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx)   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
 | **Memorandum of Service of Application**| [Memorandum of Service of Application](https://file.go.gov.sg/memorandum-of-service-of-application.docx)   |[Memorandum of Service of Application](/files/Forms/memorandum-of-service-of-application.pdf)|
 | **Withdrawal of Application Form**| [Withdrawal of Application Form](https://file.go.gov.sg/withdrawal-of-application-form-applicant-060821.docx)   |[Withdrawal of Application Form](/files/Forms/withdrawal-of-application-form(applicant)-060821.pdf)
