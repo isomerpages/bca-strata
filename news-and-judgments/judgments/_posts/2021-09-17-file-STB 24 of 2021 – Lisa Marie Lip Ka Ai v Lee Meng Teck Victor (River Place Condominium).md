@@ -5,5 +5,6 @@ date: 2021-09-17
 layout: file
 description: ""
 image: ""
-file_url: /files/Judgements/2021/stb-24-of-2021-river-place-condominium-gd.pdf
+file_url: /files/Judgments/2021/stb-24-of-2021-river-place-condominium-gd.pdf
+variant: tiptap
 ---
