@@ -25,7 +25,7 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 | Form | Word Document | PDF |
 | -------- | -------- | -------- |
-| **Application by an Individual or a Company**   | [Form No. 08](/files/Forms/form_8_25012024.pdf) | [Form No. 08](https://go.gov.sg/form-8-25012024) |
+| **Application by an Individual or a Company**   | [Form No. 08](https://go.gov.sg/form-8-25012024) | [Form No. 08](/files/Forms/form_8_25012024.pdf) |
 | **Application by a Management Corporation**  | [Form No. 09](https://go.gov.sg/form-9-05042021) | [Form No. 09](/files/Forms/form%209%20jul%202023.pdf) |
 | **Interlocutory Application Form** | [Interlocutory Application Form](https://go.gov.sg/interlocutory-application-form-final) | [Interlocutory Application Form](/files/Forms/interlocutory_application_form_final_21_dec_22.pdf) |
 | **Notice of Objection to Interlocutory Application**| [Form No. 13](https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx)   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
