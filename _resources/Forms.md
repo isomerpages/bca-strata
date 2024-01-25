@@ -25,7 +25,7 @@ These forms apply to an application under Part VI of the Building Maintenance an
 
 | Form | Word Document | PDF |
 | -------- | -------- | -------- |
-| **Application by an Individual or a Company**   | [Form No. 08](https://go.gov.sg/form-8-04102023)  | [Form No. 08](/files/Forms/form-8-04102023.pdf) |
+| **Application by an Individual or a Company**   | [Form No. 08](/files/Forms/form_8_25012024.pdf) | [Form No. 08](https://go.gov.sg/form-8-25012024) |
 | **Application by a Management Corporation**  | [Form No. 09](https://go.gov.sg/form-9-05042021) | [Form No. 09](/files/Forms/form%209%20jul%202023.pdf) |
 | **Interlocutory Application Form** | [Interlocutory Application Form](https://go.gov.sg/interlocutory-application-form-final) | [Interlocutory Application Form](/files/Forms/interlocutory_application_form_final_21_dec_22.pdf) |
 | **Notice of Objection to Interlocutory Application**| [Form No. 13](https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx)   |[Form No. 13](/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf)|
@@ -48,8 +48,8 @@ These forms apply to an application under Part VA of the Land Titles (Strata) Ac
 | **Affidavit of Service**   | [Form No. 21A](https://file.go.gov.sg/form-21a.docx)    | [Form No. 21A](/files/Forms/form-21a.pdf)   |
 | **Application for an Order under Section 84C**  | [Form No. 22](https://file.go.gov.sg/form-22.docx)    | [Form No. 22](/files/Forms/form-22.pdf)  |
 | **Application for an Order under Section 84C read with Section 84D or 84E**  | [Form No. 23](https://file.go.gov.sg/form-23.docx)    | [Form No. 23](/files/Forms/form-23.pdf)|
-| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4) For Individual** | [Form No. 24](https://file.go.gov.sg/form-24.docx)    | [Form No. 24](/files/Forms/form-24.pdf)|
-| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4) For Company**| [Form No. 25](https://file.go.gov.sg/form-25.docx)    | [Form No. 25](/files/Forms/form-25.pdf)|
+| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4) For Individual** | [Form No. 24](https://file.go.gov.sg/form-24.docx)    | [Form No. 24](/files/Forms/form_24_25012024.pdf)|
+| **Objection filed by a Subsidiary Proprietor / Proprietor / Mortgagee / Chargee of a Flat under Section 84A(4), 84D(3), 84E(5) or 84FA(4) For Company**| [Form No. 25](https://file.go.gov.sg/form-25.docx)    | [Form No. 25](/files/Forms/form_25_25012024.pdf)|
 | **Notice of Proposed Application to the Strata Titles Boards (Majority Unit Owner)** | [Form No. 26](https://file.go.gov.sg/form26.docx)    | [Form No. 26](/files/Forms/form26.pdf)|
 | **Notice of Proposed Application to the Strata Titles Boards (Minority Unit Owner)**| [Form No. 27](https://file.go.gov.sg/form27.docx)    | [Form No. 27](/files/Forms/form27.pdf)|
 | **Notice of Proposed Application to the Strata Titles Boards (Served Pursuant to Paragraph 1 (f) of the First Schedule)**| [Form No. 28](https://file.go.gov.sg/form28.docx)    | [Form No. 28](/files/Forms/form28.pdf)|
