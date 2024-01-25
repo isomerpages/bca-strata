@@ -1,0 +1,14 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Legislation.md
+      - Fees/.keep
+      - Fees/BMSMA.md
+      - Fees/LTSA (En bloc).md
+      - Forms.md
+      - Guidelines.md
+      - Useful Links.md
+      - FAQs/.keep
+      - FAQs/Applications under Part VI of the BMSMA.md
+      - FAQs/Applications under Part VA of the LTSA.md

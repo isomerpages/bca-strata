@@ -1,0 +1,6 @@
+collections:
+  how-do-i-apply:
+    output: true
+    order:
+      - Matters under BMSMA.md
+      - Matters under LTSA.md

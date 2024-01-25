@@ -1,0 +1,6 @@
+collections:
+  our-panel-members:
+    output: true
+    order:
+      - Leadership.md
+      - Board Members.md

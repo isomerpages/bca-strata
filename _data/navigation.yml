@@ -1,0 +1,14 @@
+logo: /images/Fav Icon & Logo/strata titles boards logo.png
+links:
+  - title: General Proceedings
+    collection: start-here
+  - title: About Us
+    collection: about-us
+  - title: Our Panel Members
+    collection: our-panel-members
+  - title: Resources
+    collection: resources
+  - title: News & Judgments
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/

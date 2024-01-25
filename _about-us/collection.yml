@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Who We Are.md
+      - Organisation Structure.md
+      - Mission, Vision and Values.md
