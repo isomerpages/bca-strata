@@ -3,6 +3,7 @@ title: Applications under Part VI of the BMSMA
 permalink: /resources/faqs/bmsma/
 description: ""
 third_nav_title: FAQs
+variant: markdown
 ---
 ## **Applications under Part VI of the Building Maintenance and Strata Management Act**
 
@@ -136,4 +137,11 @@ The Grounds of Decision or Judgments of past decided cases can be viewed under 
 
 **Q19: Can I make payment using cash or cheque?**
 
-Payment may only be made via Paynow and electronic payment (Internet Bank Transfer).
+Payment may only be made via Paynow and electronic payment
+
+**Q20: Is there any expiry date for cases filed with the Strata Titles Boards?**
+
+There is a 6-month expiry date for each case filed under the Building Maintenance and Strata Management Act upon the constitution of a Board.
+
+
+**(Internet Bank Transfer).
