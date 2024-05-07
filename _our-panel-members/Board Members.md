@@ -686,17 +686,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BR_Photo__01_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Mr. Bala Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>Retired Senior District Judge</p>
 </td>
 </tr>
