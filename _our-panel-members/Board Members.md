@@ -692,9 +692,11 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Mr Bala Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p>Retired Senior District Judge</p>
 <p></p>
 </td>
