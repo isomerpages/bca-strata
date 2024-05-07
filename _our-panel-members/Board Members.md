@@ -696,7 +696,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Retired Senior District Judge</p>
-<p></p>
 </td>
 </tr>
 </tbody>
