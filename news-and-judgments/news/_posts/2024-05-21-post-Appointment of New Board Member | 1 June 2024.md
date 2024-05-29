@@ -9,4 +9,3 @@ variant: tiptap
 ---
 <p>The Minister of National Development has appointed Mr Bala Reddy, as a
 Board member of the Strata Titles Boards with effect from 1 June 2024.</p>
-<p></p>
