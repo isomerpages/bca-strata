@@ -694,7 +694,8 @@ variant: tiptap
 <p>Mr. Bala Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Professor (Adjunct) NUS, Retired Senior District Judge</p>
+<p>Law Professor (Adjunct) NUS,</p>
+<p>Retired Senior District Judge</p>
 <p></p>
 </td>
 </tr>
