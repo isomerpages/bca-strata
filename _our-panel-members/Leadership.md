@@ -6,7 +6,7 @@ variant: markdown
 ---
 | President |  | Profession  |
 | -------- | -------- | -------- |
-![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Alfonso Ang Cheng&nbsp;Ann,  <br>PBM<br> | Advocate &amp; Solicitor &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;  |
+![](/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg)| Mr. Alfonso Ang Cheng&nbsp;Ann,  <br>BBM, PBM<br> | Advocate &amp; Solicitor &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;  |
 
 
 | Registrar |  |  |
