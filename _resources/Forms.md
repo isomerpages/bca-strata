@@ -326,4 +326,5 @@ Act.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="https://go.gov.sg/form-24-09092024pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
+</p>
