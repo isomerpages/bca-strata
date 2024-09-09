@@ -250,7 +250,8 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">Form No. 25</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -326,5 +327,5 @@ Act.</p>
 </tbody>
 </table>
 <p><a href="https://go.gov.sg/form-24-09092024pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
-<a href="" rel="noopener nofollow" target="_blank">Form No. 24</a>
+<a href="" rel="noopener nofollow" target="_blank">Form No. 24</a><a href="/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
 </p>
