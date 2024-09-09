@@ -57,7 +57,7 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_8_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 08</a>
+<p><a href="/files/Forms/form_8_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">For No. 08</a>
 </p>
 </td>
 </tr>
@@ -234,7 +234,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_24_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 24</a>
+<p><a href="/files/Forms/form_24_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">FormNo. 24</a>
 </p>
 </td>
 </tr>
