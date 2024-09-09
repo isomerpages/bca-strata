@@ -57,9 +57,8 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_8_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">For No</a>
-<a href="/files/Forms/form_8_09092024.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Forms/form_8_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">. 08</a>
-<a href="/files/Forms/form_8_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
+<p><a href="/files/Forms/form_8_09092024.pdf" rel="noopener nofollow" target="_blank">file</a>
+<a href="/files/Forms/form_8_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">. 08</a>
 </p>
 </td>
 </tr>
@@ -320,7 +319,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/lt(s)a_reg_-_rescission_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">Land Titles (Strata) (Notice of Rescission) Regulations 2007</a>
+<p><a href="/files/Forms/lt(s)a_reg_-_rescission_notice.pdf" rel="noopener noreferrer nofollow" target="_blank">Land Titles (Strata) (Notice of Rescission) Regulations 200</a>
 </p>
 </td>
 </tr>
