@@ -72,7 +72,7 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-9-09092024pdf" rel="noopener nofollow" target="_blank">Form no. 09</a>
+<p><a href="https://go.gov.sg/form-9-09092024pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
 </p>
 <p></p>
 </td>
