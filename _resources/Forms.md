@@ -236,8 +236,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_24_09092024.pdf" rel="noopener nofollow" target="_blank">Form </a>
-<a href="/files/Forms/form_24_25012024.pdf" rel="noopener noreferrer nofollow" target="_blank">No. 24</a>
+<p><a href="/files/Forms/form_24_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
 </p>
 </td>
 </tr>
