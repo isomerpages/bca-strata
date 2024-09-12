@@ -20,7 +20,7 @@ sections:
         - title: FAQs
           description: ""
           url: /resources/faqs/bmsma/
-      background: /images/Court_Room__after__2_3.jpg
+      background: /images/Court_Room__after__2_13.jpg
       variant: center
   - infopic:
       title: General Proceedings
