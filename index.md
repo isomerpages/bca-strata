@@ -20,7 +20,7 @@ sections:
         - title: FAQs
           description: ""
           url: /resources/faqs/bmsma/
-      background: /images/Hearing_room_3b.jpg
+      background: /images/Hearing_room_3bi.jpg
       variant: center
   - infopic:
       title: General Proceedings
