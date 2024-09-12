@@ -9,9 +9,9 @@ description: The Strata Titles Boards congratulates Mr Oommen Mathew, Deputy
 image: ""
 variant: tiptap
 ---
-<p>The Strata Titles Boards congratulates Mr Oommen Mathew, Deputy President,
-on being conferred the Pingat Bakti Masyarakat (PBM) by the President of
-the Republic of Singapore.</p>
+<p>The Strata Titles Boards congratulates Mr Oommen Mathew - Deputy President,
+Strata Titles Boards on being conferred the Pingat Bakti Masyarakat (PBM)
+by the President of the Republic of Singapore.</p>
 <p>
 <br>
 </p>
