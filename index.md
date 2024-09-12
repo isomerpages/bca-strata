@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /resources/faqs/bmsma/
       background: /images/Hearing_room_3a.jpg
-      variant: image
+      variant: center
   - infopic:
       title: General Proceedings
       description: Understanding how general proceedings work
