@@ -20,7 +20,8 @@ sections:
         - title: FAQs
           description: ""
           url: /resources/faqs/bmsma/
-      background: /images/Test hero image/12-test-strata-board-bg.jpg
+      background: /images/Hearing_room_3a.jpg
+      variant: image
   - infopic:
       title: General Proceedings
       description: Understanding how general proceedings work
