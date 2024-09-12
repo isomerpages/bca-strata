@@ -11,7 +11,7 @@ variant: tiptap
 ---
 <p>The Strata Titles Boards congratulates Mr Alfonso Ang - President, Strata
 Titles Boards on being conferred the Bintang Bakti Masyarakat<strong> </strong>(BBM)
-the President of the Republic of Singapore.</p>
+by the President of the Republic of Singapore.</p>
 <p>
 <br>
 </p>
