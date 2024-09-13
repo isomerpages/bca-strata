@@ -24,14 +24,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-lee-lay-see.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Lee Lay See,</p>
-<p>PBM</p>
+<p>Ms. Lee Lay See,
+<br>PBM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Advocate &amp; Solicitor</p>
