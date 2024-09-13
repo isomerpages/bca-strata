@@ -711,6 +711,18 @@ variant: markdown
 <p>Engineer</p>
 </td>
 </tr>
-</tbody>
+<tr><td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chan_Chee_Kong.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Goh Heng Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Real Estate Consultant</p>
+</td>
+
+</tr></tbody>
 </table>
 <p></p>
