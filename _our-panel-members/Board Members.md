@@ -24,6 +24,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Lee Lay See,</p>
+<p>PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advocate &amp; Solicitor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg">
 </div>
@@ -635,7 +647,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Professor
+<p>Adjunct Professor,
 <br>Retired Deputy Presiding Judge
 <br>
 </p>
@@ -651,8 +663,8 @@ variant: tiptap
 <p>Mr. Bala Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Professor (Adjunct) NUS, Retired Senior District Judge</p>
-<p></p>
+<p>Law Professor (Adjunct) NUS,
+<br>Retired Senior District Judge</p>
 </td>
 </tr>
 <tr>
