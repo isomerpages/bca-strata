@@ -677,9 +677,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Professor.
-<br>Retired Deputy
-<br>Presiding Judge
+<p>Adjunct Professor
+<br>Retired Deputy Presiding Judge
 <br>
 </p>
 </td>
@@ -711,9 +710,11 @@ variant: tiptap
 <p>Engineer</p>
 </td>
 </tr>
-<tr><td rowspan="1" colspan="1">
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chan_Chee_Kong.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Goh_Heng_Hoon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -722,7 +723,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Real Estate Consultant</p>
 </td>
-
-</tr></tbody>
+</tr>
+</tbody>
 </table>
 <p></p>
