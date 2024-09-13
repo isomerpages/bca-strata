@@ -708,17 +708,21 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Engineer</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chan_Chee_Kong.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Goh Heng Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Real Estate Consultant</p>
+<p></p>
 </td>
 </tr>
 </tbody>
