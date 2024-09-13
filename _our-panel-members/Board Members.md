@@ -2,7 +2,7 @@
 title: Board Members
 permalink: /our-panel-members/board-members/
 description: View STB's list of appointed Panel Members.
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -700,13 +700,15 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chan_Chee_Kong.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Er. Chan Chee Kong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Engineer</p>
 </td>
 </tr>
 </tbody>
