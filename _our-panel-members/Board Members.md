@@ -200,19 +200,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-tang-hang-wu.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr. Tang Hang Wu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Law Professor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-winston-hauw.jpg">
 </div>
 </td>
@@ -221,22 +208,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Quantity Surveyor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-ter-kim-cheu.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Ter Kim Cheu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retired Principal,
-<br>Senior State Counsel
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -330,19 +301,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Retired Lawyer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-peng-hong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Er. Lim Peng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Civil Engineer</p>
 </td>
 </tr>
 <tr>
