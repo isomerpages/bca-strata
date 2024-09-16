@@ -7,3 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The Minister of National Development has appointed the following Board
+members from 1 October 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mdm. Zahara binte Bakar</p>
+</li>
+<li>
+<p>Ms. Kan Shuk Weng</p>
+</li>
+</ul>
+<p></p>
