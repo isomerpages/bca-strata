@@ -404,19 +404,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mdm-zahara.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Zahara binte Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocate and Solicitor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-rajaram.jpg">
 </div>
 </td>
@@ -523,22 +510,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/kan-shuk-weng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Kan Shuk Weng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Law Lecturer,
-<br>Former District Judge
-<br>
-</p>
 </td>
 </tr>
 <tr>
