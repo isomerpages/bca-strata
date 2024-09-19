@@ -166,7 +166,7 @@ variant: tiptap
 <p>Ms. Kan Shuk Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Law Lecturer (Adjunct),
+<p>Law Lecturer (Adjunct),
 <br>Former District Judge</p>
 </td>
 </tr>
