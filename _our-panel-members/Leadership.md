@@ -2,7 +2,7 @@
 title: Leadership
 permalink: /our-panel-members/leadership/
 description: View STB's list of appointed Panel Members.
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -166,7 +166,8 @@ variant: markdown
 <p>Ms. Kan Shuk Weng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Law Lecturer, Former District Judge</p>
+<p>Adjunct Law Lecturer (Adjunct),
+<br>Former District Judge</p>
 </td>
 </tr>
 </tbody>
