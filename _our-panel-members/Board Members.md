@@ -25,6 +25,20 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-lee-lay-see.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Lee Lay See,
+<br>PBM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advocate &amp; Solicitor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg">
 </div>
 </td>
@@ -200,19 +214,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-tang-hang-wu.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dr. Tang Hang Wu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Law Professor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-winston-hauw.jpg">
 </div>
 </td>
@@ -221,22 +222,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Quantity Surveyor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-ter-kim-cheu.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Ter Kim Cheu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Retired Principal,
-<br>Senior State Counsel
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -335,19 +320,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-peng-hong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Er. Lim Peng Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Civil Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-tan-teng-hooi.jpg">
 </div>
 </td>
@@ -427,19 +399,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Architect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mdm-zahara.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm. Zahara binte Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocate and Solicitor</p>
 </td>
 </tr>
 <tr>
@@ -556,22 +515,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/kan-shuk-weng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Kan Shuk Weng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Law Lecturer,
-<br>Former District Judge
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/alli-ruthirapathi.jpg">
 </div>
 </td>
@@ -677,9 +620,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Professor.
-<br>Retired Deputy
-<br>Presiding Judge
+<p>Adjunct Professor,
+<br>Retired Deputy Presiding Judge
 <br>
 </p>
 </td>
@@ -694,18 +636,35 @@ variant: tiptap
 <p>Mr. Bala Reddy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Law Professor (Adjunct) NUS, Retired Senior District Judge</p>
+<p>Law Professor (Adjunct) NUS,
+<br>Retired Senior District Judge</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Chan_Chee_Kong.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Er. Chan Chee Kong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Engineer</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Goh_Heng_Hoon.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr. Goh Heng Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Real Estate Consultant</p>
 <p></p>
 </td>
 </tr>
