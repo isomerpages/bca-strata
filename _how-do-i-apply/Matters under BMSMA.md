@@ -39,8 +39,7 @@ evidence,&nbsp;<strong>the minimum font size to be used is Times New Roman 12 or
 <li>
 <p><strong>Email Form 8 / Form 9 to stbapplication@mnd.gov.sg</strong>
 </p>
-<p>•<a href="/files/Forms/form_8_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 8 (PDF, 188 KB</a>
-<a href="/files/Forms/form-8-04102023.pdf" rel="noopener noreferrer nofollow" target="_blank">)</a>
+<p>•<a href="/files/Forms/form_8_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 8 (PDF, 188 KB)</a>
 </p>
 <p>If you are filing an application in your&nbsp;<strong>personal capacity</strong>,
 fill in and submit Form 8, which must be properly completed, legible and
