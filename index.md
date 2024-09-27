@@ -6,7 +6,9 @@ description: The Strata Titles Boards ("STB") are tribunals which handle
   of such properties.
 image: /images/Fav Icon & Logo/favicon-stb.ico
 permalink: /
-notification: ""
+notification: "NOTE: Memorandum of Service (“MOS”) forms at [
+  https://go.gov.sg/mos & https://go.gov.sg/mos-interlocutory ] are not
+  available at the moment. Please contact your case officer for assistance."
 sections:
   - hero:
       title: Strata Titles Boards
@@ -31,5 +33,6 @@ sections:
       alt: General Proceedings
   - resources:
       title: News & Judgments
+      id: resources
       button: Read More
 ---
