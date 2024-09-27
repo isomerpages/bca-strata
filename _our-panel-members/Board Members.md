@@ -25,20 +25,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-lee-lay-see.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Lee Lay See,
-<br>PBM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocate &amp; Solicitor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg">
 </div>
 </td>
@@ -629,34 +615,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Law Professor (Adjunct) NUS,
 <br>Retired Senior District Judge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Chan_Chee_Kong.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Er. Chan Chee Kong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Engineer</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Goh_Heng_Hoon.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Goh Heng Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Real Estate Consultant</p>
-<p></p>
 </td>
 </tr>
 </tbody>
