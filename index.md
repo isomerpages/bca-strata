@@ -30,6 +30,14 @@ sections:
       image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
   - resources:
-      title: News & Judgments
+      title: Annoucement
       button: Read More
+      subtitle: test
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
