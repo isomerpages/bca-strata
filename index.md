@@ -33,9 +33,7 @@ sections:
       alt: General Proceedings
   - infobar:
       title: News & Judgments
-      subtitle: Add informational text
       id: infobar
-      description: Infobar description
       button: Read More
       url: https://www.stratatb.gov.sg/news-and-judgments/
 ---
