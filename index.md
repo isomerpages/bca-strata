@@ -31,4 +31,22 @@ sections:
       url: /general-proceedings
       image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
+  - textcards:
+      title: News & Judgments
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: https://www.stratatb.gov.sg/national-day-awards-2024-10-august-2024/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
