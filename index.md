@@ -31,11 +31,4 @@ sections:
       url: /general-proceedings
       image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
