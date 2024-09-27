@@ -35,9 +35,4 @@ sections:
       title: News & Judgments
       id: resources
       button: Read More
-  - infobar:
-      title: News & Judgments
-      id: infobar
-      button: Read More
-      url: https://www.stratatb.gov.sg/news-and-judgments/
 ---
