@@ -11,10 +11,12 @@ variant: tiptap
 Presidents and Board Members from 1 October 2024:</p>
 <p></p>
 <p>(As Deputy Presidents)</p>
-<p>Mdm. Zahara binte Bakar</p>
-<p>Ms. Kan Shuk Weng</p>
-<p></p>
+<p>Mdm. Zahara binte Bakar
+<br>Ms. Kan Shuk Weng
+<br>
+<br>
+</p>
 <p>(As Board Members)</p>
-<p>Er. Chan Chee Kong</p>
-<p>Mr. Goh Heng Hoon</p>
+<p>Er. Chan Chee Kong
+<br>Mr. Goh Heng Hoon</p>
 <p></p>
