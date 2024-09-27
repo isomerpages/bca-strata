@@ -31,22 +31,9 @@ sections:
       url: /general-proceedings
       image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
-  - textcards:
+  - infobar:
       title: News & Judgments
-      id: textcards
-      cards:
-        - title: NEWS
-          description: National Day Awards 2024 | 10 August 2024
-          linktext: 10 AUG 2024
-          url: https://www.stratatb.gov.sg/national-day-awards-2024-10-august-2024/
-        - title: JUDGMENTS
-          description: STB 106 of 2023 – Ridgewood Condominium (MCST Plan No 533 v Kanika
-            Mittal)
-          linktext: 26 JUN 2024
-          url: https://www.stratatb.gov.sg/files/STB_106_of_2023_Ridgewood_Condominium__GD_.pdf
-        - title: JUDGMENTS
-          description: STB 105 of 2023 – Highland Centre (MCST Plan No 2005 v Tan Wei
-            Loong...
-          linktext: 20 JUN 2024
-          url: https://www.stratatb.gov.sg/files/STB_105_of_2023_Highland_Centre__GD_.pdf
+      id: infobar
+      button: Read More
+      url: https://www.stratatb.gov.sg/news-and-judgments/
 ---
