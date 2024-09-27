@@ -31,13 +31,13 @@ sections:
       url: /general-proceedings
       image: /images/group-business-people-discussing-business-plan-office.jpg
       alt: General Proceedings
+  - resources:
+      title: News & Judgments
+      id: resources
+      button: Read More
   - infobar:
       title: News & Judgments
       id: infobar
       button: Read More
       url: https://www.stratatb.gov.sg/news-and-judgments/
-  - resources:
-      title: News & Judgments
-      id: resources
-      button: Read More
 ---
