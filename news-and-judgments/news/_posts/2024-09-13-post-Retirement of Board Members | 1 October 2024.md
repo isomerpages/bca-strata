@@ -7,3 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The Strata Titles Boards would like to thank the following Board members
+who retired on 30 September 2024 for their dedicated service:</p>
+<p></p>
+<p>Dr. Tang Hang Wu</p>
+<p>Mr. Ter Kim Cheu</p>
+<p>Er. Lim Peng Hong</p>
