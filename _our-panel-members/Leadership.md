@@ -2,7 +2,7 @@
 title: Leadership
 permalink: /our-panel-members/leadership/
 description: View STB's list of appointed Panel Members.
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -114,20 +114,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-lee-lay-see.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms. Lee Lay See,
-<br>PBM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocate &amp; Solicitor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/mr-raymond-lye.jpg">
 </div>
 </td>
@@ -155,6 +141,33 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Advocate &amp; Solicitor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mdm-zahara.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm. Zahara binte Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Advocate &amp; Solicitor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/kan-shuk-weng.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Kan Shuk Weng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Law Lecturer (Adjunct),
+<br>Former District Judge</p>
 </td>
 </tr>
 </tbody>
