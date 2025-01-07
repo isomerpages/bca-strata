@@ -3,6 +3,7 @@ title: Mediation (BMSMA)
 permalink: /start-here/mediation/bmsma/
 description: ""
 third_nav_title: Mediation
+variant: markdown
 ---
 # Mediation
 
@@ -14,7 +15,7 @@ third_nav_title: Mediation
 
 ### WHAT IS MEDIATION
 
-Mediation is a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution. The mediation at Strata Titles Boards is conducted by a Board of three (3) or five (5) board members. During the mediation, all parties will be allowed to present their respective evidence and make submissions to the Board. The Board’s function is to facilitate parties in an attempt to reach an amicable settlement to resolve their dispute. Unless expressly requested by all parties involved, the Board will not make any ruling with respect to the dispute.
+Mediation is a structured negotiation process in which the mediator, as a neutral and independent party, assists the parties to a dispute to achieve their own resolution. The mediation at Strata Titles Boards is conducted by a Board of three (3) or five (5) board members. The Board’s function is to facilitate parties in an attempt to reach an amicable settlement to resolve their dispute. Unless expressly requested by all parties involved, the Board will not make any ruling with respect to the dispute.
 
 ![mediation](/images/solving%20problem.jpg)
 
