@@ -2,7 +2,7 @@
 title: Board Members
 permalink: /our-panel-members/board-members/
 description: View STB's list of appointed Panel Members.
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -337,22 +337,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-ashvinkumar-so-kantilal.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ar. Ashvinkumar s/o Kantilal,
-<br>PBM
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Architect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mr_chan_kok_way2.bmp">
@@ -392,22 +376,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Architect</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-rajaram.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Rajaram Ramiah,
-<br>BBM, PBM
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Advocate and Solicitor</p>
 </td>
 </tr>
 <tr>
