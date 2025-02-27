@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/STB_106_of_2023_Ridgewood_Condominium__GD_.pdf
+file_url: /files/Judgments/2024/STB_106_of_2023_Ridgewood_Condominium__GD_.pdf
 ---

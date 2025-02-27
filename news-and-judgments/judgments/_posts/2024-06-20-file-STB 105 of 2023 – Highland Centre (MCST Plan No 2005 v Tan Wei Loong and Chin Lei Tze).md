@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/STB_105_of_2023_Highland_Centre__GD_.pdf
+file_url: /files/Judgments/2024/STB_105_of_2023_Highland_Centre__GD_.pdf
 ---
