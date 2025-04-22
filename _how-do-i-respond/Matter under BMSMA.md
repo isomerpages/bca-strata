@@ -2,6 +2,7 @@
 title: Matter under BMSMA
 permalink: /how-do-i-respond/matter-under-bmsma/
 description: ""
+variant: markdown
 ---
 # Steps relating to an application under Part VI of the Building Maintenance and Strata Management Act
 
@@ -19,7 +20,7 @@ Strata Titles Boards will issue a **Notice of Constitution of a Board** to App
 
 A **Notice of Mediation** will be issued to the Applicant and Respondent to attend a mediation at the Strata Titles Boards on a specified date and time. Both parties must attend the mediation.
 
-No fees are payable for the first two (2) mediations. Please see [Fees](https://www.stratatb.gov.sg/resources-fees.html) under ‘Resources’ for the mediation/hearing fees payable under the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
+No fees are payable for the first two (2) mediations. Please see [Fees](https://www.stratatb.gov.sg/resources/fees/bmsma/) under ‘Resources’ for the mediation/hearing fees payable under the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
 
 ### STEP 4: MAKE A SUBMISSION/DEFENCE
 
