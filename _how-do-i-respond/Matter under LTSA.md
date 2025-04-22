@@ -90,7 +90,7 @@ a minority owner (i.e. unit owner who has not agreed to the sale in writing)
 may file a valid objection to the Strata Titles Boards using the prescribed
 form&nbsp;<strong>within 21 days</strong>&nbsp;after the date of the notice
 served. The prescribed forms for objections Form 24 (<a href="/files/Forms/form_24_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF file</a>)
-– unit owner who is an individual; and Form 25 (<a href="/files/Forms/form_25_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF </a><a href="/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">file)</a>&nbsp;– unit owner who
+– unit owner who is an individual; and Form 25 (<a href="/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">PDF file</a>)– unit owner who
 is a company) are enclosed with the notice of application.&nbsp;<strong>6 copies</strong>&nbsp;of
 the objection form and any supporting documents are to be submitted to
 the Strata Titles Boards office.</p>
