@@ -2,6 +2,7 @@
 title: Matter under LTSA
 permalink: /how-do-i-respond/matter-under-ltsa/
 description: ""
+variant: markdown
 ---
 # Steps relating to an application under Part VA of the Land Titles (Strata) Act
 ### WHAT IS A COLLECTIVE SALE
@@ -49,7 +50,7 @@ The above procedures ensure that owners have adequate notice of the en-bloc sale
 
 ### STEP 2: OBJECTION TO COLLECTIVE SALE (EN-BLOC SALE)
 
-After the notice of proposed application has been served on all owners, a minority owner (i.e. unit owner who has not agreed to the sale in writing) may file a valid objection to the Strata Titles Boards using the prescribed form **within 21 days** after the date of the notice served. The prescribed forms for objections ([Form 24 (PDF, 624 KB))](https://www.stratatb.gov.sg/public-data/doc/forms/Form-24.pdf "Form 24") – unit owner who is an individual; and [Form 25 (PDF, 624 KB)](https://www.stratatb.gov.sg/public-data/doc/forms/Form-25.pdf "Form 25") – unit owner who is a company) are enclosed with the notice of application. **6 copies** of the objection form and any supporting documents are to be submitted to the Strata Titles Boards office.
+After the notice of proposed application has been served on all owners, a minority owner (i.e. unit owner who has not agreed to the sale in writing) may file a valid objection to the Strata Titles Boards using the prescribed form **within 21 days** after the date of the notice served. The prescribed forms for objections ([Form 24 (PDF, 624 KB)](/files/Forms/form_24_09092024.pdf)) – unit owner who is an individual; and [Form 25 (PDF, 624 KB)](/files/Forms/form_25_09092024.pdf) – unit owner who is a company) are enclosed with the notice of application. **6 copies** of the objection form and any supporting documents are to be submitted to the Strata Titles Boards office.
 
 Minority owners can raise a valid objection on the permissible grounds under the Land Titles (Strata) Act, e.g. financial loss.
 
