@@ -65,8 +65,7 @@ the specified person(s) to represent the company at STB proceedings.</p>
 Titles (Strata) Act</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Guidelines/registrars-circular-12009.pdf" rel="noopener noreferrer nofollow" target="_blank">Registrar's Circular 1/2009 on Stamping of Agreements Related</a>
-<a href="/files/News/registrars-circular-1-20090202141031211.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Guidelines/registrars-circular-12009.pdf" rel="noopener noreferrer nofollow" target="_blank"> to the Collective Sale of Property under the Land Titles (Strata) Act, Part VA (PDF, 46 KB)</a>
+<p><a href="/files/News/registrars-circular-1-20090202141031211.pdf" rel="noopener nofollow" target="_blank">Registrar's Circular 1/2009</a>
 </p>
 </li>
 <li>
