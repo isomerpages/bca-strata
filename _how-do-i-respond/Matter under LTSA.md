@@ -59,7 +59,7 @@ Owners must seek independent legal advice if they are uncertain. The Strata Titl
 
 The registry staff assists with the filing and scheduling of the proceedings. They are not able to give parties legal advice or decide what to include in their papers to the Strata Titles Boards.
 
-Where one or more objections have been filed in relation to that application, the application proceeds to a mediation. The Strata Titles Board will mediate matters that are in dispute between the Objectors and the Applicants for a maximum 60-days period. Please refer to details under [mediation](https://www.stratatb.gov.sg/mediation.html "mediation").
+Where one or more objections have been filed in relation to that application, the application proceeds to a mediation. The Strata Titles Board will mediate matters that are in dispute between the Objectors and the Applicants for a maximum 60-days period. Please refer to details under [mediation](https://www.stratatb.gov.sg/start-here/mediation/bmsma/).
 
 ### STEP 3: NOTICE OF CONSTITUTION OF THE BOARD
 
