@@ -59,7 +59,7 @@ Owners must seek independent legal advice if they are uncertain. The Strata Titl
 
 The registry staff assists with the filing and scheduling of the proceedings. They are not able to give parties legal advice or decide what to include in their papers to the Strata Titles Boards.
 
-Where one or more objections have been filed in relation to that application, the application proceeds to a mediation. The Strata Titles Board will mediate matters that are in dispute between the Objectors and the Applicants for a maximum 60-days period. Please refer to details under [mediation](https://www.stratatb.gov.sg/start-here/mediation/bmsma/).
+Where one or more objections have been filed in relation to that application, the application proceeds to a mediation. The Strata Titles Board will mediate matters that are in dispute between the Objectors and the Applicants for a maximum 60-days period. Please refer to details under [mediation](https://www.stratatb.gov.sg/start-here/mediation/ltsa/).
 
 ### STEP 3: NOTICE OF CONSTITUTION OF THE BOARD
 
@@ -71,4 +71,4 @@ All parties will receive a Notice of Constitution of a Strata Titles Board const
 
 Applicants and Objectors, if any will subsequently be issued a Notice of Mediation informing of the mediation date to attend before the Board. Parties must attend the mediation.
 
-No fees are payable for the first two (2) mediations. Please see [Fees](https://www.stratatb.gov.sg/resources-fees.html) for the mediation/hearing fees specified in the Scheudle of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
+No fees are payable for the first two (2) mediations. Please see [Fees](https://www.stratatb.gov.sg/resources/fees/ltsa/) for the mediation/hearing fees specified in the Scheudle of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.
