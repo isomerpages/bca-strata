@@ -2,7 +2,7 @@
 title: Leadership
 permalink: /our-panel-members/leadership/
 description: View STB's list of appointed Panel Members.
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
