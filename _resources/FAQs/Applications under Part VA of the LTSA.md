@@ -68,7 +68,7 @@ should be filed to the Board.</p>
 </p>
 <p>According to section 84A(4) of the LTSA, you have 21 days from the date
 on which the Notice of Proposed Application to the Strata Titles Board
-<a href="/files/FAQS/LTSA/form27.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 27</a>is served on you.</p>
+Form 27 is served on you.</p>
 <p><strong>Q9: What information must I have to attach to Forms 24 or 25 (objection filed under Section 84A/E/FA by an individual)? How detailed must the information be?</strong>
 </p>
 <p>A minority owner who wishes to object to an en-bloc sale has to furnish
