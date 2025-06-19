@@ -53,7 +53,7 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-8-09092024" rel="noopener noreferrer nofollow" target="_blank">Form No. 08</a>
+<p><a href="https://go.gov.sg/form-9_09062025" rel="noopener noreferrer nofollow" target="_blank">Form No. 08</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,11 +68,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-9-09092024" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
+<p><a href="https://go.gov.sg/form-9_09062025" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form_9_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
+<p><a href="https://www.stratatb.gov.sg/files/Forms/form-9_09062025.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
 </p>
 <p></p>
 </td>
