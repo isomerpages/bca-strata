@@ -61,23 +61,22 @@ Order.</p>
 <p>Under the Land Titles (Strata) Act, a minority owner may lodge an objection
 to the en-bloc sale within 21 days of the Notice of Proposed Application
 to the Strata Titles Boards served on him/her by the authorised representatives
-of the Sales Committee. 6 copies of the Forms&nbsp;<a href="/files/FAQS/LTSA/form-24.pdf" rel="noopener noreferrer nofollow" target="_blank">24 (PDF, 624 KB)</a>&nbsp;or&nbsp;
-<a href="/files/FAQS/LTSA/form-25.pdf" rel="noopener noreferrer nofollow" target="_blank">25 (PDF, 624 KB)</a>&nbsp;(<strong>Objection filed by a subsidiary proprietor</strong>)
-and supporting documents should be filed to the Board.</p>
+of the Sales Committee. 5 copies of the Forms 24 or 25 and supporting documents
+should be filed to the Board.</p>
 <p>Forms 24 and 25 can be downloaded under&nbsp;<a href="/resources/forms/" rel="noopener noreferrer nofollow" target="_blank">Forms</a>.</p>
 <p><strong>Q8: When is the deadline for filing of objections?</strong>
 </p>
 <p>According to section 84A(4) of the LTSA, you have 21 days from the date
 on which the Notice of Proposed Application to the Strata Titles Board
-<a href="/files/FAQS/LTSA/form27.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 27 (PDF, 119 KB)</a>is served on you.</p>
+<a href="/files/FAQS/LTSA/form27.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 27</a>is served on you.</p>
 <p><strong>Q9: What information must I have to attach to Forms 24 or 25 (objection filed under Section 84A/E/FA by an individual)? How detailed must the information be?</strong>
 </p>
 <p>A minority owner who wishes to object to an en-bloc sale has to furnish
-his particulars in Forms&nbsp;<a href="/files/FAQS/LTSA/form-24.pdf" rel="noopener noreferrer nofollow" target="_blank">24 (PDF, 624&nbsp;KB)</a>&nbsp;or&nbsp;
-<a href="/files/FAQS/LTSA/form-25.pdf" rel="noopener noreferrer nofollow" target="_blank">25 (PDF, 624&nbsp;KB)</a>, which can be downloaded under&nbsp;<a href="/resources/forms/" rel="noopener noreferrer nofollow" target="_blank">Forms</a>.
-In addition, all information which he feels is relevant to his case should
-be listed in a logical order in an annex attached to the form. 6 copies
-of the documents referred to should also be given to the Board.</p>
+his particulars in Forms 24 or 25, which can be downloaded under&nbsp;
+<a href="/resources/forms/" rel="noopener noreferrer nofollow" target="_blank">Forms</a>. In addition, all information which he feels is relevant to
+his case should be listed in a logical order in an annex attached to the
+form. 5 copies of the documents referred to should also be given to the
+Board.</p>
 <p><strong>Q10: What does “<em>such other document as the Board may require</em>” reflected under paragraph 11(d) in the First Schedule of the LTSA refer to?</strong>
 </p>
 <p>A Board has to satisfy itself that the relevant requirements reflected
