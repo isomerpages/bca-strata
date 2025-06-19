@@ -39,15 +39,14 @@ evidence,&nbsp;<strong>the minimum font size to be used is Times New Roman 12 or
 <li>
 <p><strong>Email Form 8 / Form 9 to stbapplication@mnd.gov.sg</strong>
 </p>
-<p>•<a href="/files/Forms/form_8_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 8 (PDF, 188 KB)</a>
-</p>
+<p>•&nbsp;(<a href="/files/Forms/form_8_09062025.pdf" rel="noopener nofollow" target="_blank">Form 8</a>)</p>
 <p>If you are filing an application in your&nbsp;<strong>personal capacity</strong>,
 fill in and submit Form 8, which must be properly completed, legible and
 signed. Ensure that all owners of the property have signed on the form.
 Additionally, ensure that the sequence of events written in Section E of
 Form 8 is clear and concise, and written in chronological order (from the
 earliest date to the current date).</p>
-<p>•&nbsp;(<a href="/files/Forms/form-9-05042021.pdf" rel="noopener noreferrer nofollow" target="_blank">Form 9 (PDF, 174KB)</a>)</p>
+<p>•&nbsp;(<a href="/files/Forms/form_9_09062025.pdf" rel="noopener nofollow" target="_blank">Form 9</a>)</p>
 <p>If you are filing an application for and on behalf of the&nbsp;<strong>management corporation</strong>&nbsp;of
 your property development, fill in and submit Form 9, which must be properly
 completed, legible and signed. Ensure that the sequence of events written
@@ -147,9 +146,9 @@ be submitted for the President’s consideration.</p>
 <p>Applicant and Respondent will be issued a Notice of Mediation informing
 of the mediation date to attend before the Board. Both parties must attend
 the mediation.</p>
-<p>No fees are payable for the first two (2) mediations. Please see&nbsp;
-<a href="/resources/fees/bmsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;for the mediation/hearing fees payable under the Building
-Maintenance and Strata Management (Strata Titles Boards) Regulations 2005.</p>
+<p>No fees are payable for the first two (2) mediations. Please see <a href="/resources/fees/bmsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;for
+the mediation/hearing fees payable under the Building Maintenance and Strata
+Management (Strata Titles Boards) Regulations 2005.</p>
 <p><strong>What happens if the matter is settled with Respondent</strong>
 </p>
 <p>In the event that your matter is settled, you should inform the Strata
