@@ -61,8 +61,8 @@ Order.</p>
 <p>Under the Land Titles (Strata) Act, a minority owner may lodge an objection
 to the en-bloc sale within 21 days of the Notice of Proposed Application
 to the Strata Titles Boards served on him/her by the authorised representatives
-of the Sales Committee. 5 copies of the Forms 24 or 25 and supporting documents
-should be filed to the Board.</p>
+of the Sales Committee. Six (6) copies of the Forms 24 or 25 and supporting
+documents should be filed to the Board.</p>
 <p>Forms 24 and 25 can be downloaded under&nbsp;<a href="/resources/forms/" rel="noopener noreferrer nofollow" target="_blank">Forms</a>.</p>
 <p><strong>Q8: When is the deadline for filing of objections?</strong>
 </p>
@@ -75,8 +75,8 @@ on which the Notice of Proposed Application to the Strata Titles Board
 his particulars in Forms 24 or 25, which can be downloaded under&nbsp;
 <a href="/resources/forms/" rel="noopener noreferrer nofollow" target="_blank">Forms</a>. In addition, all information which he feels is relevant to
 his case should be listed in a logical order in an annex attached to the
-form. 5 copies of the documents referred to should also be given to the
-Board.</p>
+form. Six (6) copies of the documents referred to should also be given
+to the Board.</p>
 <p><strong>Q10: What does “<em>such other document as the Board may require</em>” reflected under paragraph 11(d) in the First Schedule of the LTSA refer to?</strong>
 </p>
 <p>A Board has to satisfy itself that the relevant requirements reflected
