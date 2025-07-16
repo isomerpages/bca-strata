@@ -25,7 +25,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/mr-alfonso.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/mr-alfonso.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/ms-angeline-tan-guek-ing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-angeline-tan-guek-ing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,7 +97,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/mr-remedios-francis-g.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/mr-remedios-francis-g.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +114,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/mr-raymond-lye.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/mr-raymond-lye.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Leadership/mr-oommen-mathew.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/mr-oommen-mathew.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,7 +146,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mdm-zahara.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/mdm-zahara.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,7 +159,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/kan-shuk-weng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/kan-shuk-weng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

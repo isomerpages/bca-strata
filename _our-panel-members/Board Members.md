@@ -2,7 +2,7 @@
 title: Board Members
 permalink: /our-panel-members/board-members/
 description: View STB's list of appointed Panel Members.
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -25,7 +25,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Leadership/ms-lee-lay-see.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/ms-lee-lay-see.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -588,7 +588,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BR_Photo__01_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/bala_reddy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
