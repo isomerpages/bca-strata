@@ -346,11 +346,13 @@ fill in, sign and return to Strata Titles Boards’ office. The forms are
 as follows:-</p>
 <ol>
 <li>
-<p><a href="/files/FAQS/BMSMA/withdrawal-of-application-form(applicant)-060821.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Application (for Applicant) (PDF, 141 KB)</a>;
+<p><a href="/files/FAQS/BMSMA/withdrawal-of-application-form(applicant)-060821.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Application (for Applic</a>
+<a href="/files/Forms/withdrawal_of_application_form_applicant_29072025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/FAQS/BMSMA/withdrawal-of-application-form(applicant)-060821.pdf" rel="noopener noreferrer nofollow" target="_blank">ant) (PDF, 141 KB)</a>;
 and</p>
 </li>
 <li>
-<p><a href="/files/FAQS/BMSMA/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf" rel="noopener noreferrer nofollow" target="_blank">Consent to Withdrawal of Application (for Respondent) (PDF, 28 KB)</a>
+<p><a href="/files/FAQS/BMSMA/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf" rel="noopener noreferrer nofollow" target="_blank">Consent to Withdrawal of Applica</a>
+<a href="/files/Forms/consent_to_withdrawal_of_application_form_respondent_29072025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/FAQS/BMSMA/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf" rel="noopener noreferrer nofollow" target="_blank">tion (for Respondent) (PDF, 28 KB)</a>
 </p>
 </li>
 </ol>
