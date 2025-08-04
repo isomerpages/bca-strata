@@ -236,7 +236,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_24_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
+<p><a href="https://www.stratatb.gov.sg/files/Forms/form_24_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
 </p>
 </td>
 </tr>
@@ -250,7 +250,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://cms.isomer.gov.sg/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
+<p><a href="https://www.stratatb.gov.sg/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
 </p>
 </td>
 </tr>
