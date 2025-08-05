@@ -129,7 +129,7 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/withdrawal-of-application-form(applicant)_29072025.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Application Form</a>
+<p><a href="/files/Forms/withdrawal_of_application_form_applicant_29072025.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Application Form</a>
 </p>
 </td>
 </tr>
@@ -143,7 +143,7 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/consent-to-withdrawal-of-application-form(respondent)_29072025.pdf" rel="noopener noreferrer nofollow" target="_blank">Consent to Withdrawal of Application Form</a>
+<p><a href="/files/Forms/consent_to_withdrawal_of_application_form_respondent_29072025.pdf" rel="noopener noreferrer nofollow" target="_blank">Consent to Withdrawal of Application Form</a>
 </p>
 </td>
 </tr>
