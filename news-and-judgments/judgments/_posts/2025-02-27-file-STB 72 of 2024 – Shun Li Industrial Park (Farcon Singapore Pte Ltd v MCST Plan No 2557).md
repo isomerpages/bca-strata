@@ -1,5 +1,5 @@
 ---
-title: STB 72 of 2024 – Shun Li Industrial Park (Farcon Singapore Pte Ltd MCST
+title: STB 72 of 2024 – Shun Li Industrial Park (Farcon Singapore Pte Ltd v MCST
   Plan No 2557)
 date: 2025-02-27
 layout: file
