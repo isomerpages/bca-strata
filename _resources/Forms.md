@@ -250,7 +250,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form-25-25082025.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
+<p><a href="https://www.stratatb.gov.sg/files/Forms/form_25_25082025.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
 </p>
 </td>
 </tr>
