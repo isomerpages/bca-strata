@@ -90,14 +90,14 @@ a minority owner (i.e. unit owner who has not agreed to the sale in writing)
 may file a valid objection to the Strata Titles Boards using the prescribed
 form&nbsp;<strong>within 21 days</strong>&nbsp;after the date of the notice
 served. The prescribed forms for objections Form 24 (<a href="/files/Forms/form_24_09092024.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF file</a>)
-– unit owner who is an individual; and Form 25 (<a href="/files/Forms/form_25_09092024.pdf" rel="noopener nofollow" target="_blank">PDF file</a>)– unit owner who
+– unit owner who is an individual; and Form 25 (<a href="/files/Forms/form_25_25082025.pdf" rel="noopener nofollow" target="_blank">PDF file</a>) – unit owner who
 is a company) are enclosed with the notice of application.&nbsp;<strong>6 copies</strong>&nbsp;of
 the objection form and any supporting documents are to be submitted to
 the Strata Titles Boards office.</p>
 <p>Minority owners can raise a valid objection on the permissible grounds
 under the Land Titles (Strata) Act, e.g. financial loss.</p>
 <blockquote>
-<p><strong>Note:</strong>Owners must seek independent legal advice if they
+<p><strong>Note: </strong>Owners must seek independent legal advice if they
 are uncertain. The Strata Titles Boards is a tribunal and does not provide
 legal advice. It is impartial and does not advice one party against the
 other.</p>
@@ -118,7 +118,7 @@ constituted to hear the application. All parties will have up to seven
 reasonable grounds, such as conflicts of interest. Objection to any Board
 member will be submitted for the President’s consideration.</p>
 <h3>STEP 4: NOTICE OF MEDIATION DATE</h3>
-<p>Applicants and Objectors, if any will subsequently be issued a Notice
+<p>Applicants and Objectors, if any, will subsequently be issued a Notice
 of Mediation informing of the mediation date to attend before the Board.
 Parties must attend the mediation.</p>
 <p>No fees are payable for the first two (2) mediations. Please see <a href="https://www.stratatb.gov.sg/resources/fees/ltsa/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;for
