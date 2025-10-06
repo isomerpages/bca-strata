@@ -6,7 +6,8 @@ description: The Strata Titles Boards ("STB") are tribunals which handle
   of such properties.
 image: /images/Fav Icon & Logo/favicon-stb.ico
 permalink: /
-notification: ""
+notification: With effect from 1 October 2025, the Building Maintenance and
+  Strata Management Act has been amended to Building (Strata Management) Act.
 sections:
   - hero:
       title: Strata Titles Boards
