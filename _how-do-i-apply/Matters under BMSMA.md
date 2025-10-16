@@ -39,14 +39,14 @@ evidence,&nbsp;<strong>the minimum font size to be used is Times New Roman 12 or
 <li>
 <p><strong>Email Form 8 / Form 9 to stbapplication@mnd.gov.sg</strong>
 </p>
-<p>•&nbsp;(<a href="/files/Forms/form_8_09062025.pdf" rel="noopener nofollow" target="_blank">Form 8</a>)</p>
+<p>•&nbsp;(<a href="/files/Forms/form_8__15102025_.pdf" rel="noopener nofollow" target="_blank">Form 8</a>)</p>
 <p>If you are filing an application in your&nbsp;<strong>personal capacity</strong>,
 fill in and submit Form 8, which must be properly completed, legible and
 signed. Ensure that all owners of the property have signed on the form.
 Additionally, ensure that the sequence of events written in Section E of
 Form 8 is clear and concise, and written in chronological order (from the
 earliest date to the current date).</p>
-<p>•&nbsp;(<a href="/files/Forms/form_9_09062025.pdf" rel="noopener nofollow" target="_blank">Form 9</a>)</p>
+<p>•&nbsp;(<a href="/files/Forms/form_9__15102025_.pdf" rel="noopener nofollow" target="_blank">Form 9</a>)</p>
 <p>If you are filing an application for and on behalf of the&nbsp;<strong>management corporation</strong>&nbsp;of
 your property development, fill in and submit Form 9, which must be properly
 completed, legible and signed. Ensure that the sequence of events written
