@@ -68,11 +68,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-9-09062025" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
+<p><a href="https://go.gov.sg/form9-application-form" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form_9_09062025.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
+<p><a href="/files/Forms/form_9__15102025_.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
 </p>
 <p></p>
 </td>
@@ -83,11 +83,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/interlocutory-application-form-final" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
+<p><a href="https://go.gov.sg/ia-application-form" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/interlocutory_application_form_final_21_dec_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
+<p><a href="/files/Forms/Interlocutory_Application_Form__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
 </p>
 </td>
 </tr>
@@ -97,11 +97,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
+<p><a href="https://go.gov.sg/ia-objection-form" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
+<p><a href="/files/Forms/Form_13_Objection__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
 </p>
 </td>
 </tr>
