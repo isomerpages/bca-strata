@@ -19,8 +19,7 @@ advice. <a href="/files/Guidelines/notes-of-guidance-for-form-8(individual-compa
 <p>General guidance for persons entitled to apply and possible Respondents.
 Applicants should refer to actual provisions in the Act for their full
 meaning and effect. If unsure, Applicants should seek independent legal
-advice. <a href="/files/Guidelines/notes-of-guidance-for-form-9(mcst).pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form </a>
-<a href="/files/Guidelines/notes_of_guidance_for_form_9_mcst___15102025_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Guidelines/notes-of-guidance-for-form-9(mcst).pdf" rel="noopener noreferrer nofollow" target="_blank">9 (MCST)</a>
+advice. <a href="/files/Guidelines/notes_of_guidance_for_form_9_mcst___15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form (MCST)</a>
 </p>
 <p><strong>Withdrawal of Application Form (Applicant)</strong>
 </p>
