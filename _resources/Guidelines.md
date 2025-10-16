@@ -12,8 +12,7 @@ and Strata Management Act</p>
 <p>General guidance for persons entitled to apply and possible Respondents.
 Applicants should refer to actual provisions in the Act for their full
 meaning and effect. If unsure, Applicants should seek independent legal
-advice. <a href="/files/Guidelines/notes-of-guidance-for-form-8(individual-company).pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 8 (Indiv</a>
-<a href="/files/Guidelines/notes_of_guidance_for_form_8_individual_company___15102025_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Guidelines/notes-of-guidance-for-form-8(individual-company).pdf" rel="noopener noreferrer nofollow" target="_blank">idual / Company)</a>
+advice. <a href="/files/Guidelines/notes-of-guidance-for-form-8(individual-company).pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 8 (Individual / Company)</a>
 </p>
 <p><strong>Notes of Guidance for Form 9 (MCST)</strong>
 </p>
