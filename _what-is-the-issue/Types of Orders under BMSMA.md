@@ -6,10 +6,10 @@ variant: markdown
 ---
 You should refer to Part VI (Division 2) of the Building (Strata Management) Act for the full meaning and effect of the provisions.
 
-| Details |  | Relevant Section(s) of the BMSMA |
+| Details |  | Relevant Section(s) of the BSMA |
 | -------- | -------- | -------- |
 | Disputes on inter floor water leakage     | | Section 101(1)(a); and Section 101(8)
-| Settlement of a dispute with respect to exercise of a duty imposed by BMSMA or the by-laws of the property | | Section 101(1)(c)
+| Settlement of a dispute with respect to exercise of a duty imposed by BSMA or the by-laws of the property | | Section 101(1)(c)
 | To convene a general meeting || Section 102
 | To invalidate a resolution || Section 103
 | To nullify a resolution || Section 104
