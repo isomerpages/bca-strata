@@ -2,8 +2,9 @@
 title: Pre Filing Assessment Tool
 permalink: /general-proceedings/prefiling-assessment-tool/
 description: ""
+variant: markdown
 ---
-Disclaimer: This pre-filing assessment tool is for general guidance only in relation to disputes before the Strata Titles Boards ("**STB**") under the Building Maintenance and Strata Management Act ("**BMSMA**").The successful completion of the pre-filing assessment does not imply that your application will be accepted nor does it constitute any form of advice on the merits of your case. When in doubt, parties should seek independent legal advice.
+Disclaimer: This pre-filing assessment tool is for general guidance only in relation to disputes before the Strata Titles Boards ("**STB**") under the Building (Strata Management) Act.The successful completion of the pre-filing assessment does not imply that your application will be accepted nor does it constitute any form of advice on the merits of your case. When in doubt, parties should seek independent legal advice.
 
 1.       Does your application relate to a strata-titled property? 
 
