@@ -2,6 +2,7 @@
 title: Organisation Structure
 permalink: /about-us/organisation-structure/
 description: Learn about STB's role, organisation structure and more.
+variant: markdown
 ---
 ### Board Members
 
@@ -19,4 +20,4 @@ The Registry team is supported by registry staff (case officers) who assists wit
 
 ### Ministry of National Development
 
-The BMSMA and its subsidiary legislations comes under the purview of the Ministry of National Development (MND). As part of MND’s responsibility to provide services to the community, the Strata Titles Boards were established under the BMSMA. The Act is administered by the Building and Construction Authority (BCA), which comes under the purview of MND.
+The BMSMA and its subsidiary legislations comes under the purview of the Ministry of National Development (MND). As part of MND’s responsibility to provide services to the community, the Strata Titles Boards were established under the BSMA. The Act is administered by the Building and Construction Authority (BCA), which comes under the purview of MND.
