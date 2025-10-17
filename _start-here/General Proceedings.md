@@ -2,6 +2,7 @@
 title: General Proceedings
 permalink: /general-proceedings/
 description: Access an overview of proceedings at STB.
+variant: markdown
 ---
 # General Proceedings of Strata Titles Boards
 ![](/images/businessman-discussing.jpg)
@@ -19,6 +20,6 @@ The proceedings at Strata Titles Boards consist of 4 main stages:
 
 Please refer to **Application**, **Mediation**, **Hearing**, **Post-hearing** for the detailed information on procedure at each stage.
 
-If you are intending to file an application relating to disputes under the Building Maintenance and Strata Management Act (“BMSMA”), you may wish to use our **pre-filing assessment tool** to go through some important points you should consider before making your application. Click [here](/general-proceedings/prefiling-assessment-tool/) to access the tool.
+If you are intending to file an application relating to disputes under the Building (Strata Management) Act, you may wish to use our **pre-filing assessment tool** to go through some important points you should consider before making your application. Click [here](/general-proceedings/prefiling-assessment-tool/) to access the tool.
 
 **IMPORTANT NOTE:** Please send in the soft copies of your application form to [stbapplication@mnd.gov.sg](mailto:stbapplication@mnd.gov.sg) for checking first. After your application has been accepted, instructions on making payment of the application fee and the submission of the hard copies of your application will be given.
