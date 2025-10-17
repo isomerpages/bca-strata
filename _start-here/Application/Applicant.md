@@ -9,7 +9,7 @@ third_nav_title: Application
 variant: markdown
 ---
 # Types of Orders
-[Types of Orders under BSMA](/what-is-the-issue/types-of-orders-under-bmsma/)
+[Types of Orders under BSMA](/what-is-the-issue/types-of-orders-under-bsma/)
 
 [Types of Orders under LTSA](/what-is-the-issue/types-of-orders-under-ltsa/)
 
