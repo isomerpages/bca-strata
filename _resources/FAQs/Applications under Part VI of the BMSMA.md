@@ -5,7 +5,7 @@ description: ""
 third_nav_title: FAQs
 variant: tiptap
 ---
-<h2><strong>Applications under Part VI of the Building Maintenance and Strata Management Act</strong></h2>
+<h2><strong>Applications under Part VI of the Building (Strata Management) Act</strong></h2>
 <p><strong>Q1: What are the rules that I should note when attending sessions at the Strata Titles Boards?</strong>
 </p>
 <p>Please note that:</p>
@@ -37,9 +37,9 @@ and traditional attire. Visitors dressed in singlets, shorts, slippers
 or other inappropriate attire will not be permitted to enter the room.</p>
 <p><strong>Q3: What are the relevant legislations applicable to an application filed under the BMSMA?</strong>
 </p>
-<p>The relevant legislations are the Building Maintenance and Strata Management
-Act and the Building Maintenance and Strata Management (Strata Titles Boards)
-Regulations 2005 which can be viewed under&nbsp;<a href="/resources/legislation/" rel="noopener noreferrer nofollow" target="_blank">Legislation</a>.</p>
+<p>The relevant legislations are the Building (Strata Management) Act and
+the Building Maintenance and Strata Management (Strata Titles Boards) Regulations
+2005 which can be viewed under&nbsp;<a href="/resources/legislation/" rel="noopener noreferrer nofollow" target="_blank">Legislation</a>.</p>
 <p><strong>Q4: Why must the Applicant pay $500 application fee?</strong>
 </p>
 <p>Strata Titles Boards’ application fee of $500 is provided under the Building
@@ -370,7 +370,7 @@ Transfer).</p>
 <p><strong>Q20: Is there any expiry date for cases filed with the Strata Titles Boards?</strong>
 </p>
 <p>There is a 6-month expiry date for each case filed under the Building
-Maintenance and Strata Management Act upon the constitution of a Board.</p>
+(Strata Management) Act upon the constitution of a Board.</p>
 <p><strong>Q21: I would like to engage an interpreter as I am not conversant in English.</strong>
 </p>
 <p>You may appoint your own interpreter and you shall notify the registrar
