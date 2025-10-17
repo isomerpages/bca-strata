@@ -3,8 +3,9 @@ title: BMSMA
 permalink: /resources/fees/bmsma/
 description: ""
 third_nav_title: Fees
+variant: markdown
 ---
-# Fees for Application under Part VI of the Building Maintenance and Strata Management Act
+# Fees for Application under Part VI of the Building (Strata Management) Act
 
 
 A list of fees payable by the Applicant in relation to an application to the Strata Titles Boards is stated under The Schedule of the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 (BMSMR 2005).
@@ -13,7 +14,7 @@ A list of fees payable by the Applicant in relation to an application to the Str
 
 | No.  | Item | Fee (S$) |
 | -------- | -------- | -------- |
-| 1     | On filing an application under Division 2 of Part VI of the Building Maintenance and Strata Management Act  | $500 |
+| 1     | On filing an application under Division 2 of Part VI of the Building (Strata Management) Act  | $500 |
 
 | *(There is no provision in the Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005 which allows the Strata Titles Boards to make refunds)* |
 
