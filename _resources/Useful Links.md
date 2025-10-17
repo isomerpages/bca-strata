@@ -38,7 +38,7 @@ The Land Titles (Strata) Act (LTSA) comes under the purview of MinLaw.
 
 Together with its statutory boards, the Ministry of National Development (MND) guides Singapore’s land use planning and urban development, delivers affordable and quality public housing solutions, develops an efficient construction industry to ensure a quality and sustainable built environment, provides and manages parks and open spaces, maintains a high standard of food safety as well as animal and plant health, and protects consumer interest by raising the professionalism in the real estate agent industry.
 
-The Strata Titles Boards is provided for in the Building Maintenance and Strata Management Act (BMSMA), which comes under the ambit of the MND.
+The Strata Titles Boards is provided for in the Building (Strata Management) Act, which comes under the ambit of the MND.
 
   
 ![Singapore Land Authority  ](/images/Useful%20Links%20%20Gov%20Logo/useful-link-sla.jpg)
