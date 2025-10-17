@@ -3,10 +3,11 @@ title: Hearing (BMSMA)
 permalink: /start-here/hearing/bmsma/
 description: ""
 third_nav_title: Hearing
+variant: markdown
 ---
 # Hearing
 
-### Building Maintenance and Strata Management Act
+### Building (Strata Management) Act
 
 **PROCESS FLOWCHART**
 
@@ -93,6 +94,6 @@ Please bring at least 2 sets of all the evidence submitted to the Board (one for
 
 ### WHAT HAPPENS AFTER A HEARING
 
-After the Board has heard both parties and their witnesses, it will make a determination or an order based on evidence and the law. You may refer to Part VI (Division 2) of the Building Maintenance and Strata Management Act for more details on the types of orders which the Board can make at a hearing.
+After the Board has heard both parties and their witnesses, it will make a determination or an order based on evidence and the law. You may refer to Part VI (Division 2) of the Building (Strata Management) Act for more details on the types of orders which the Board can make at a hearing.
 
 Applicants are required to pay a fee of S$300.00 for a hearing each day or part thereof and the Board has the discretion to award costs against any party.
