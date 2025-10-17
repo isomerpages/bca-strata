@@ -2,11 +2,12 @@
 title: Post Hearing
 permalink: /general-proceedings/post-hearing/
 description: Post hearing
+variant: markdown
 ---
 # Post-hearing
 
 
-### Building Maintenance and Strata Management Act
+### Building (Strata Management) Act
 
   
 
