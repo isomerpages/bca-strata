@@ -27,8 +27,7 @@ Titles Boards.</p>
 </li>
 </ol>
 <h3>Forms under Part VI of the Building (Strata Management) Act</h3>
-<p>These forms apply to an application under Part VI of the Building Maintenance
-and Strata Management Act.</p>
+<p>These forms apply to an application under Part VI of the Building (Strata Management) Act.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
