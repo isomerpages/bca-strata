@@ -7,7 +7,7 @@ variant: markdown
 ---
 # Mediation
 
-### Building Maintenance and Strata Management Act
+### Building (Strata Management) Act
 **OVERVIEW OF MEDIATION (PROCESS FLOWCHART)**
 
 
