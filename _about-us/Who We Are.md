@@ -9,6 +9,6 @@ The Strata Titles Boards are tribunals established under the Building (Strata Ma
 
 ![](/images/img-stb-book.jpg)
 
-Common disputes brought before the Boards include those on inter-floor water leakages, performance or failure to perform certain duties under the BMSMA or by-laws, applications to convene meetings or invalidate resolutions passed by the management corporations, car parking woes, complaints with regards to alterations to common property, applications to revoke or invalidate certain by-laws, supply of information by management corporation, or management corporation requesting to enter an apartment to carry out particular work.
+Common disputes brought before the Boards include those on inter-floor water leakages, performance or failure to perform certain duties under the BSMA or by-laws, applications to convene meetings or invalidate resolutions passed by the management corporations, car parking woes, complaints with regards to alterations to common property, applications to revoke or invalidate certain by-laws, supply of information by management corporation, or management corporation requesting to enter an apartment to carry out particular work.
 
 As a neutral tribunal, the Strata Titles Boards does not advise one party against the other nor provide legal advice on any matter which may potentially be heard before it.
