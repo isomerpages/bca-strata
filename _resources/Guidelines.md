@@ -4,9 +4,9 @@ permalink: /resources/guidelines/
 description: ""
 variant: tiptap
 ---
-<h1>Guidelines - Building Maintenance and Strata Management Act</h1>
-<p>Guidelines for relevant forms under Part VI of the Building Maintenance
-and Strata Management Act</p>
+<h1>Guidelines - Building (Strata Management) Act</h1>
+<p>Guidelines for relevant forms under Part VI of the Building (Strata Management)
+Act</p>
 <p><strong>Notes of Guidance for Form 8 (Individual / Company)</strong>
 </p>
 <p>General guidance for persons entitled to apply and possible Respondents.
