@@ -145,7 +145,7 @@ be submitted for the President’s consideration.</p>
 <p>Applicant and Respondent will be issued a Notice of Mediation informing
 of the mediation date to attend before the Board. Both parties must attend
 the mediation.</p>
-<p>No fees are payable for the first two (2) mediations. Please see <a href="/resources/fees/bmsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;for
+<p>No fees are payable for the first two (2) mediations. Please see <a href="/resources/fees/bsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;for
 the mediation/hearing fees payable under the Building Maintenance and Strata
 Management (Strata Titles Boards) Regulations 2005.</p>
 <p><strong>What happens if the matter is settled with Respondent</strong>
