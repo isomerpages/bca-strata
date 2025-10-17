@@ -4,22 +4,22 @@ permalink: /resources/guidelines/
 description: ""
 variant: tiptap
 ---
-<h1>Guidelines - Building Maintenance and Strata Management Act</h1>
-<p>Guidelines for relevant forms under Part VI of the Building Maintenance
-and Strata Management Act</p>
+<h1>Guidelines - Building (Strata Management) Act</h1>
+<p>Guidelines for relevant forms under Part VI of the Building (Strata Management)
+Act</p>
 <p><strong>Notes of Guidance for Form 8 (Individual / Company)</strong>
 </p>
 <p>General guidance for persons entitled to apply and possible Respondents.
 Applicants should refer to actual provisions in the Act for their full
 meaning and effect. If unsure, Applicants should seek independent legal
-advice. <a href="/files/Guidelines/notes-of-guidance-for-form-8(individual-company).pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 8 (Individual / Company)</a>
+advice. <a href="/files/Guidelines/notes_of_guidance_for_form_8_individual_company___15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 8 (Individual / Company)</a>
 </p>
 <p><strong>Notes of Guidance for Form 9 (MCST)</strong>
 </p>
 <p>General guidance for persons entitled to apply and possible Respondents.
 Applicants should refer to actual provisions in the Act for their full
 meaning and effect. If unsure, Applicants should seek independent legal
-advice. <a href="/files/Guidelines/notes-of-guidance-for-form-9(mcst).pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 9 (MCST)</a>
+advice. <a href="/files/Guidelines/notes_of_guidance_for_form_9_mcst___15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Notes of Guidance for Form 9 (MCST)</a>
 </p>
 <p><strong>Withdrawal of Application Form (Applicant)</strong>
 </p>

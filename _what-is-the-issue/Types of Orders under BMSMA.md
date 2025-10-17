@@ -4,7 +4,7 @@ permalink: /what-is-the-issue/types-of-orders-under-bmsma/
 description: ""
 variant: markdown
 ---
-You should refer to Part VI (Division 2) of the Building Maintenance and Strata Management Act for the full meaning and effect of the provisions.
+You should refer to Part VI (Division 2) of the Building (Strata Management) Act for the full meaning and effect of the provisions.
 
 | Details |  | Relevant Section(s) of the BMSMA |
 | -------- | -------- | -------- |

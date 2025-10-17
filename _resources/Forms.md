@@ -26,9 +26,8 @@ Titles Boards.</p>
 <p>No legal advice can be given.</p>
 </li>
 </ol>
-<h3>Forms under Part VI of the Building Maintenance and Strata Management Act</h3>
-<p>These forms apply to an application under Part VI of the Building Maintenance
-and Strata Management Act.</p>
+<h3>Forms under Part VI of the Building (Strata Management) Act</h3>
+<p>These forms apply to an application under Part VI of the Building (Strata Management) Act.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -53,11 +52,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-8-09062025" rel="noopener noreferrer nofollow" target="_blank">Form No. 08</a>
+<p><a href="https://go.gov.sg/form8-application-form" rel="noopener noreferrer nofollow" target="_blank">Form No. 08</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_8_09062025.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
+<p><a href="/files/Forms/form_8__15102025_.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
 </p>
 <p></p>
 </td>
@@ -68,11 +67,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-9-09062025" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
+<p><a href="https://go.gov.sg/form9-application-form" rel="noopener noreferrer nofollow" target="_blank">Form No. 09</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form_9_09062025.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
+<p><a href="/files/Forms/form_9__15102025_.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
 </p>
 <p></p>
 </td>
@@ -83,11 +82,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/interlocutory-application-form-final" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
+<p><a href="https://go.gov.sg/ia-application-form" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/interlocutory_application_form_final_21_dec_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
+<p><a href="/files/Forms/Interlocutory_Application_Form__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
 </p>
 </td>
 </tr>
@@ -97,11 +96,11 @@ and Strata Management Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/notice-of-objection-to-interlocutory-application-form-13.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
+<p><a href="https://go.gov.sg/ia-objection-form" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/notice-of-objection-to-interlocutory-application-form-13.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
+<p><a href="/files/Forms/Form_13_Objection__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 13</a>
 </p>
 </td>
 </tr>

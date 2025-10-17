@@ -12,7 +12,7 @@ variant: markdown
 
 The Building and Construction Authority (BCA) is an agency under the Ministry of National Development (MND), championing the development of an excellent built environment for Singapore. “Built environment” refers to buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities.
 
-The Building Maintenance and Strata Management Act (BMSMA) is administered by the Commissioner of Buildings of the BCA. The “[**Strata Living in Singapore – A General Guide**](https://www1.bca.gov.sg/regulatory-info/building-maintenance-and-strata-management/management-corporation-strata-title-mcst/strata-living-guide "Strata Living in Singapore – A General Guide")” is a guide published by BCA to assist laypersons (owners) in understanding the key provisions in the BMSMA. The guide covers basic information on strata living to facilitate better management of strata developments.
+The Building (Strata Management) Act is administered by the Commissioner of Buildings of the BCA. The “[**Strata Living in Singapore – A General Guide**](https://www1.bca.gov.sg/regulatory-info/building-maintenance-and-strata-management/management-corporation-strata-title-mcst/strata-living-guide "Strata Living in Singapore – A General Guide")” is a guide published by BCA to assist laypersons (owners) in understanding the key provisions in the BMSMA. The guide covers basic information on strata living to facilitate better management of strata developments.
 
 Please note that the contents of Chapter 11 of the above guide have been updated (as at 31 Jan 2019) and can be downloaded [here](https://www1.bca.gov.sg/docs/default-source/docs-corp-regulatory/building-maintenance-and-strata-management/chapter11b1861f80e23e490cae1c4f01ea9ad9c3.pdf?sfvrsn=b16c892c_2).
 
@@ -38,7 +38,7 @@ The Land Titles (Strata) Act (LTSA) comes under the purview of MinLaw.
 
 Together with its statutory boards, the Ministry of National Development (MND) guides Singapore’s land use planning and urban development, delivers affordable and quality public housing solutions, develops an efficient construction industry to ensure a quality and sustainable built environment, provides and manages parks and open spaces, maintains a high standard of food safety as well as animal and plant health, and protects consumer interest by raising the professionalism in the real estate agent industry.
 
-The Strata Titles Boards is provided for in the Building Maintenance and Strata Management Act (BMSMA), which comes under the ambit of the MND.
+The Strata Titles Boards is provided for in the Building (Strata Management) Act, which comes under the ambit of the MND.
 
   
 ![Singapore Land Authority  ](/images/Useful%20Links%20%20Gov%20Logo/useful-link-sla.jpg)

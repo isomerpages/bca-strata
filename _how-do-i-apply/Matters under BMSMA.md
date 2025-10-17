@@ -4,7 +4,7 @@ permalink: /how-do-i-apply/matters-under-bmsma/
 description: ""
 variant: tiptap
 ---
-<h1>Steps relating to an application under Part VI of the Building Maintenance and Strata Management Act</h1>
+<h1>Steps relating to an application under Part VI of the Building (Strata Management) Act</h1>
 <h3>STEP 1: HOW TO FILE AN APPLICATION</h3>
 <p>Before filing the application, have you attempted the following:</p>
 <ol>
@@ -18,12 +18,11 @@ proprietors/ unit owners) to resolve the matter amicably.</p>
 <p><strong>Jurisdiction of the Board</strong>
 </p>
 <p>Not all disputes can be referred to the Strata Titles Boards. Only certain
-matters under Part VI (Division 2) of the Building Maintenance and Strata
-Management Act (Chap. 30C) can be heard by the Boards. If you are submitting
-an application, ensure that the orders you are seeking for, fall within
-the Board’s jurisdiction. Please seek independent legal advice if you are
-unsure. The Strata Titles Boards is an impartial tribunal and cannot give
-advice.</p>
+matters under Part VI (Division 2) of the Building (Strata Management)
+Act (Chap. 30C) can be heard by the Boards. If you are submitting an application,
+ensure that the orders you are seeking for, fall within the Board’s jurisdiction.
+Please seek independent legal advice if you are unsure. The Strata Titles
+Boards is an impartial tribunal and cannot give advice.</p>
 <p>If you have filed an application outside the Board’s jurisdiction, the
 Board may discontinue your application. Filing fees paid are not refundable.</p>
 <p>For matters that are outside the jurisdiction of Strata Titles Boards,
@@ -39,14 +38,14 @@ evidence,&nbsp;<strong>the minimum font size to be used is Times New Roman 12 or
 <li>
 <p><strong>Email Form 8 / Form 9 to stbapplication@mnd.gov.sg</strong>
 </p>
-<p>•&nbsp;(<a href="/files/Forms/form_8_09062025.pdf" rel="noopener nofollow" target="_blank">Form 8</a>)</p>
+<p>•&nbsp;(<a href="/files/Forms/form_8__15102025_.pdf" rel="noopener nofollow" target="_blank">Form 8</a>)</p>
 <p>If you are filing an application in your&nbsp;<strong>personal capacity</strong>,
 fill in and submit Form 8, which must be properly completed, legible and
 signed. Ensure that all owners of the property have signed on the form.
 Additionally, ensure that the sequence of events written in Section E of
 Form 8 is clear and concise, and written in chronological order (from the
 earliest date to the current date).</p>
-<p>•&nbsp;(<a href="/files/Forms/form_9_09062025.pdf" rel="noopener nofollow" target="_blank">Form 9</a>)</p>
+<p>•&nbsp;(<a href="/files/Forms/form_9__15102025_.pdf" rel="noopener nofollow" target="_blank">Form 9</a>)</p>
 <p>If you are filing an application for and on behalf of the&nbsp;<strong>management corporation</strong>&nbsp;of
 your property development, fill in and submit Form 9, which must be properly
 completed, legible and signed. Ensure that the sequence of events written
