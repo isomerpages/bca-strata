@@ -6,14 +6,15 @@ description: A case in the Strata Titles Boards commences when an Applicant
   Applicant and his/her application is filed against the person known as the
   Respondent.
 third_nav_title: Application
+variant: markdown
 ---
 # Types of Orders 
-[Types of orders under BMSMA](/what-has-been-filed-against-me/types-of-orders-under-bmsma/)
+[Types of orders under BSMA](/what-has-been-filed-against-me/types-of-orders-under-bmsma/)
 
 [Types of orders under LTSA](/what-has-been-filed-against-me/types-of-orders-under-ltsa/)
 
 # How to Respond
 
-[Matter under BMSMA](/how-do-i-respond/matter-under-bmsma/)
+[Matter under BSMA](/how-do-i-respond/matter-under-bmsma/)
 
 [Matter under LTSA](/how-do-i-respond/matter-under-ltsa/)
