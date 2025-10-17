@@ -9,12 +9,12 @@ third_nav_title: Application
 variant: markdown
 ---
 # Types of Orders 
-[Types of orders under BSMA](/what-has-been-filed-against-me/types-of-orders-under-bmsma/)
+[Types of orders under BSMA](/what-has-been-filed-against-me/types-of-orders-under-bsma/)
 
 [Types of orders under LTSA](/what-has-been-filed-against-me/types-of-orders-under-ltsa/)
 
 # How to Respond
 
-[Matter under BSMA](/how-do-i-respond/matter-under-bmsma/)
+[Matter under BSMA](/how-do-i-respond/matter-under-bsma/)
 
 [Matter under LTSA](/how-do-i-respond/matter-under-ltsa/)
