@@ -35,7 +35,7 @@ room.</p>
 <p>Examples of “appropriate attire” include formal wear, smart casual wear
 and traditional attire. Visitors dressed in singlets, shorts, slippers
 or other inappropriate attire will not be permitted to enter the room.</p>
-<p><strong>Q3: What are the relevant legislations applicable to an application filed under the BMSMA?</strong>
+<p><strong>Q3: What are the relevant legislations applicable to an application filed under the BSMA?</strong>
 </p>
 <p>The relevant legislations are the Building (Strata Management) Act and
 the Building Maintenance and Strata Management (Strata Titles Boards) Regulations
@@ -125,14 +125,14 @@ of the dispute, the Board may:</p>
 <p>No, as the meetings and mediations are private and confidential and ‘Without
 Prejudice’. Any minutes recorded by Strata Titles Boards are for its internal
 use only.</p>
-<p><strong>Q15: What section(s) of the BMSMA applies to my application case?</strong>
+<p><strong>Q15: What section(s) of the BSMA applies to my application case?</strong>
 </p>
 <p>The Strata Titles Boards is a quasi-judicial tribunal and we are unable
 to provide legal service. You should refer to the guide in your application
-form listing out sections of the BMSMA applicable and relevant to your
-application to the Strata Titles Boards.</p>
+form listing out sections of the BSMA applicable and relevant to your application
+to the Strata Titles Boards.</p>
 <p>Generally, if you wish to seek orders for any one (or more) of the following
-items, you may wish to refer to the following section(s) of the BMSMA as
+items, you may wish to refer to the following section(s) of the BSMA as
 stated in the table below:-</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -149,7 +149,7 @@ stated in the table below:-</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Relevant Section(s) of the BMSMA</p>
+<p>Relevant Section(s) of the BSMA</p>
 </th>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ stated in the table below:-</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Settlement of a dispute with respect to exercise of a duty imposed by
-BMSMA or the by-laws of the property</p>
+BSMA or the by-laws of the property</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -333,7 +333,7 @@ corporations</p>
 </tr>
 </tbody>
 </table>
-<p>You should refer to the actual provisions in the BMSMA for the full meaning
+<p>You should refer to the actual provisions in the BSMA for the full meaning
 and effect of the terms mentioned. If you are still unsure which section(s)
 applies to your case, you should seek independent legal advice.</p>
 <p><strong>Q16: What should I do if I settled the matter with the Respondent at any time after submitting my application form (and supporting documents) to Strata Titles Boards?</strong>
