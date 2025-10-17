@@ -4,7 +4,7 @@ collections:
     order:
       - Legislation.md
       - Fees/.keep
-      - Fees/BMSMA.md
+      - Fees/BSMA.md
       - Fees/LTSA (En bloc).md
       - Forms.md
       - Guidelines.md
