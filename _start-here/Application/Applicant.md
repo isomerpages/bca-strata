@@ -16,6 +16,6 @@ variant: markdown
 
 
 # How to Apply
- [Matters under BSMA](/how-do-i-apply/matters-under-bmsma/)
+ [Matters under BSMA](/how-do-i-apply/matters-under-bsma/)
 
 [Matters under LTSA](/how-do-i-apply/matters-under-ltsa/)
