@@ -4,8 +4,8 @@ permalink: /what-has-been-filed-against-me/types-of-orders-under-bsma/
 description: ""
 variant: tiptap
 ---
-<p>You should refer to Part VI (Division 2) of the Building Maintenance and
-Strata Management Act for the full meaning and effect of the provisions.</p>
+<p>You should refer to Part VI (Division 2) of the Building (Strata Management)
+Act for the full meaning and effect of the provisions.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
