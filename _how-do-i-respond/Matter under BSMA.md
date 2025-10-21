@@ -4,7 +4,7 @@ permalink: /how-do-i-respond/matter-under-bsma/
 description: ""
 variant: tiptap
 ---
-<h1>Steps relating to an application under Part VI of the Building Maintenance and Strata Management Act</h1>
+<h1>Steps relating to an application under Part VI of the Building (Strata Management) Act</h1>
 <h3>STEP 1: APPLICATION SERVED</h3>
 <p>If you have been served with an application to the Strata Titles Boards,
 it means that a dispute has been filed by your subsidiary proprietor/management
