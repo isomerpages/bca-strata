@@ -19,8 +19,8 @@ proprietors/ unit owners) to resolve the matter amicably.</p>
 </p>
 <p>Not all disputes can be referred to the Strata Titles Boards. Only certain
 matters under Part VI (Division 2) of the Building (Strata Management)
-Act (Chap. 30C) can be heard by the Boards. If you are submitting an application,
-ensure that the orders you are seeking for, fall within the Board’s jurisdiction.
+Act can be heard by the Boards. If you are submitting an application, ensure
+that the orders you are seeking for, fall within the Board’s jurisdiction.
 Please seek independent legal advice if you are unsure. The Strata Titles
 Boards is an impartial tribunal and cannot give advice.</p>
 <p>If you have filed an application outside the Board’s jurisdiction, the
