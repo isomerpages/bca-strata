@@ -1,6 +1,6 @@
 ---
-title: BMSMA
-permalink: /resources/fees/bmsma/
+title: BSMA
+permalink: /resources/fees/bsma/
 description: ""
 third_nav_title: Fees
 variant: markdown

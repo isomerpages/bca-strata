@@ -1,6 +1,6 @@
 ---
-title: Hearing (BMSMA)
-permalink: /start-here/hearing/bmsma/
+title: Hearing (BSMA)
+permalink: /start-here/hearing/bsma/
 description: ""
 third_nav_title: Hearing
 variant: markdown

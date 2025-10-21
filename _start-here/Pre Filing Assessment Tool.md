@@ -24,16 +24,16 @@ No. You may wish to refer to STB’s Notes of Guidance to see whether you are en
 
 Yes. Please proceed to the next question.
 
-No. Please refer to the relevant sections of the BMSMA to ensure that you have listed the Respondent(s) for the order(s) you are seeking accurately. If you are in doubt, you may wish to seek independent legal advice. 
-[You may wish to refer to the relevant sections of the BMSMA to verify who may be listed as the Respondent(s) for the order(s) you are seeking.]
+No. Please refer to the relevant sections of the BSMA to ensure that you have listed the Respondent(s) for the order(s) you are seeking accurately. If you are in doubt, you may wish to seek independent legal advice. 
+[You may wish to refer to the relevant sections of the BSMA to verify who may be listed as the Respondent(s) for the order(s) you are seeking.]
 
 4.       Have you considered whether the scope of the Board’s powers under the order(s) you are seeking are applicable/relevant to your case? 
 
 Yes. Please proceed to the next question.
 
-No. Please refer to the relevant sections of the BMSMA regarding the Board’s powers under the order(s) you are seeking to ensure relevance of the orders sought. If you are in doubt, you may wish to seek independent legal advice.
+No. Please refer to the relevant sections of the BSMA regarding the Board’s powers under the order(s) you are seeking to ensure relevance of the orders sought. If you are in doubt, you may wish to seek independent legal advice.
 
-[You may wish to refer to the relevant sections of the BMSMA to find out more about the types of orders a Board may make.]
+[You may wish to refer to the relevant sections of the BSMA to find out more about the types of orders a Board may make.]
 
 5.       Have you attempted to contact the Respondent(s) directly to check whether an amicable solution is possible before filing this application?
 

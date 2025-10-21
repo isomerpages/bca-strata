@@ -1,6 +1,6 @@
 ---
-title: Matter under BMSMA
-permalink: /how-do-i-respond/matter-under-bmsma/
+title: Matter under BSMA
+permalink: /how-do-i-respond/matter-under-bsma/
 description: ""
 variant: tiptap
 ---
@@ -24,10 +24,9 @@ to any Board member will be submitted for the President’s consideration.</p>
 <p>A&nbsp;<strong>Notice of Mediation</strong>&nbsp;will be issued to the
 Applicant and Respondent to attend a mediation at the Strata Titles Boards
 on a specified date and time. Both parties must attend the mediation.</p>
-<p>No fees are payable for the first two (2) mediations. Please see&nbsp;
-<a href="https://www.stratatb.gov.sg/resources/fees/bmsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;under ‘Resources’ for the mediation/hearing fees payable
-under the Building Maintenance and Strata Management (Strata Titles Boards)
-Regulations 2005.</p>
+<p>No fees are payable for the first two (2) mediations. Please see <a href="/resources/fees/bsma/" rel="noopener noreferrer nofollow" target="_blank">Fees</a>&nbsp;under
+‘Resources’ for the mediation/hearing fees payable under the Building Maintenance
+and Strata Management (Strata Titles Boards) Regulations 2005.</p>
 <h3>STEP 4: MAKE A SUBMISSION/DEFENCE</h3>
 <p>Strata Titles Boards will inform you that you may file a response (submission
 or defence) on the case and you have fourteen (14) days from the date of

@@ -1,6 +1,6 @@
 ---
-title: Mediation (BMSMA)
-permalink: /start-here/mediation/bmsma/
+title: Mediation (BSMA)
+permalink: /start-here/mediation/bsma/
 description: ""
 third_nav_title: Mediation
 variant: markdown
