@@ -85,7 +85,7 @@ with the Interlocutory Application. The application shall be heard before
 the Board if the Respondent objects to this application.</p>
 <p><strong>Q10: What should the Applicant or the Respondent do if he/she wants to add another party to the proceedings?</strong>
 </p>
-<p>He has to submit an Interlocutory Application <strong><a href="/files/Forms/Interlocutory_Application_Form__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">(Interlocutory Application Form)</a>&nbsp;– Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board)</strong>.
+<p>He has to submit an Interlocutory Application <strong><a href="/files/Forms/ia_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">(Interlocutory Application Form)</a>&nbsp;– Interlocutory Application to Registrar for Order other than Amendment of Application or Document furnished to a Board)</strong>.
 The procedure is similar to that mentioned above.</p>
 <p>The Interlocutory Application must also be served on the intended third
 party who will be added to the proceedings.</p>
