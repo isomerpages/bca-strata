@@ -56,7 +56,7 @@ Titles Boards.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form_8__15102025_.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
+<p><a href="/files/Forms/form8_application_form.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
 </p>
 <p></p>
 </td>
@@ -86,7 +86,7 @@ Titles Boards.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/Interlocutory_Application_Form__15102025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
+<p><a href="/files/Forms/ia_application_form.pdf" rel="noopener noreferrer nofollow" target="_blank">Interlocutory Application Form</a>
 </p>
 </td>
 </tr>
@@ -175,11 +175,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form-21.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 21</a>
+<p><a href="https://go.gov.sg/form21" rel="noopener noreferrer nofollow" target="_blank">Form No. 21</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form-21.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 21</a>
+<p><a href="/files/Forms/form_21.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 21</a>
 </p>
 </td>
 </tr>
@@ -189,11 +189,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form-21a.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 21A</a>
+<p><a href="https://go.gov.sg/form21a" rel="noopener noreferrer nofollow" target="_blank">Form No. 21A</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form-21a.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 21A</a>
+<p><a href="/files/Forms/form_21a.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 21A</a>
 </p>
 </td>
 </tr>
@@ -203,11 +203,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form-22.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 22</a>
+<p><a href="https://go.gov.sg/-form-22" rel="noopener noreferrer nofollow" target="_blank">Form No. 22</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form-22.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 22</a>
+<p><a href="/files/Forms/form_22.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 22</a>
 </p>
 </td>
 </tr>
@@ -217,11 +217,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form-23.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 23</a>
+<p><a href="https://go.gov.sg/-form-23" rel="noopener noreferrer nofollow" target="_blank">Form No. 23</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form-23.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 23</a>
+<p><a href="/files/Forms/form_23.pdf" rel="noopener noreferrer nofollow" target="_blank">Form No. 23</a>
 </p>
 </td>
 </tr>
@@ -231,11 +231,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-24-09092024" rel="noopener noreferrer nofollow" target="_blank">Form No. 24</a>
+<p><a href="https://go.gov.sg/form24" rel="noopener noreferrer nofollow" target="_blank">Form No. 24</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form_24_09092024.pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
+<p><a href="/files/Forms/form_24.pdf" rel="noopener nofollow" target="_blank">Form No. 24</a>
 </p>
 </td>
 </tr>
@@ -245,11 +245,11 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/form-25-25082025" rel="noopener noreferrer nofollow" target="_blank">Form No. 25</a>
+<p><a href="https://go.gov.sg/form25" rel="noopener noreferrer nofollow" target="_blank">Form No. 25</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.stratatb.gov.sg/files/Forms/form_25_25082025.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
+<p><a href="/files/Forms/form_25.pdf" rel="noopener nofollow" target="_blank">Form No. 25</a>
 </p>
 </td>
 </tr>
