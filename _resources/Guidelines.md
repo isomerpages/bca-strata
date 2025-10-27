@@ -58,7 +58,7 @@ the specified person(s) to represent the company at STB proceedings.</p>
 </li>
 </ul>
 <p><strong>All authorised representatives must be familiar with the facts of the case and should be given the mandate to make decisions on behalf of the Applicant/Respondent.</strong>
-<a href="https://file.go.gov.sg/sample-letter-of-authorisation.docx" rel="noopener noreferrer nofollow" target="_blank">Sample Letter of Authorisation (Personal Capacity)</a>
+<a href="https://go.gov.sg/sample-loa-personal-capacity" rel="noopener noreferrer nofollow" target="_blank">Sample Letter of Authorisation (Personal Capacity)</a>
 </p>
 <h3>Guidelines - Land Titles (Strata) Act</h3>
 <p>Guidelines for collective sale applications under Part VA of the Land
