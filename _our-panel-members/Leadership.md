@@ -92,9 +92,6 @@ variant: markdown
         <p></p>
       </th>
       <th rowspan="1" colspan="1">
-        <p></p>
-      </th>
-      <th rowspan="1" colspan="1">
         <p>Profession</p>
       </th>
 </tr>
