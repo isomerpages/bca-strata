@@ -127,7 +127,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Raymond Lye Hoong Yip,
-<br>BBM(L), PBM
+<br>BBM(L), BBM, PBM
 <br>
 </p>
 </td>
