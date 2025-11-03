@@ -111,7 +111,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Retired District Judge&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp;&nbsp;</p>
+&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;</p>
 </td>
 </tr>
 <tr>
