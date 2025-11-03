@@ -84,15 +84,17 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Deputy Presidents</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p><strong>Deputy Presidents</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Profession</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Profession</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -102,24 +104,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr. Remedios Francis George,
-<br>PPA(E)
-<br>
-</p>
+<br>PPA(E)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Retired District Judge&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp;&nbsp;</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
