@@ -104,3 +104,9 @@ Transfer).</p>
 </p>
 <p>You may appoint your own interpreter and you shall notify the registrar
 and provide details of the interpreter 7 days before the date of mediation/hearing.</p>
+<p><strong>Q15: Why do I need to provide my complete NRIC number instead of partial NRIC number?</strong>
+</p>
+<p>Under the Government Instruction Manual, Public Agencies are to phase
+out the use of partial NRIC numbers. Full NRIC numbers should be used as
+identifier when Agencies assess there is a necessity to accurately identify
+a person or fulfil a legal requirement.</p>
