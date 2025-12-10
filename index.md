@@ -20,7 +20,7 @@ sections:
           url: /resources/useful-links/
         - title: FAQs
           description: ""
-          url: /resources/faqs/bmsma/
+          url: /resources/faqs/bsma/
       background: /images/Court_Room__after__2_15.jpg
       variant: center
   - infopic:
