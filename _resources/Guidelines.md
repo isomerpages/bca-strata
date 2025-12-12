@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Guidelines - Building (Strata Management) Act</h1>
 <p>Guidelines for applications under Division 2 of Part VI of the Building
 (Strata Management) Act</p>
-<p><strong>Notes of Guidance </strong>
+<p><strong>Notes of Guidance</strong>
 </p>
 <p>General guidance for persons/entities entitled to apply and possible Respondents.
 Applicants should refer to actual provisions in the Act for their full
@@ -19,13 +19,13 @@ advice. <a href="/files/Guidelines/combined__notes_of_guidance__combined__11_12_
 </p>
 <p>The Applicant is required to print out and complete the withdrawal of
 application form to discontinue his/her case at Strata Titles Boards.
-<a href="/files/Guidelines/withdrawal-of-application-form(applicant)-060821.pdf" rel="noopener noreferrer nofollow" target="_blank">Withdrawal of Application Form (Applicant)</a>
+<a href="/files/Forms/withdrawal_of_application_form_applicant_29072025.pdf" rel="noopener nofollow" target="_blank">Withdrawal of Application Form (Applicant)</a>
 </p>
 <p><strong>Consent to Withdrawal of Application Form (Respondent)</strong>
 </p>
 <p>Please note that the Respondent can only complete the consent to withdrawal
 of application form after the Applicant has filed his/her completed withdrawal
-of application form. <a href="/files/Guidelines/consent-to-withdrawal-of-application-form(respondent)-06082021.pdf" rel="noopener noreferrer nofollow" target="_blank">Consent to Withdrawal of Application Form (Respondent)</a>
+of application form. <a href="/files/Forms/consent_to_withdrawal_of_application_form_respondent_29072025.pdf" rel="noopener nofollow" target="_blank">Consent to Withdrawal of Application Form (Respondent)</a>
 </p>
 <p><strong>Sample Letter of Authorisation (Personal Capacity)</strong>
 </p>
