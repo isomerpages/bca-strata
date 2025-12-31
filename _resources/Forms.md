@@ -2,7 +2,7 @@
 title: Forms
 permalink: /resources/forms/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Important notes on Strata Titles Boards’ forms</h1>
 <div class="isomer-image-wrapper">
@@ -27,7 +27,8 @@ Titles Boards.</p>
 </li>
 </ol>
 <h3>Forms under Part VI of the Building (Strata Management) Act</h3>
-<p>These forms apply to an application under Part VI of the Building (Strata Management) Act.</p>
+<p>These forms apply to an application under Part VI of the Building (Strata
+Management) Act.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -259,7 +260,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form26.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 26</a>
+<p><a href="https://go.gov.sg/-form26" rel="noopener noreferrer nofollow" target="_blank">Form No. 26</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,7 +288,7 @@ Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/form28.docx" rel="noopener noreferrer nofollow" target="_blank">Form No. 28</a>
+<p><a href="https://go.gov.sg/-form28" rel="noopener noreferrer nofollow" target="_blank">Form No. 28</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
