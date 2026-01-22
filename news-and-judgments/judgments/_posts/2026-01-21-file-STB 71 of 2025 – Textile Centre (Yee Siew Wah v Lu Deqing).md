@@ -1,5 +1,5 @@
 ---
-title: STB 71 of 2025 – Textile Centre
+title: STB 71 of 2025 – Textile Centre (Yee Siew Wah v Lu Deqing)
 date: 2026-01-21
 layout: file
 description: ""
