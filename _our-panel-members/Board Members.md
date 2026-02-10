@@ -602,7 +602,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mr_chan_chee_kong_v3.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Mr_Chan_Chee_Kong__final_x.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
