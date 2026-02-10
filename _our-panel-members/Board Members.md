@@ -25,7 +25,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/ms-lee-lay-see.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/ms-lee-lay-see.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-lim-lan-yuan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tang-tuck-kim.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tang-tuck-kim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lai-huen-poh.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lai-huen-poh.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lee-coo.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lee-coo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-kong-mun-kwong.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-kong-mun-kwong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +122,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-gnee-kiang.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-gnee-kiang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +136,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/assoc-prof-lye_lin_heng-v2.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/assoc-prof-lye_lin_heng-v2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,7 +152,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/prof-teo-keang-sood.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/prof-teo-keang-sood.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -168,7 +168,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-frankie-chia.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-frankie-chia.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-boon-cheng.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lim-boon-cheng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -197,7 +197,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-richard-tan-ming-kirk.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-richard-tan-ming-kirk.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -210,7 +210,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-winston-hauw.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-winston-hauw.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-kim-mun.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-kim-mun.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-periowsamy.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-periowsamy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -253,7 +253,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-ewe-jin.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-chan-ewe-jin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +266,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-loh-kwi-leong.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-loh-kwi-leong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tan-kian-hoon.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tan-kian-hoon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -296,7 +296,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lawrence-ang.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-lawrence-ang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -312,7 +312,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-tan-teng-hooi.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-tan-teng-hooi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,7 +325,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tony-tay-chye-teck.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-tony-tay-chye-teck.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +339,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mr_chan_kok_way2.bmp">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/mr_chan_kok_way2.bmp">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -352,7 +352,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-elaine-chew-yi-ling.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-elaine-chew-yi-ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -365,7 +365,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-zahidi-bin-abdul-rahman.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mr-zahidi-bin-abdul-rahman.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -381,7 +381,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-hazel.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-hazel.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -394,7 +394,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-helen-chen.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-helen-chen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,7 +410,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mdm-monica-neo.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/mdm-monica-neo.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -423,7 +423,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/dr-edward-ti.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -437,7 +437,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ar-siti-habibah-siraj.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ar-siti-habibah-siraj.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,7 +450,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/shahrom-mohamed-ariff.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/shahrom-mohamed-ariff.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,7 +463,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/er-jacqueline-chan.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/er-jacqueline-chan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -476,7 +476,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/alli-ruthirapathi.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/alli-ruthirapathi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -492,7 +492,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/geraldine-yang.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/geraldine-yang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -505,7 +505,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/june-fong.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/june-fong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -518,7 +518,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/charis-tan.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/charis-tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -531,7 +531,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/sim-kai-li.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/sim-kai-li.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -544,7 +544,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ting-thiam-siu.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ting-thiam-siu.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -557,7 +557,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/lee-cheng-sun.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/lee-cheng-sun.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -570,7 +570,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-jennifer-marie.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our%20Panel%20Members/Board%20of%20Members/ms-jennifer-marie.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -588,7 +588,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/bala_reddy.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/bala_reddy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,10 +602,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Mr_Chan_Chee_Kong__2_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Mr_Chan_Chee_Kong.jpg">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Mr_Chan_Chee_Kong__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -619,7 +616,7 @@ variant: markdown
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Goh_Heng_Hoon.png">
+<img style="max-width: 140px;display: inline;" height="auto" width="100%" alt="" src="/images/Our Panel Members/Board of Members/Goh_Heng_Hoon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
