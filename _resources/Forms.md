@@ -57,7 +57,7 @@ Management) Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form8_application_form__31122025_.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
+<p><a href="/files/Forms/form8_application_form__revised_28_04_2026_.pdf" rel="noopener nofollow" target="_blank">Form No. 08</a>
 </p>
 <p></p>
 </td>
@@ -72,7 +72,7 @@ Management) Act.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Forms/form9_application_form__31122025_.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
+<p><a href="/files/Forms/form9_application_form__revised_28_04_2026_.pdf" rel="noopener nofollow" target="_blank">Form No. 09</a>
 </p>
 <p></p>
 </td>
