@@ -12,7 +12,7 @@ variant: markdown
 
 The Building and Construction Authority (BCA) is an agency under the Ministry of National Development (MND), championing the development of an excellent built environment for Singapore. “Built environment” refers to buildings, structures and infrastructure in our surroundings that provide the setting for the community’s activities.
 
-The Building (Strata Management) Act is administered by the Commissioner of Buildings of the BCA. The set of “[**Strata Management Guides**](go.gov.sg/bca-smg")” published by BCA covers basic information on strata living to facilitate better management of strata developments.
+The Building (Strata Management) Act is administered by the Commissioner of Buildings of the BCA. The set of “[**Strata Management Guides**](https://go.gov.sg/bca-smg")” published by BCA covers basic information on strata living to facilitate better management of strata developments.
 
   
 ![CMC](/images/Useful%20Links%20%20Gov%20Logo/useful-link-cmc.jpg)
